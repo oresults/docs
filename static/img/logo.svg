@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="3.3cm"
+   height="3.3cm"
+   viewBox="0 0 33 33"
+   version="1.1"
+   id="svg8"
+   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20)"
+   sodipodi:docname="bluebox-logo-white.svg"
+   inkscape:export-filename="C:\Users\janju\ownCloud\school\CVUT\bluebox\graphics\logo\bluebox-logo-transparent.png"
+   inkscape:export-xdpi="225.77779"
+   inkscape:export-ydpi="225.77779"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <defs
+     id="defs2" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.98994949"
+     inkscape:cx="185.36299"
+     inkscape:cy="215.16249"
+     inkscape:document-units="mm"
+     inkscape:current-layer="g909"
+     showgrid="false"
+     units="cm"
+     inkscape:window-width="2560"
+     inkscape:window-height="1371"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:pagecheckerboard="0" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-7.8167785,-257.99999)">
+    <g
+       id="g909"
+       transform="translate(-32.603859,157.81791)">
+      <g
+         transform="matrix(0.65405407,0,0,0.65405407,26.559042,-9.6265034)"
+         id="g894">
+        <rect
+           style="opacity:1;vector-effect:none;fill:#0b409c;fill-opacity:1;stroke:#0b409c;stroke-width:5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
+           id="rect5097"
+           width="45.454544"
+           height="45.454544"
+           x="23.693348"
+           y="170.38914" />
+        <g
+           id="g851"
+           transform="matrix(1.1407404,0,0,1.1407404,-12.698464,-25.394531)">
+          <rect
+             style="fill:#ffffff;stroke-width:0.0681818"
+             x="48.279732"
+             y="176.55186"
+             width="7.0909095"
+             height="3.2727273"
+             rx="0.81818181"
+             id="rect987" />
+          <path
+             style="fill:#ffffff;stroke-width:0.0681818"
+             inkscape:connector-curvature="0"
+             d="m 60.799142,185.91684 0.877295,-0.87736 a 0.81818184,0.81818184 0 1 0 -1.157045,-1.15705 l -0.913091,0.91302 a 12.221932,12.221932 0 0 0 -6.14475,-2.67995 v -1.47273 h -3.272728 v 1.47273 a 12.221932,12.221932 0 0 0 -6.14475,2.67954 l -0.913091,-0.91302 a 0.81818184,0.81818184 0 1 0 -1.157045,1.15705 l 0.877295,0.87736 a 12.226841,12.226841 0 0 0 -3.298773,8.36271 c 0,6.76718 5.505546,12.27272 12.272728,12.27272 6.767182,0 12.272728,-5.50554 12.272728,-12.27272 a 12.226841,12.226841 0 0 0 -3.298773,-8.3623 z m -8.973955,18.4532 a 10.090909,10.090909 0 1 1 10.090909,-10.0909 10.090909,10.090909 0 0 1 -10.090909,10.0909 z"
+             id="path999" />
+          <path
+             transform="scale(1,-1)"
+             d="m 60.295247,-194.27913 a 8.4700594,8.4700594 0 0 1 -8.405631,8.46982 l -0.06443,-8.46982 z"
+             sodipodi:end="1.5631896"
+             sodipodi:start="0"
+             sodipodi:ry="8.4700594"
+             sodipodi:rx="8.4700594"
+             sodipodi:cy="-194.27913"
+             sodipodi:cx="51.825188"
+             sodipodi:type="arc"
+             id="path1068"
+             style="opacity:1;vector-effect:none;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.181318;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers fill stroke"
+             sodipodi:arc-type="slice" />
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>
