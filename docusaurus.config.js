@@ -8,7 +8,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 const config = {
   title: 'OResults',
   tagline: 'powered by Bluebox',
-  url: 'https://oresults.netlify.app',
+  url: 'https://docs.oresults.eu',
   baseUrl: '/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
@@ -81,6 +81,20 @@ const config = {
         darkTheme: darkCodeTheme,
       },
     }),
+
+  plugins: [
+    ['@dipakparmar/docusaurus-plugin-umami', {
+      // options
+      websiteID: "f7c1c4f7-337a-490e-9902-df2aa1f34037", // Required
+      analyticsDomain: "analytics.otahirs.cz", // Required
+      scriptName: "", 
+      dataHostURL: "",
+      dataAutoTrack: true,
+      dataDoNoTrack: true,
+      dataCache: true,
+      dataDomains: "", // comma separated list of domains, *Recommended*
+    }],
+  ],
 };
 
 module.exports = config;
