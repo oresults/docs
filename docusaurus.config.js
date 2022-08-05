@@ -87,7 +87,7 @@ const config = {
       // options
       websiteID: "f7c1c4f7-337a-490e-9902-df2aa1f34037", // Required
       analyticsDomain: "analytics.otahirs.cz", // Required
-      scriptName: "dQw4w9WgXcQ", 
+      scriptName: "dQw4w9WgXcQ.js", 
       dataHostURL: "",
       dataAutoTrack: true,
       dataDoNoTrack: true,
