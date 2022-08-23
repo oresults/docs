@@ -1,0 +1,10 @@
+{
+  "title": {
+    "message": "Uživatelská příručka",
+    "description": "The title in the navbar"
+  },
+  "item.label.OResults.eu": {
+    "message": "OResults.eu",
+    "description": "Navbar item with label OResults.eu"
+  }
+}

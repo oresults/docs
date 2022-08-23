@@ -24,7 +24,7 @@ const config = {
   // to replace "en" with "zh-Hans".
   i18n: {
     defaultLocale: 'en',
-    locales: ['en'],
+    locales: ['en', 'cs'],
   },
 
   presets: [
@@ -59,15 +59,19 @@ const config = {
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
       navbar: {
-        title: 'OResults',
+        title: 'User Guide',
         logo: {
           alt: 'My Site Logo',
           src: 'img/logo.svg',
         },
         items: [
           {
-            href: 'https://github.com/oresults/docs',
-            label: 'GitHub',
+            type: 'localeDropdown',
+            position: 'right'
+          },
+          {
+            href: 'https://oresults.eu',
+            label: 'OResults.eu',
             position: 'right',
           },
         ],
