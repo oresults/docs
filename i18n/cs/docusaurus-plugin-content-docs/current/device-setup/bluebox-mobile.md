@@ -12,7 +12,7 @@ Jedná se o beta verzi aplikace, takže se mohou objevit drobné chyby.
 - 1x USB na micro USB / USB-C adaptér podle zařízení
 - 1x [SPORTident USB dongle](https://www.sportident.com/documents/si-radio/SRR-Kit/SPORTident_SRR-Dongle.pdf)
 
-![SPORTident USB dongle](/img/dongle_transparent.png){width=20%}
+<img src="/img/dongle_transparent.png" width="20%" alt="SPORTident USB dongle"/>
 
 SPORTident USB dongle
 

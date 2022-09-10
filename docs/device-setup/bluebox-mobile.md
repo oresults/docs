@@ -12,7 +12,7 @@ This is a beta version of the app so small bugs may appear.
 - 1x USB to micro USB / USB-C adapter based on your device
 - 1x [SPORTident USB dongle](https://www.sportident.com/documents/si-radio/SRR-Kit/SPORTident_SRR-Dongle.pdf)
 
-![SPORTident USB dongle](/img/dongle_transparent.png){width=20%}
+<img src="/img/dongle_transparent.png" width="20%" alt="SPORTident USB dongle"/>
 
 # Before the event
 
