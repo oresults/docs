@@ -2,7 +2,9 @@
 
 Před použitím Bluebox Mobile aplikace si přečtěte tyto pokyny.
 
-**Pozn.: Jedná se o beta verzi aplikace, takže se mohou objevit drobné chyby.**
+:::note
+Jedná se o beta verzi aplikace, takže se mohou objevit drobné chyby.
+:::
 
 # Potřebné vybavení
 
@@ -10,7 +12,7 @@ Před použitím Bluebox Mobile aplikace si přečtěte tyto pokyny.
 - 1x USB na micro USB / USB-C adaptér podle zařízení
 - 1x [SPORTident USB dongle](https://www.sportident.com/documents/si-radio/SRR-Kit/SPORTident_SRR-Dongle.pdf)
 
-<img src="/img/dongle_transparent.png" width="20%" />
+![SPORTident USB dongle](/img/dongle_transparent.png){width=20%}
 
 SPORTident USB dongle
 
@@ -18,17 +20,17 @@ SPORTident USB dongle
 
 ## Stáhnětě a nainstalujte aplikaci
 
-Nejnovější verzi aplikace Bluebox Mobile najdete na *ODKAZU*.
+Nejnovější verzi aplikace Bluebox Mobile najdete pod záložkou Zařízení v admin sekci OResults.
 
 Nainstalujte aplikaci pomocí staženého instalačního souboru. Možná bude potřeba povolit instalaci z neznámých zdrojů.
 
 ## Nastavení aplikace
 
-Při prvním spuštění aplikace otevřete nastavení aplikace a vyplňte **API** **token**. API tokeny naleznete v admin sekci OResults (viz *odkaz Jak nastavit událost*).
+Při prvním spuštění aplikace otevřete nastavení aplikace a vyplňte **API token**. API tokeny naleznete v admin sekci OResults.
 
-Volitelně můžete nastavit, na kterém kanálu bude váš USB dongle přijímat záznamy o ražení (viz *odkaz Jak nastavit radiokontrolu*).
+Volitelně můžete nastavit, na kterém kanálu bude váš USB dongle přijímat záznamy o ražení (viz [Jak nastavit radiokontrolu](./radio-control.md)).
 
-<img src="/img/Screenshot_20220820-215516_Bluebox_Mobile.jpg" width="45%" />
+<img src="/img/Screenshot_20220820-215516_Bluebox_Mobile.jpg" width="40%" />
 
 ## Připojte USB dongle
 
@@ -42,8 +44,8 @@ Chcete-li spustit aplikaci, **zvolte připojený USB dongle**, který se zobraz�
 
 Po správném spuštění aplikace se na Status obrazovce zobrazí nápis **Conneted**. **Aplikace čte záznamy ražení** z USB donglu a **odesílá** je **na server** pouze tehdy, pokud jste **na obrazovce Status**. Přijaté záznamy o ražení se rovněž zobrazují na Status obrazovce.
 
-<img src="/img/Screenshot_20220820-215619_Bluebox_Mobile.jpg" width="45%" style={{marginRight: "10px"}} />
-<img src="/img/Screenshot_20220820-215729_Bluebox_Mobile.jpg" width="45%" />
+<img src="/img/Screenshot_20220820-215619_Bluebox_Mobile.jpg" width="30%" style={{marginRight: "10px"}} />
+<img src="/img/Screenshot_20220820-215729_Bluebox_Mobile.jpg" width="30%" />
 
 Lze použít battery save mode pomocí ikony zámku v záhlaví. Tím se obrazovka ztmaví na minimum.
 
