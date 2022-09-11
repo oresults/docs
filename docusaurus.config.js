@@ -6,7 +6,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'OResults',
+  title: 'OResults User Guide',
   tagline: 'powered by Bluebox',
   url: 'https://docs.oresults.eu',
   baseUrl: '/',
@@ -59,15 +59,15 @@ const config = {
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
       navbar: {
-        title: 'User Guide',
+        title: 'OResults User Guide',
         logo: {
-          alt: 'My Site Logo',
-          src: 'img/logo.svg',
+          alt: 'OResults logo',
+          src: 'img/oresults-icon-blue.svg',
         },
         items: [
           {
             type: 'localeDropdown',
-            position: 'right'
+            position: 'left'
           },
           {
             href: 'https://oresults.eu',
