@@ -1,58 +1,66 @@
-# Jak používat Bluebox jednotky
+---
+sidebar_position: 2
+---
 
-Pokud máte zájem o pronájem Bluebox jednotek na vaši akci, podívejte se na *možnosti pronájmu (odkaz)*.
+# Jak používat Bluebox jednotky
 
 Před jakoukoliv manipulací s Bluebox jednotkami si přečtěte tyto pokyny.
 
-# Před závodem
+<img src="/img/Bluebox_unit.png" width="40%" style={{marginRight: "15px"}} />
 
-## Zapnutí jednotek
+## Před závodem
 
-**Před zapnutím každé jednotky musí být na její boční stranu přimontována externí anténa**.
+### Pronájem
+
+Pokud máte zájem o pronájem Bluebox jednotek na vaši akci, podívejte se na [OResults/Organize](https://oresults.eu/organize).
+
+### Zapnutí jednotek
 
 Jednotky se zapínají spínačem umístěným na boku.
 
-## Nabíjte jednotky
+:::caution Pozor
+Před zapnutím každé jednotky musí být na její boční stranu přimontována externí anténa.
+:::
 
-**Před každou akcí se ujistěte**, že **jednotky** jsou řádně **nabité**. Pro kontrolu stavu baterie musí být jednotka zapnutá a připojená k síti.
+### Nabíjte jednotky
 
-Úroveň nabití baterie můžete zkontrolovat v sekci nastavení události (viz *odkaz na příručku nastavení události*).
+:::caution Pozor
+Před každou akcí se ujistěte, že jednotky jsou řádně nabité.
+:::
 
-Jednotky se nabíjejí pomocí micro USB konektoru, který se nachází pod krytem na boku každé jednotky.
+Jednotky se nabíjejí pomocí micro USB konektoru, který se nachází pod krytem na boku každé jednotky. Použijte nabíječku dodanou v zapůjčené sadě. V případě, že chcete použít vlastní nabíječku, musí mít jmenovité výstupní napětí 5V.
 
-Použijte nabíječku dodanou v zapůjčené sadě. V případě, že chcete použít vlastní nabíječku, musí mít jmenovité výstupní napětí 5V.
-
-## Zkontrolujte signál
-
-**Make sure** that there is **any mobile** network **signal** in the places **where** you want to place **your radio control points.** The Bluebox units work on the Edge (2G) signal and are able to reliably send punch records even with a weak signal. One or two lines of the signal are enaugh.
-
-At the moment, all units are equipped with active SIM cards from T-Mobile CZ.
-
-**Ujistěte se**, že ve všech místech, kam chcete umístit **vaše rádiokontroly**, je k dispozici **mobilní** **signál**. Jednotky Bluebox pracují na signálu Edge (2G) a jsou schopny spolehlivě odesílat záznamy o ražení i při slabém signálu. Stačí jedna nebo dvě čárky signálu.
+### Zkontrolujte signál
 
 V současné době jsou všechny jednotky vybaveny aktivními SIM kartami od T-Mobile.
 
-# V den závodu
+**Ujistěte se**, že ve všech místech, kam chcete umístit **vaše rádiokontroly**, je k dispozici **mobilní** **signál**. Jednotky Bluebox pracují na signálu Edge (2G) a jsou schopny spolehlivě odesílat záznamy o ražení i při slabém signálu. Stačí jedna nebo dvě čárky signálu.
 
-## Umístění jednotek
+:::info
+Pro informace, jak sledovat úroveň nabití baterie a sílu signálu navštivte [Monitoring zařízení](./device-monitoring).
+:::
 
-Jednotky musí být umístěny přibližně ve stejné výšce jako SI krabička ve **vzdálenosti maximálně 2 metrů**, aby byla zajištěna spolehlivá detekce razících záznamů.
+## V den závodu
 
-Jednotky lze nacvaknout na standardní držák krabičky SI-BSF7.
+### Umístění jednotek
 
-Jednotky lze umístit na stejný stojan jako SI krabička nebo na samostatný kontrolní stojan vedle sebe, jak je znázorněno na obrázcích.
+Jedna jednotka je schopna přijímat razící záznami až z 8 SI-SRR krabiček (viz [Jak nastavit radio kontrolu](./radio-control.md))
 
-Jedna jednotka je schopna přijímat razící záznami až z 8 SI-SRR krabiček (viz *link Jak nastavit radiokontrolu*)
+:::caution Pozor
+Jednotky musí být umístěny přibližně **ve stejné výšce jako SI krabička** ve **vzdálenosti maximálně 2 metrů**, aby byla zajištěna spolehlivá detekce razících záznamů.
+:::
 
-<img src="/img/bb-sprintovky.jpg" width="45%" style={{marginRight: "10px"}} />
-<img src="/img/velikonoce.jpg" width="45%" />
+:::tip
+Jednotky lze nacvaknout na standardní držák krabičky SI-BSF7. Jednotky lze umístit na stejný stojan jako SI krabička nebo na samostatný kontrolní stojan vedle sebe, jak je znázorněno na obrázcích.
+:::
 
 :::caution Pozor
 Jednotky ještě nejsou plně vodotěsné, takže pokud hrozí silný déšť, měly by být zakryty nepromokavým sáčkem nebo jiným obalem.
 :::
 
-## Monitoring
+<img src="/img/bb-sprintovky.jpg" width="45%" style={{marginRight: "10px"}} />
+<img src="/img/velikonoce.jpg" width="45%" />
 
-Monitoring jednotek je k dispozici po přihlášení do admin účtu OResults. Zde můžete sledovat, zda jsou jednotky online, úroveň baterie, sílu signálu, příchozí záznamy ražení a další údaje.
+### Monitoring
 
-Další informace o monitorování jednotek naleznete v části *nastavení událostí (odkaz)*.
+>Viz [Monitoring zařízení](./device-monitoring)

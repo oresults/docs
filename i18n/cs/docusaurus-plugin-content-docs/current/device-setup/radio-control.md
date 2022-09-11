@@ -6,9 +6,9 @@ sidebar_position: 1
 
 Tento manuál popisuje, jak nastavit radiokontroly při použití [systému SPORTident](https://www.sportident.com/).
 
-Informace o fungování systému Bluebox naleznete na *link_to_about_page*.
+Informace o fungování systému Bluebox naleznete na [OResults/About](https://oresults.eu/about).
 
-# Potřebné vybavení
+## Potřebné vybavení
 
 Pro každou radiokontrolu potřebujete:
 
@@ -17,12 +17,12 @@ Pro každou radiokontrolu potřebujete:
 - Jedno zařízení [Bluebox unit](bluebox-units) nebo [Bluebox Mobile](bluebox-mobile).
 
 :::tip
-Některé kluby a pořadatelé vlastní SRR stanice  a USB dongly pro zařízení Bluebox Mobile. Pokud nemáte vlastní, je možné si je pronajmout (viz odkaz Možnost pronájmu).
+Některé kluby a pořadatelé vlastní SRR stanice  a USB dongly pro zařízení Bluebox Mobile. Pokud nemáte vlastní, je možné si je pronajmout (viz [OResults/Organize](https://oresults.eu/organize)).
 :::
 
-# Před závodem
+## Před závodem
 
-## Nastavení SI stanice
+### Nastavení SI stanice
 
 SPORTident stanice se nastavují pomocí softwaru [SPORTident Config+](https://www.sportident.com/products.html#software).
 
@@ -46,16 +46,18 @@ Ostatní parametry mohou být nastaveny volně podle potřeb závodu.
 
 <img src="/img/Untitled%201.png" width="100%" />
 
-# V den závodu
+## V den závodu
 
-## Umístění radiokontroly
+### Umístění radiokontroly
 
 SRR stanice fungují stejně jako standardní SI stanice a lze je umístit do stojanů, jak jste zvyklí.
 
 **Jedno Bluebox** **zařízení** je schopno přijímat záznamy ražení z **až 8 SRR stanic nebo SIACů** najednou. Pokud tedy máte zdvojenou kontrolu (dvě SRR stanice na jedné kontrole), stále vám stačí jedno Bluebox zařízení pro celou kontrolu.
 
-Bluebox zařízení může být umístěno buď na stejném stojanu jako SRR stanice, nebo na samostatném stojanu. Bluebox zařízení musí být umístěno přibližně ve stejné výšce jako SRR stanice v **maximální vzdálenosti 2 metry**, aby byla zajištěna spolehlivá detekce záznamů děrování.
+:::info
+Bluebox zařízení může být umístěno buď na stejném stojanu jako SRR stanice, nebo na samostatném stojanu. Bluebox zařízení musí být umístěno **ve stejné výšce jako SRR stanice** v **maximální vzdálenosti 2 metry**, aby byla zajištěna spolehlivá detekce záznamů děrování.
+:::
 
-Další informace o Bluebox zařízeních naleznete v části [Jak používat Bluebox jednotky](bluebox-units) a [Jak používat Bluebox Mobile](bluebox-mobile).
-
-**Nejlepším postupem je umístit Bluebox zařízení ve směru odběhu závodníků, čímž se výrazně zvýší spolehlivost zachycení záznamu ražení, především v případě SIACu**
+:::tip
+Nejlepším postupem je umístit Bluebox zařízení ve směru odběhu závodníků, čímž se výrazně zvýší spolehlivost zachycení záznamu ražení, především v případě SIACu.
+:::

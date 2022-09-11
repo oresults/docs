@@ -3,9 +3,9 @@
     "message": "Next",
     "description": "The label for version current"
   },
-  "sidebar.tutorialSidebar.category.Device Setup": {
+  "sidebar.tutorialSidebar.category.Devices": {
     "message": "Nastavení zařízení",
-    "description": "The label for category Device Setup in sidebar tutorialSidebar"
+    "description": "The label for category Devices in sidebar tutorialSidebar"
   },
   "sidebar.tutorialSidebar.category.Device Setup.link.generated-index.description": {
     "message": "Jak používat jednotky Bluebox a připravit radio kontroly.",
