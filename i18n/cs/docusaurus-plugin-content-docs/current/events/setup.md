@@ -30,7 +30,7 @@ Pokud událost není zveřejněna, je k dispozici pouze v části My events. Do 
 
 Tato sekce slouží k nastavení základních informací o události a k nahrávání souborů startovek (Start list), tratí (Courses) a výsledků (Results). 
 
-:::caution
+:::caution Pozor
 **Všechny soubory** musí být v definovaném formátu **IOF XML** a **Courses** jsou akceptované také ve formátu **OCAD V8**.
 :::
 
@@ -44,7 +44,7 @@ Naleznete zde také svůj `Event API key`, který lze použít pro automatické 
 
 Vyberte všechny radio kontroly. Radio kontroly se automaticky zobrazí v příslušných kategoriích v tabulkách výsledků.
 
-:::caution
+:::caution Pozor
 Cílová kontrola se vybere automaticky bez ohledu na to, zda je to radio kontrola nebo ne. **Cílová kontrola musí mít kód nižší než 30.**
 :::
 
@@ -64,13 +64,13 @@ V sekci Radio devices můžete sledovat přiřazená Bluebox zařízení a přic
 
 ### Danger zone
 
-:::opatrnost
+:::caution Pozor
 Všechny akce provedené v Danger zone jsou nevratné.
 :::
 
 Pokud se potýkáte s chybami ve výsledcích, můžete vždy použít možnost Delete runners, která odstraní startovní listinu a výsledky a můžete je opět nahrát zpět.
 
-:::poznámka
+:::note Pozn.
 Funkce Delete runners a Delete Courses **NEODSTRANÍ** již přijaté razící záznamy z radio kontrol.
 :::
 
