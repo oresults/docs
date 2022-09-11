@@ -20,6 +20,14 @@ This is a beta version of the app so small bugs may appear.
 
 ## Before the event
 
+### Create a new Bluebox Mobile device
+
+You can create a new Bluebox Mobile device in the Devices tab in the OResults admin section.
+
+:::tip
+Click on the name of your Bluebox Mobile device to change its name.
+:::
+
 ### Download and install the app
 
 The latest version of Bluebox Mobile app can be found under the Devices tab in the OResults admin section.
@@ -28,7 +36,7 @@ Install the app using the downloaded installation file. You may need to allow in
 
 ### Set up the app
 
-The first time you start the app, enter the app settings and fill in the `API key`. You can find your API keys in the OResults admin section.
+The first time you start the app, enter the app settings and fill in the `API key`. 
 
 Optionally, you can set on which `Channel` your USB dongle is receiving punch records (see [How to setup a radiocontrol](./radio-control.md)).
 

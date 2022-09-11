@@ -20,6 +20,14 @@ Jedná se o beta verzi aplikace, takže se mohou objevit drobné chyby.
 
 ## Před událostí
 
+### Vytvořte si nové Bluebox Mobile zařízení
+
+Nové Bluebox Mobile zařízení můžete vytvořit v kartě Devices v části admin sekci OResults.
+
+:::tip
+Klikněte na název Bluebox Mobile zařízení pro změnu jeho názvu.
+:::
+
 ### Stáhnětě a nainstalujte aplikaci
 
 Nejnovější verzi aplikace Bluebox Mobile najdete pod záložkou Zařízení v admin sekci OResults.
@@ -28,7 +36,7 @@ Nainstalujte aplikaci pomocí staženého instalačního souboru. Možná bude p
 
 ### Nastavení aplikace
 
-Při prvním spuštění aplikace otevřete nastavení aplikace a vyplňte `API key`. API klíče naleznete v admin sekci OResults.
+Při prvním spuštění aplikace otevřete nastavení aplikace a vyplňte `API key`.
 
 Volitelně můžete nastavit, na kterém kanálu `Channel` bude váš USB dongle přijímat záznamy o ražení (viz [Jak nastavit radiokontrolu](./radio-control.md)).
 
