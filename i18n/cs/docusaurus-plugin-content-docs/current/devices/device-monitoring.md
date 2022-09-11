@@ -38,7 +38,7 @@ Klikněte na název Bluebox Mobile zařízení pro změnu jeho názvu.
 
 ## Nastavení události
 
-Vaše zařízení můžete také monitorovat v sekci **Radio devices** v nastavení události, ke které jste je přiřadili (viz [Jak spravovat událost](../events/manage.md)).
+Vaše zařízení můžete také monitorovat v sekci **Radio devices** v nastavení události, ke které jste je přiřadili (viz [Jak spravovat událost](../events/setup.md)).
 
 :::tip
 Sekce **Radio devices** obsahuje druhou tabulku **Recent punches**, ve které vidíte **posledních 7 razících záznamů** vaší události. Pomocí této tabulky můžete zkontrolovat, zda jsou vaše zařízení schopna odesílat razící záznamy před zahájením události.

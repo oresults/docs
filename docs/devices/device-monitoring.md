@@ -38,7 +38,7 @@ Click on the name of your Bluebox Mobile device to change its name.
 
 ## Event Settings
 
-You can also monitor your devices in **Radio devices** section in the settings of the event to which you assigned them (see [How to manage an event](../events/manage.md)).
+You can also monitor your devices in **Radio devices** section in the settings of the event to which you assigned them (see [How to manage an event](../events/setup.md)).
 
 :::tip
 The **Radio devices** section contains second table **Recent punches** where you can see **last 7 punch records** of your event. Use this table to check whether your devices are able to send punch records before the event starts.
