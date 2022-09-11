@@ -4,11 +4,19 @@
     "description": "The label for version current"
   },
   "sidebar.tutorialSidebar.category.Devices": {
-    "message": "Nastavení zařízení",
+    "message": "Zařízení",
     "description": "The label for category Devices in sidebar tutorialSidebar"
   },
-  "sidebar.tutorialSidebar.category.Device Setup.link.generated-index.description": {
-    "message": "Jak používat jednotky Bluebox a připravit radio kontroly.",
+  "sidebar.tutorialSidebar.category.Devices.link.generated-index.description": {
+    "message": "Vše, co potřebujete vědět o používání Bluebox zařízení a nastavení rádio kontrol.",
+    "description": "The generated-index page description for category Device Setup in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Events": {
+    "message": "Události",
+    "description": "The label for category Devices in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Events.link.generated-index.description": {
+    "message": "Vše, co potřebujete vědět o nastavení a správě událostí OResults.",
     "description": "The generated-index page description for category Device Setup in sidebar tutorialSidebar"
   }
 }
