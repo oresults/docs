@@ -2,7 +2,7 @@
 sidebar_position: 3
 ---
 
-# How to use Bluebox Mobile
+# Bluebox Mobile
 
 Read these instructions before using Bluebox Mobile app.
 

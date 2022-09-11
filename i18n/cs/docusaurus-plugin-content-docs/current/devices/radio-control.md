@@ -2,7 +2,7 @@
 sidebar_position: 1
 ---
 
-# Jak nastavit radiokontrolu
+# Jak nastavit radio kontrolu
 
 Tento manuál popisuje, jak nastavit radiokontroly při použití [systému SPORTident](https://www.sportident.com/).
 

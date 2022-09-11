@@ -2,9 +2,9 @@
 sidebar_position: 2
 ---
 
-# How to use Speaker module
+# Speaker module
 
-Our Speaker module is a simple tool that helps the commentator of your event to quickly and easily comment on what is happening during the race.
+Speaker module is a simple tool that helps the commentator of your event to quickly and easily comment on what is happening during the race.
 
 Use the **microphone icon** at your event to open the Speaker module.
 

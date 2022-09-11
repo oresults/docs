@@ -2,9 +2,9 @@
 sidebar_position: 2
 ---
 
-# Jak používat Speaker modul
+# Speaker modul
 
-Náš Speaker modul je jednoduchý nástroj, který pomáhá komentátorovi vaší události rychle a snadno komentovat dění  během závodu.
+Speaker modul je jednoduchý nástroj, který pomáhá komentátorovi vaší události rychle a snadno komentovat dění  během závodu.
 
 Pro otevření Speaker modulu použijte **ikonu mikrofonu** u vaší události.
 

@@ -2,7 +2,7 @@
 sidebar_position: 2
 ---
 
-# Jak používat Bluebox jednotky
+# Bluebox jednotky
 
 Před jakoukoliv manipulací s Bluebox jednotkami si přečtěte tyto pokyny.
 

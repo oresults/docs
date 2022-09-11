@@ -2,7 +2,7 @@
 sidebar_position: 2
 ---
 
-# How to use Bluebox units
+# Bluebox units
 
 Read these instructions before handling any Bluebox units.
 

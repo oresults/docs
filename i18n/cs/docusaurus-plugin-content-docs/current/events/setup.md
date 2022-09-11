@@ -2,7 +2,7 @@
 sidebar_position: 1
 ---
 
-# Jak vytvořit a spravovat událost
+# Vytvoření a správa události
 
 ## Moje události (My events)
 
