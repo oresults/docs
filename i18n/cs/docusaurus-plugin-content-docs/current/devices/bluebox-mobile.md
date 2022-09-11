@@ -71,6 +71,4 @@ Připojený USB dongle musí být umístěn přibližně **ve stejné výšce ja
 
 ### Monitoring
 
-Monitoring zařízení je k dispozici admin sekci OResults. Můžete sledovat status zařízení včetně úroveně baterie a síly signálu, příchozí záznamy ražení a další údaje.
-
-Další informace o monitorování zařízení naleznete v části [Události](../event/).
+>Viz [Monitoring zařízení](./device-monitoring)
