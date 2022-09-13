@@ -56,7 +56,7 @@ To start the app, **select the connected USB dongle** that appears on the main s
 
 You can use **battery save mode** by using the lock icon in the header. This will darken the screen to the minimum.
 
-:::note
+:::caution
 **You should not close the app for it to work properly**.
 
 The app could work if you lock your phone on some Androids but only until you unlock it again. After that, you need to exit the status page and select the connected dongle again. Once selected, the app will again give you a status of **Connected.**
@@ -73,7 +73,7 @@ Make sure that your device is connected to the Internet in the place of your rad
 
 ### Placement of the device
 
-:::caution
+:::danger
 Connected USB dongle must be placed at approximately **the same height as the SI stations** at a **maximum distance of 2 metres** to ensure reliable detection of punch records.
 :::
 

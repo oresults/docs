@@ -56,7 +56,7 @@ Chcete-li spustit aplikaci, **zvolte připojený USB dongle**, který se zobraz�
 
 Lze použít battery save mode pomocí ikony zámku v záhlaví. Tím se obrazovka ztmaví na minimum.
 
-:::note Pozn.
+:::caution Pozor
 **Pro správné fungování aplikace byste ji neměli zavřít**.
 
 U některých verzí Androidu aplikace funguje i při zamčení telefonu, ale pouze do jeho opětovného odemčení. Poté je třeba odejít ze stránky statusu a opět zvolit připojený dongle. Po zvolení vám opět aplikace napíše status **Connected**.
@@ -73,7 +73,7 @@ Ujistěte se, že je vaše zařízení připojeno k internetu v místě radio ko
 
 ### Umístění zařízení
 
-:::caution Pozor
+:::danger Pozor
 Připojený USB dongle musí být umístěn přibližně **ve stejné výšce jako SI krabička** ve **vzdálenosti maximálně 2 metrů**, aby byla zajištěna spolehlivá detekce razících záznamů.
 :::
 

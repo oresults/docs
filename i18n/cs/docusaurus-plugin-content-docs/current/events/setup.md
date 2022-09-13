@@ -10,7 +10,7 @@ Podívejme se na to, jak snadno vytvářet a spravovat události v OResults.
 
 Pokud ještě nemáte účet, vytvořte si bezplatný OResults účet pro organizátory (viz [registrace](https://oresults.eu/register)). Díky vašemu účtu se budete moci přihlásit do admin sekce OResults.
 
-:::note Pozn.
+:::info
 Zbytek manuálu se věnuje admin sekci, do které má přístup pouze přihlášený uživatel OResults.
 :::
 
@@ -64,13 +64,13 @@ V sekci Radio devices můžete sledovat přiřazená Bluebox zařízení a přic
 
 ### Danger zone
 
-:::caution Pozor
+:::danger Pozor
 Všechny akce provedené v Danger zone jsou nevratné.
 :::
 
 Pokud se potýkáte s chybami ve výsledcích, můžete vždy použít možnost Delete runners, která odstraní startovní listinu a výsledky a můžete je opět nahrát zpět.
 
-:::note Pozn.
+:::info
 Funkce Delete runners a Delete Courses **NEODSTRANÍ** již přijaté razící záznamy z radio kontrol.
 :::
 

@@ -46,16 +46,16 @@ See [Device monitoring](./device-monitoring) for where to check the battery leve
 
 One unit is capable of receiving punch records from up to 8 SI-SRR stations (see [How to set up a radio control](./radio-control.md))
 
-:::caution
+:::danger
 The units must be placed at approximately **the same height as the SI stations** at a **maximum distance of 2 metres** to ensure reliable detection of punch records.
-:::
-
-:::tip
-The units can be snapped onto a standard SI-BSF7 station holder. You can be placed the units on the same control stand as the SI station or on a separate control stand alongside as it is shown in the pictures.
 :::
 
 :::caution
 The units are not fully waterproof so if there is a risk of heavy rain they should be covered with a waterproof bag or other cover.
+:::
+
+:::tip
+The units can be snapped onto a standard SI-BSF7 station holder. You can be placed the units on the same control stand as the SI station or on a separate control stand alongside as it is shown in the pictures.
 :::
 
 <img src="/img/bb-sprintovky.jpg" width="45%" style={{marginRight: "15px"}} />

@@ -10,7 +10,7 @@ Let's take a look on how to easily create and manage events in OResults.
 
 If you don't have one yet, create a free OResults account for organizers (see [registration](https://oresults.eu/register)). Your account will allow you to log in to the OResults admin section.
 
-:::note
+:::info
 The rest of the manual is devoted to the admin section, which can only be accessed by a logged-in OResults user.
 :::
 
@@ -64,13 +64,13 @@ You can monitor assigned Bluebox devices and punch records traffic in the Radio 
 
 ### Danger zone
 
-:::caution
+:::danger
 All actions taken in the Danger zone are irreversible.
 :::
 
 If you are struggling with some errors in the results you can always use option to delete runners which will delete start list and results and upload them back again.
 
-:::note
+:::info
 Delete Runners or Delete Courses do **NOT** delete already received punch records from radio controls.
 :::
 

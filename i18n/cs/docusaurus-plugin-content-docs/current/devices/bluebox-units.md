@@ -46,16 +46,16 @@ Pro informace, jak sledovat úroveň nabití baterie a sílu signálu navštivte
 
 Jedna jednotka je schopna přijímat razící záznami až z 8 SI-SRR krabiček (viz [Jak nastavit radio kontrolu](./radio-control.md))
 
-:::caution Pozor
+:::danger Pozor
 Jednotky musí být umístěny přibližně **ve stejné výšce jako SI krabička** ve **vzdálenosti maximálně 2 metrů**, aby byla zajištěna spolehlivá detekce razících záznamů.
-:::
-
-:::tip
-Jednotky lze nacvaknout na standardní držák krabičky SI-BSF7. Jednotky lze umístit na stejný stojan jako SI krabička nebo na samostatný kontrolní stojan vedle sebe, jak je znázorněno na obrázcích.
 :::
 
 :::caution Pozor
 Jednotky ještě nejsou plně vodotěsné, takže pokud hrozí silný déšť, měly by být zakryty nepromokavým sáčkem nebo jiným obalem.
+:::
+
+:::tip
+Jednotky lze nacvaknout na standardní držák krabičky SI-BSF7. Jednotky lze umístit na stejný stojan jako SI krabička nebo na samostatný kontrolní stojan vedle sebe, jak je znázorněno na obrázcích.
 :::
 
 <img src="/img/bb-sprintovky.jpg" width="45%" style={{marginRight: "10px"}} />
