@@ -42,28 +42,24 @@ Optionally, you can set on which `Channel` your USB dongle is receiving punch re
 
 <img src="/img/Screenshot_20220820-215516_Bluebox_Mobile.jpg" width="40%" alt="Bluebox Mobile Settings"/>
 
+:::caution
+Do not forget to set the **API key** in the settings tab, found in the OResults dashboard under *Devices*
+:::
+
+
 ### Connect the USB dongle
 
 Connect the SPORTident USB dongle to your device using a USB to micro USB / USB-C adapter of your choice.
 
 <img src="/img/IMG_20220820_220146_-_Copy.png" width="85%" alt="Phone with dongle" />
 
-### Launch the app
+### Notes
 
-To start the app, **select the connected USB dongle** that appears on the main screen of the app. This will **open a Status screen** of the selected dongle. 
+* The app will connect to the SPORTident USB dongle automatically, but make sure you accept needed permissions (and check the "always" button), so the dongle can auto re-connect when the contact is loose.
+* If you denny the app the location permissions, signal strength will not be sent to the OResults service and will be missing in the dashboard.
+* The app prevents the phone entering sleep mode. Do not leave the app running in the background if you are not using it, it will drain your battery. 
+* **Device** screen shows incoming punches (green) and dongle connection status messages (yellow). **Punches** tab displays saved punches and their *send / not send yet* status.
 
->The Status screen says **Connected** when the app is launched correctly. **The app reads** **the punch records** from the USB dongle and **sends** them **to the server only** if you are **on the Status screen**. The received punch records are also displayed on the Status screen.
-
-You can use **battery save mode** by using the lock icon in the header. This will darken the screen to the minimum.
-
-:::caution
-**You should not close the app for it to work properly**.
-
-The app could work if you lock your phone on some Androids but only until you unlock it again. After that, you need to exit the status page and select the connected dongle again. Once selected, the app will again give you a status of **Connected.**
-:::
-
-<img src="/img/Screenshot_20220820-215619_Bluebox_Mobile.jpg" width="40%" style={{marginRight: "10px"}} />
-<img src="/img/Screenshot_20220820-215729_Bluebox_Mobile.jpg" width="40%" />
 
 ### Ensure the Internet connection
 

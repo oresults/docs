@@ -42,28 +42,22 @@ Volitelně můžete nastavit, na kterém kanálu `Channel` bude váš USB dongle
 
 <img src="/img/Screenshot_20220820-215516_Bluebox_Mobile.jpg" width="40%" alt="Bluebox Mobile Settings"/>
 
+:::caution Pozor
+Nezapomeňte v nastavení aplikace vyplnit **API key**, naleznete jej v administraci OResults účtu v záložce *Devices**.
+:::
+
 ### Připojte USB dongle
 
 Připojte SPORTident USB dongle k zařízení pomocí adaptéru USB na micro USB / USB-C podle vlastního výběru.
 
 <img src="/img/IMG_20220820_220146_-_Copy.png" width="85%" alt="Phone with dongle" />
 
-### Spustťe aplikaci
+### Poznámky
 
-Chcete-li spustit aplikaci, **zvolte připojený USB dongle**, který se zobrazí na hlavní obrazovce aplikace. Tím se **otevře Status obrazovka** vybraného USB donglu.
-
->Po správném spuštění aplikace se na Status obrazovce zobrazí nápis **Conneted**. **Aplikace čte záznamy ražení** z USB donglu a **odesílá** je **na server** pouze tehdy, pokud jste **na obrazovce Status**. Přijaté záznamy o ražení se rovněž zobrazují na Status obrazovce.
-
-Lze použít battery save mode pomocí ikony zámku v záhlaví. Tím se obrazovka ztmaví na minimum.
-
-:::caution Pozor
-**Pro správné fungování aplikace byste ji neměli zavřít**.
-
-U některých verzí Androidu aplikace funguje i při zamčení telefonu, ale pouze do jeho opětovného odemčení. Poté je třeba odejít ze stránky statusu a opět zvolit připojený dongle. Po zvolení vám opět aplikace napíše status **Connected**.
-:::
-
-<img src="/img/Screenshot_20220820-215619_Bluebox_Mobile.jpg" width="40%" style={{marginRight: "10px"}} />
-<img src="/img/Screenshot_20220820-215729_Bluebox_Mobile.jpg" width="40%" />
+* Aplikace se ke SPORTident USB donglu připojí automaticky, dávejte však pozor abyste potvrdili žádosti o oprávnění (včetně checkboxu "povolit vždy"), díky tomu se aplikace připojí k donglu i při zamčené obrazovce pokud dojde k narušení kontaktu.
+* Pokud nepovolíte aplikaci přístup k poloze, síla signálu nebude posílána do OResults a nezobrazí se vám v administraci závodu.
+* Aplikace zabraňuje telefonu přejít do režimu spánku. Pokud aplikaci nevyužíváte k pořádání, nenechávejte ji běžet na pozadí, vybíjela by vám baterii.
+* Hlavní stránka **Device** zobrazuje příchozí ražení (zeleně) a události ohledně připojení donglu (žlutě). Na stránce **Punches** najdete uložené záznamy a status, zda už byly úspěšně odeslány na server. 
 
 ### Zajistěte internetové připojení
 
