@@ -37,7 +37,13 @@ V **posledním sloupci** jsou uvedeny **údaje o vyčtení** (`OK`, `Disqualifie
 >Pokud se závodník objeví na **prvním, druhém nebo třetím místě** na některé z radio kontrol, **mezičas čas se podbarví** odpovídající barvou, jak je znázorněno na obrázku.
 
 :::tip
-Pokud kliknete na kategorii soutěžícího, otevře se tabulka výsledků kategorie na samostatné kartě prohlížeče.
+Kategorie můžete snadno filtrovat kliknutím na název kategorie v řádku kteréhokoli závodníka.
 :::
 
 <img src="/img/speaker-highlights.png" width="100%" />
+
+:::note Poznámka
+Nelekejte se, že některé řádky mají více sloupců než jiné. Počet sloupců je vždy specifický pro danou kategorii.
+:::
+
+<img src="/img/speaker-overview.png" width="100%" />

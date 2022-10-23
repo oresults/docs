@@ -37,7 +37,13 @@ The **last column** contains the **clearance information** (`OK`, `Disqualified`
 >If a competitor appears in **first, second or third place** at any of the radio controls, **the split time is coloured** with corresponding colour as shown in the picture.
 
 :::tip
-If you click on a competitor's class, the category results table will open in a separate browser tab.
+You can easily filter the classes by clicking on the class name in the row of any competitor.
 :::
 
 <img src="/img/speaker-highlights.png" width="100%" />
+
+:::note
+Don't be alarmed that some rows have more columns than others. The number of columns is always class specific.
+:::
+
+<img src="/img/speaker-overview.png" width="100%" />
