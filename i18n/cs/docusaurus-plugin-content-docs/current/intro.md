@@ -10,7 +10,3 @@ OResults Uživatelská příručka obsahuje všechny potřebné informace, kter�
 :::info
 Pokud v návodech najdete nějaké chyby nebo budete mít potíže, neváhejte nás **[kontaktovat](https://oresults.eu/contact)**.
 :::
-
-.
-
-<img src="/img/logo.svg" width="25%" />
