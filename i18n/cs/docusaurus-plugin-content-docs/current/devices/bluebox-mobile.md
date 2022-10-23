@@ -14,9 +14,9 @@ Jedná se o beta verzi aplikace, takže se mohou objevit drobné chyby.
 
 - 1x zařízení s Androidem a připojením k internetu
 - 1x USB na micro USB / USB-C adaptér podle zařízení
-- 1x [SPORTident USB dongle](https://www.sportident.com/documents/si-radio/SRR-Kit/SPORTident_SRR-Dongle.pdf)
+- 1x **[SPORTident USB dongle](https://www.sportident.com/documents/si-radio/SRR-Kit/SPORTident_SRR-Dongle.pdf)**
 
-<img src="/img/dongle_transparent.png" width="35%" alt="SPORTident USB dongle"/>
+<img src="/img/srr-dongle.png" width="40%" alt="SPORTident USB dongle"/>
 
 ## Před událostí
 
@@ -36,21 +36,21 @@ Nainstalujte aplikaci pomocí staženého instalačního souboru. Možná bude p
 
 ### Nastavení aplikace
 
-Při prvním spuštění aplikace otevřete nastavení aplikace a vyplňte `API key`.
+Při prvním spuštění aplikace otevřete nastavení aplikace a vyplňte **API token**.
 
-Volitelně můžete nastavit, na kterém kanálu `Channel` bude váš USB dongle přijímat záznamy o ražení (viz [Jak nastavit radiokontrolu](./radio-control.md)).
-
-<img src="/img/Screenshot_20220820-215516_Bluebox_Mobile.jpg" width="40%" alt="Bluebox Mobile Settings"/>
+<!--Volitelně můžete nastavit, na kterém kanálu `Channel` bude váš USB dongle přijímat záznamy o ražení (viz [Jak nastavit radiokontrolu](./radio-control.md)).-->
 
 :::caution Pozor
-Nezapomeňte v nastavení aplikace vyplnit **API key**, naleznete jej v administraci OResults účtu v záložce *Devices**.
+Nezapomeňte v nastavení aplikace vyplnit **API token**, naleznete jej v administraci OResults účtu v záložce **Devices**.
 :::
+
+<img src="/img/bb-mobile-settings.jpg" width="50%" alt="Bluebox Mobile Settings"/>
 
 ### Připojte USB dongle
 
 Připojte SPORTident USB dongle k zařízení pomocí adaptéru USB na micro USB / USB-C podle vlastního výběru.
 
-<img src="/img/IMG_20220820_220146_-_Copy.png" width="85%" alt="Phone with dongle" />
+<img src="/img/mobile-dongle.svg" width="45%" alt="Phone with dongle" />
 
 ### Poznámky
 
