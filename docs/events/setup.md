@@ -8,18 +8,16 @@ Let's take a look on how to easily create and manage events in OResults.
 
 ## Create an account for organizers
 
-If you don't have one yet, create a free OResults account for organizers (see [registration](https://oresults.eu/register)). Your account will allow you to log in to the OResults admin section.
+If you don't have one yet, create a free OResults account for organizers (see **[registration](https://oresults.eu/register))**. Your account will allow you to log in to the OResults admin section.
 
-:::info
 The rest of the manual is devoted to the admin section, which can only be accessed by a logged-in OResults user.
-:::
 
 ## My events
 
 You can see all your events in My events tab from where you can access event settings, [speaker modules](./speaker.md) and create a new event.
 
 :::tip
-If an event is not published, it is only available in My Events. You can access the results tables by clicking on the event name.
+Result tables of an unpublished event can be accessed by clicking on the event name in My events section.
 :::
 
 <img src="/img/my-events.png" width="100%" />
@@ -28,17 +26,39 @@ If an event is not published, it is only available in My Events. You can access 
 
 ### General settings
 
-This section is used to set essential information about the event and upload Start list, Courses and Results files. 
+This section is used to set essential information such as:
 
-:::caution
-**All files** must be in the **IOF XML** defined format and **Courses** are also accepted in **OCAD V8 format**.
-:::
+- Event name
+- Organizer
+- Date and start time
+- Timezone
+- Place
+- GPS coordinates
 
-:::tip
-You can also find your `Event API key` which can be be used for automatic upload of the results. For more information about automatic upload of results see [OResults Connector](./connector.md).
-:::
+You **must set** whether the event **is** a **relay** event **or not**.
+
+The last setting is to set the event as **published** so it will appear on the OResults event page.
+
+You must upload **Start list**, **Courses** and **Results** files in supported formats (more about supported formats **[here](#supported-formats)**) to properly display event results.
+
+In this section you can also find your **event API key** which is used to automatically upload the start list and results. For more information about automatic upload, see **[OResults Connector](./connector.md)**.
+
 
 <img src="/img/event-main-setup.png" width="100%" />
+
+### Supported formats
+
+**Start list** and **Results** are only supported in **IOF XML 3.0** format.
+
+:::caution
+**Start list** and **Results** must contain card numbers in `<ControlCard>` tags. 
+:::
+
+**Courses** are supproted in **OCAD V8 format** text file format and **IOF XML 3.0**.
+
+:::tip
+**Courses** are preferred in **OCAD V8 format** which is much smaller and more suitable for uploading than IOF XML 3.0.
+:::
 
 ### Setup radio controls
 
@@ -58,7 +78,7 @@ You can open the table with available Bluebox devices using the switch in the Ra
 
 ### Monitor Bluebox devices
 
-You can monitor assigned Bluebox devices and punch records traffic in the Radio devices section as shown in the picture. For more information about monitoring see [Device monitoring](../devices/device-monitoring.md).
+You can monitor assigned Bluebox devices and punch records traffic in the Radio devices section as shown in the picture. For more information about monitoring see **[Device monitoring](../devices/device-monitoring.md)**.
 
 <img src="/img/event-devices-monitor.png" width="100%" />
 
@@ -68,10 +88,10 @@ You can monitor assigned Bluebox devices and punch records traffic in the Radio 
 All actions taken in the Danger zone are irreversible.
 :::
 
-If you are struggling with some errors in the results you can always use option to delete runners which will delete start list and results and upload them back again.
+If you are struggling with some errors in the results you can always use option to delete runners (which will delete start list and results) and upload them back again.
 
 :::info
-Delete Runners or Delete Courses do **NOT** delete already received punch records from radio controls.
+**Don't worry.** Delete Runners or Delete Courses do **NOT delete** already **received punch records** from radio controls.
 :::
 
 <img src="/img/event-danger-zone.png" width="100%" />
