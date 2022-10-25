@@ -4,35 +4,39 @@ sidebar_position: 1
 
 # How to setup a radio control
 
-This manual describes how to set up radio controls using the [SPORTident system](https://www.sportident.com/).
+This manual describes how to set up radio controls using the **[SPORTident system](https://www.sportident.com/)**.
 
-For information on how the Bluebox system works, see [OResults/About](https://oresults.eu/about).
+Information on how the Bluebox system works are on **[OResults](https://oresults.eu/about)** page.
 
 ## Required equipment
 
 For each radio control you need:
 
+- One **[Bluebox unit](bluebox-units)** or one **[Bluebox Mobile](bluebox-mobile)** device
 - One or more SI stations equipped with a SRR transmitter (**BSF8-SRR** or newer)
-    - Only SRR stations must be used (instead of standard SI stations) at all radio controls.
-- One [Bluebox unit](bluebox-units) or one [Bluebox Mobile](bluebox-mobile) device
+
+
+:::info
+Some clubs and organizers own SRR stations and USB dongles for Bluebox Mobile devices. If you don't have your own, it is possible to rent them (see **[information for organizers](https://oresults.eu/organize)**).
+:::
 
 :::tip
-Some clubs and organizers own SRR stations and USB dongles for Bluebox Mobile devices. If you don't have your own, it is possible to rent them (see [OResults/Organize](https://oresults.eu/organize)).
+In case of an event where **all competitiors have SIACs you can only use classic SPORTident stations** instead of the SRR stations on radio controls. Punch record data is sent by the SIAC itself if a station is correctly set.
 :::
 
 ## Before the event
 
 ### Setup the SI stations
 
-The SPORTident stations are set up using the [SPORTident Config+](https://www.sportident.com/products.html#software) software. 
+The SPORTident stations are set up using the **[SPORTident Config+](https://www.sportident.com/products.html#software)** software. 
 
-The SI SRR stations must be set up as shown in the following figures.
+The SI SRR stations must be set up as shown in the following images.
 
 ### Contactless mode
 
-`Radio` set to `Send last record` - SIACs are sending punch records towards Bluebox devices.
+**Radio** set to **Send last record** - SIACs are sending punch records towards Bluebox devices.
 
-`Auto send` must be checked - the SI SRR station sends the punch record towards Bluebox devices in case of contact punching
+**Auto send** must be checked - the SI SRR station sends the punch record towards Bluebox devices in case of contact punching
 
 Other parameters can be set freely according to the needs of the event.
 
@@ -40,7 +44,7 @@ Other parameters can be set freely according to the needs of the event.
 
 ### Contact mode
 
-`Auto send` must be checked - the SI SRR station sends the punch record towards Bluebox devices in case of contact punching
+**Auto send** must be checked - the SI SRR station sends the punch record towards Bluebox devices in case of contact punching
 
 Other parameters can be set freely according to the needs of the event.
 
@@ -55,10 +59,10 @@ The SI SRR stations work the same as standard SI stations and can be placed on r
 
 **One Bluebox device** is capable of receiving punch records from **up to 8 SRR stations or SIACs** at the same time. So if you have doubled control (two SRR station at one control), you still only need one Bluebox device for the whole control.
 
-:::info
-The Bluebox device can be placed either on the same stand as the SRR station or on a separate stand. The Bluebox device must be placed at the **same height as the SI stations** at a **maximum distance of 2 metres** to ensure reliable detection of punch records.
+:::danger
+The Bluebox device must be placed at the **same height as the SI stations** at a **maximum distance of 2 metres** to ensure reliable detection of punch records.
 :::
 
 :::tip
-The best practice is to place the Bluebox device in the run-off direction of the competitors which will greatly increase the reliability of punch record capture, mainly in case of SIACs.
+The Bluebox device can be placed either on the same stand as the SRR station or on a separate stand. The best practice is to place the Bluebox device in the run-off direction of the competitors which will greatly increase the reliability of punch record capture, mainly in case of SIACs.
 :::
