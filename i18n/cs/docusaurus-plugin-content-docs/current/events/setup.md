@@ -45,6 +45,10 @@ Pro správné zobrazení výsledků je nutné nahrát soubory **Start list** (st
 
 V této sekci také naleznete také svůj **API key události**, který použijete pro automatické nahrávání startovních listin a výsledků. Více informací o automatickém nahrávání naleznete v **[OResults Connector](./connector.md)**.
 
+:::tip
+Můžete snadno vytvořit **QR kód s odkazem na vaši událost** použitím tlačítka QR Code.
+:::
+
 <img src="/img/event-main-setup.png" width="100%" />
 
 ### Podporované formáty
@@ -52,7 +56,9 @@ V této sekci také naleznete také svůj **API key události**, který použije
 **Start list** (startovky) a **Results** (výsledky) jsou podporovány pouze ve formátu **IOF XML 3.0**.
 
 :::caution Pozor
-**Start list** a **Results** musí obsahovat čísla čipů v tagu `<ControlCard>`. 
+**Start list** a **Results** musí obsahovat čísla čipů v tagu `<ControlCard>`.
+* Závodnící bez čísel čipů jsou ignorováni.
+* Každé číslo čipu může být použito pouze jednou. Druhý závodník s již použitým číslem čipu je ignorován.
 :::
 
 **Course** (tratě) jsou podporovány v textovém formátu **OCAD V8** a ve formátu **IOF XML 3.0**.

@@ -43,6 +43,9 @@ You must upload **Start list**, **Courses** and **Results** files in supported f
 
 In this section you can also find your **event API key** which is used to automatically upload the start list and results. For more information about automatic upload, see **[OResults Connector](./connector.md)**.
 
+:::tip
+You can easily create **QR Code with a link to your event** using the QR Code button.
+:::
 
 <img src="/img/event-main-setup.png" width="100%" />
 
@@ -52,6 +55,8 @@ In this section you can also find your **event API key** which is used to automa
 
 :::caution
 **Start list** and **Results** must contain card numbers in `<ControlCard>` tags. 
+* Runners without a card number are ignored.
+* Each card number can only be used once. A second runner with an already used card number is ignored.
 :::
 
 **Courses** are supproted in **OCAD V8 format** text file format and **IOF XML 3.0**.
