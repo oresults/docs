@@ -73,7 +73,7 @@ Připojený USB dongle musí být umístěn přibližně **ve stejné výšce ja
 
 ### Monitoring
 
->Viz [Monitoring zařízení](./device-monitoring)
+>Viz **[Monitoring zařízení](./device-monitoring)**
 
 ## Privacy policy (Bluebox Mobile)
 

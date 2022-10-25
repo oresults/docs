@@ -74,7 +74,7 @@ Connected USB dongle must be placed at approximately **the same height as the SI
 
 ### Monitoring
 
->See [Device monitoring](./device-monitoring).
+>See **[Device monitoring](./device-monitoring)**.
 
 ## Privacy policy (Bluebox Mobile)
 
