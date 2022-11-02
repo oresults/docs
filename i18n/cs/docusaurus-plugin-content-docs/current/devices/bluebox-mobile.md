@@ -7,7 +7,7 @@ sidebar_position: 3
 Před použitím Bluebox Mobile aplikace si přečtěte tyto pokyny.
 
 :::caution
-This is a beta version of the app so small bugs may appear.
+Jedná se o beta verzi aplikace, takže se mohou objevit drobné chyby.
 :::
 
 ## Potřebné vybavení
@@ -16,7 +16,7 @@ This is a beta version of the app so small bugs may appear.
 - 1x USB na micro USB / USB-C adaptér podle zařízení
 - 1x **[SPORTident USB dongle](https://www.sportident.com/documents/si-radio/SRR-Kit/SPORTident_SRR-Dongle.pdf)**
 
-<img src="/img/srr-dongle.png" width="40%" alt="SPORTident USB dongle" />
+<img src="/img/srr-dongle.png" width="40%" alt="Klíč USB SPORTident" />
 
 ## Před událostí
 
@@ -25,35 +25,35 @@ This is a beta version of the app so small bugs may appear.
 Nové Bluebox Mobile zařízení můžete vytvořit v kartě Devices v části admin sekci OResults.
 
 :::tip
-Click on the name of your Bluebox Mobile device to change its name.
+Klikněte na název zařízení Bluebox Mobile a změňte jeho název.
 :::
 
 ### Stáhnětě a nainstalujte aplikaci
 
 Nejnovější verzi aplikace Bluebox Mobile najdete pod záložkou Zařízení v admin sekci OResults.
 
-Install the app using the downloaded installation file. You may need to allow installation from unknown sources.
+Nainstalujte aplikaci pomocí staženého instalačního souboru. Možná bude nutné povolit instalaci z neznámých zdrojů.
 
 ### Nastavení aplikace
 
 Při prvním spuštění aplikace otevřete nastavení aplikace a vyplňte **API token**.<!--Optionally, you can set on which `Channel` your USB dongle is receiving punch records (see \[How to setup a radiocontrol\](./radio-control.md)). -->:::caution  
-Do not forget to set the **API token** in the settings tab, found in the OResults admin section under **Devices**.
+Nezapomeňte nastavit token API **** na kartě nastavení, kterou najdete v administraci OResults v sekci **Devices**.
 :::
 
-<img src="/img/bb-mobile-settings.jpg" width="50%" alt="Bluebox Mobile Settings" />
+<img src="/img/bb-mobile-settings.jpg" width="50%" alt="Nastavení služby Bluebox Mobile" />
 
 ### Připojte USB dongle
 
 Připojte SPORTident USB dongle k zařízení pomocí adaptéru USB na micro USB / USB-C podle vlastního výběru.
 
-<img src="/img/mobile-dongle.svg" width="45%" alt="Phone with dongle" />
+<img src="/img/mobile-dongle.svg" width="45%" alt="Telefon s klíčem" />
 
 ### Poznámky
 
 * Aplikace se ke SPORTident USB donglu připojí automaticky, dávejte však pozor abyste potvrdili žádosti o oprávnění (včetně checkboxu "povolit vždy"), díky tomu se aplikace připojí k donglu i při zamčené obrazovce pokud dojde k narušení kontaktu.
 * Pokud nepovolíte aplikaci přístup k poloze, síla signálu nebude posílána do OResults a nezobrazí se vám v administraci závodu.
-* App prevents the phone entering sleep mode. Do not leave the app running in the background if you are not using it, it will drain your battery.
-* **Device** screen shows incoming punches (green) and dongle connection status messages (yellow). **Punches** tab displays saved punches and their *send / not send yet* status.
+* Aplikace zabraňuje přechodu telefonu do režimu spánku. Nenechávejte aplikaci spuštěnou na pozadí, pokud ji nepoužíváte, vybíjí to baterii.
+* **Na obrazovce zařízení** se zobrazují příchozí údery (zeleně) a zprávy o stavu připojení klíče (žlutě). **Záložka Děrovačky** zobrazuje uložené děrovačky a jejich stav *odeslat / ještě neodeslat* .
 
 
 ### Zajistěte internetové připojení
@@ -64,37 +64,37 @@ Ujistěte se, že je vaše zařízení připojeno k internetu v místě radio ko
 
 ### Umístění zařízení
 
-:::danger
-Connected USB dongle must be placed at approximately **the same height as the SI stations** at a **maximum distance of 2 metres** to ensure reliable detection of punch records.
+:::nebezpečí
+Připojený USB klíč musí být umístěn přibližně ve **stejné výšce jako stanice SI** ve vzdálenosti **maximálně 2 metry** , aby byla zajištěna spolehlivá detekce záznamů děrných štítků.
 :::
 
-### Monitoring
+### Monitorování
 > Viz **[Monitoring zařízení](./device-monitoring)**
 
-## Privacy policy (Bluebox Mobile)
+## Zásady ochrany osobních údajů (Bluebox Mobile)
 
-OResutls (Otakar Hirš and Jan Jurica) built the Bluebox Mobile app as a Free app. This SERVICE is provided by OResutls at no cost and is intended for use as is.
+OResutls (Otakar Hirš a Jan Jurica) vytvořili aplikaci Bluebox Mobile jako bezplatnou aplikaci. Tato služba je poskytována společností OResutls bezplatně a je určena k použití tak, jak je.
 
-This page is used to inform visitors regarding our policies with the collection, use, and disclosure of Personal Information if anyone decided to use our Service.
+Tato stránka slouží k informování návštěvníků o našich zásadách týkajících se shromažďování, používání a zveřejňování osobních údajů, pokud se někdo rozhodne používat naši službu.
 
-If you choose to use our Service, then you agree to the collection and use of information in relation to this policy. The Personal Information that we collect is used for providing the Service. We will not use or share your information with 3rd party.
+Pokud se rozhodnete používat naši službu, souhlasíte se shromažďováním a používáním informací v souladu s těmito zásadami. Osobní údaje, které shromažďujeme, slouží k poskytování Služby. Vaše údaje nebudeme používat ani sdílet se třetími stranami.
 
 
-**Information Collection and Use**
+**Shromažďování a používání informací**
 
-For a better experience, while using our Service, we may require you to provide us with the device location. This enables us to access the signal strength of the device in order to display the device status it in the web dashboard. We only transmit the signal strength as a value between 0-5 and precise location can not be inferred. This information is stored indefinitely, but you can request the deletion from the database via our contact email. You may choose to not provide location permission to the app, in which case the signal strength will not be transferred and available in the dashboard.
+Pro lepší zážitek z používání naší služby můžeme požadovat, abyste nám sdělili polohu zařízení. To nám umožňuje získat přístup k síle signálu zařízení, abychom mohli zobrazit stav zařízení na webovém panelu. Sílu signálu přenášíme pouze jako hodnotu v rozmezí 0-5 a přesnou polohu nelze odvodit. Tyto informace se ukládají na dobu neurčitou, ale můžete požádat o jejich vymazání z databáze prostřednictvím našeho kontaktního e-mailu. Můžete se rozhodnout, že aplikaci neposkytnete oprávnění k určování polohy, a v takovém případě nebude síla signálu přenášena a nebude k dispozici na ovládacím panelu.
 
-**Security**
+**Zabezpečení**
 
-The information can be transferred using unsecure connection, and we cannot guarantee its privacy.
+Informace mohou být přenášeny pomocí nezabezpečeného připojení a my nemůžeme zaručit jejich soukromí.
 
-**Changes to This Privacy Policy**
+**Změny těchto zásad ochrany osobních údajů**
 
-We may update our Privacy Policy from time to time. Thus, you are advised to review this page periodically for any changes. We will notify you of any changes by posting the new Privacy Policy on this page.
+Naše zásady ochrany osobních údajů můžeme čas od času aktualizovat. Proto vám doporučujeme, abyste tuto stránku pravidelně kontrolovali a zjišťovali případné změny. O všech změnách vás budeme informovat zveřejněním nových zásad ochrany osobních údajů na této stránce.
 
-This policy is effective as of 2022-10-12
+Tato politika je účinná od 2022-10-12
 
-**Contact Us**
+**Kontaktujte nás**
 
-If you have any questions or suggestions about our Privacy Policy, do not hesitate to contact us at info@oresutls.eu.
+Máte-li jakékoli dotazy nebo připomínky k našim zásadám ochrany osobních údajů, neváhejte nás kontaktovat na adrese info@oresutls.eu.
 
