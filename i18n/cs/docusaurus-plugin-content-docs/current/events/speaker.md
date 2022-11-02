@@ -14,7 +14,7 @@ Pro otevření Speaker modulu použijte **ikonu mikrofonu** u vaší události.
 
 Speaker modul automaticky zobrazuje poslední razící záznamy, které přicházejí do OResults.
 
-### Filter
+### Filtr
 
 - **Display limit:** kolik se v tabulce zobrazí posledních razících záznamů
 - **Class:** filtruje, které kategorie se budou zobrazovat v tabulce
@@ -22,13 +22,13 @@ Speaker modul automaticky zobrazuje poslední razící záznamy, které přichá
 
 ### Tabulka
 
-Each row of the table belongs to one competitor. The most recent punch records are displayed in the first row.
+Každý řádek tabulky patří jednomu soutěžícímu. V prvním řádku se zobrazí nejnovější záznamy o děrování.
 
 V **prvním sloupci** je zobrazen název **kategorie**.
 
 Ve **druhém sloupci** se zobrazuje **jméno** závodníka a **klub/tým**.
 
-The **following columns** contain the competitor's **split times**. The intermediate time columns are progressively filled in as the competitor goes through the radio controls.
+Následující sloupce **** obsahují časy rozdělení soutěžícího ****. Sloupce s mezičasy se vyplňují postupně, jak závodník prochází rádiovými kontrolami.
 > Pokud závodník navštíví novou radio kontrolu, jeho řádek se přesune na začátek tabulky.
 
 V **posledním sloupci** jsou uvedeny **údaje o vyčtení** (`OK`, `Disqualified` a `Unread` (nevyčteno)).
@@ -36,7 +36,7 @@ V **posledním sloupci** jsou uvedeny **údaje o vyčtení** (`OK`, `Disqualifie
 
 :::tip
 
-You can easily filter the classes by clicking on the class name in the row of any competitor.
+Třídy můžete snadno filtrovat kliknutím na název třídy v řádku kteréhokoli konkurenta.
 :::
 
 
@@ -44,7 +44,7 @@ You can easily filter the classes by clicking on the class name in the row of an
 
 :::note Poznámka
 
-Don't be alarmed that some rows have more columns than others. The number of columns is always class specific.
+Nelekejte se, že některé řádky mají více sloupců než jiné. Počet sloupců je vždy specifický pro danou třídu.
 :::
 
 
