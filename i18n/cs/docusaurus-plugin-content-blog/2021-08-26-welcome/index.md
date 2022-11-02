@@ -1,30 +1,30 @@
 ---
-slug: welcome
-title: Welcome
+slug: Vítejte
+title: Vítejte na
 authors:
   - slorber
   - yangshun
 tags:
   - facebook
-  - hello
+  - Dobrý den,
   - docusaurus
 ---
 
-[Docusaurus blogging features](https://docusaurus.io/docs/blog) are powered by the [blog plugin](https://docusaurus.io/docs/api/plugins/@docusaurus/plugin-content-blog).
+[Funkce blogu Docusaurus](https://docusaurus.io/docs/blog) jsou poháněny pluginem blogu [](https://docusaurus.io/docs/api/plugins/@docusaurus/plugin-content-blog).
 
-Simply add Markdown files (or folders) to the `blog` directory.
+Stačí přidat soubory (nebo složky) Markdown do adresáře blogu ``.
 
-Regular blog authors can be added to `authors.yml`.
+Běžné autory blogu lze přidat do souboru `authors.yml`.
 
-The blog post date can be extracted from filenames, such as:
+Datum příspěvku na blogu lze vyčíst z názvů souborů, například:
 
 - `2019-05-30-welcome.md`
 - `2019-05-30-welcome/index.md`
 
-A blog post folder can be convenient to co-locate blog post images:
+Složka příspěvků na blogu může být vhodná pro umístění obrázků příspěvků na blogu:
 
-![Docusaurus Plushie](./docusaurus-plushie-banner.jpeg)
+![Docusaurus Plyšák](./docusaurus-plushie-banner.jpeg)
 
-The blog supports tags as well!
+Blog podporuje také tagy!
 
-**And if you don't want a blog**: just delete this directory, and use `blog: false` in your Docusaurus config.
+**A pokud nechcete blog**: stačí tento adresář smazat a v konfiguraci Docusaurusu použít `blog: false` .
