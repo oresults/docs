@@ -12,7 +12,7 @@ Jedná se o beta verzi aplikace, takže se mohou objevit drobné chyby.
 
 ## Potřebné vybavení
 
-- 1x zařízení s Androidem a připojením k internetu
+- 1x Android zařízení s připojením k internetu
 - 1x USB na micro USB / USB-C adaptér podle zařízení
 - 1x **[SPORTident USB dongle](https://www.sportident.com/documents/si-radio/SRR-Kit/SPORTident_SRR-Dongle.pdf)**
 
