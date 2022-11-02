@@ -6,7 +6,7 @@ sidebar_position: 4
 
 Monitoring zařízení umožňuje uživateli kontrolovat status Bluebox zařízení a sledovat příchozí razící záznamy během událostí.
 
-Device monitoring is available only for logged in users in the OResults admin section. There are two options where you can monitor Bluebox devices:
+Sledování zařízení je k dispozici pouze pro přihlášené uživatele v sekci správce OResults. Existují dvě možnosti, jak sledovat zařízení Bluebox:
 
 - **Karta Devices**
 - **Nastavení události**
@@ -17,21 +17,21 @@ Každé Bluebox zařízení může být ve třech různých stavech:
 
 - `OFFLINE`: zařízení není připojeno k internetu
 - `ONLINE`: zařízení je připojeno k internetu a připraveno odeslat všechny přijaté razící záznamy.
-- `OVERDUE`: the device status is delayed and if it is not received within 30 seconds, the device will be marked as offline. Status delay can be caused by an increased punch record traffic at a radio control with a low signal because punch records take precedence over statuses.
+- `OVERDUE`: stav zařízení je zpožděn a pokud není přijat do 30 sekund, zařízení bude označeno jako offline. Zpoždění stavu může být způsobeno zvýšeným provozem záznamů o děrování u rádiového ovládání se slabým signálem, protože záznamy o děrování mají přednost před stavy.
 
 :::tip
-Hover cursor over the battery icon if you want to know the exact battery percetage.
+Pokud chcete zjistit přesný stav nabití baterie, najeďte kurzorem na ikonu baterie.
 :::
 
 ## Karta Devices
 
 Karta Devices obsahuje dvě tabulky:
 
-- `Rented Bluebox units`: contains all Bluebox units which you have rented from us for your event. Bluebox units will be assigned to your account by the OResults administrator.
-- `Phone apps`: contains all Bluebox Mobile devices which you have created in your account. Here you can also find `API tokens` of your devices.
+- `Pronajaté jednotky Bluebox`: obsahuje všechny jednotky Bluebox, které jste si od nás pronajali na svou akci. Jednotky Bluebox k vašemu účtu přiřadí správce OResults.
+- `Telefonní aplikace`: obsahuje všechna zařízení Bluebox Mobile, která jste vytvořili ve svém účtu. Zde také najdete `API tokeny` vašich zařízení.
 
 :::tip
-Click on the name of your Bluebox Mobile device to change its name.
+Klikněte na název zařízení Bluebox Mobile a změňte jeho název.
 :::
 
 <img src="/img/devices-monitor.png" width="100%" />
@@ -41,7 +41,7 @@ Click on the name of your Bluebox Mobile device to change its name.
 Vaše zařízení můžete také monitorovat v sekci **Radio devices** v nastavení události, ke které jste je přiřadili (viz [Jak spravovat událost](../events/setup.md)).
 
 :::tip
-The **Radio devices** section contains second table **Recent punches** where you can see **last 7 punch records** of your event. Use this table to check whether your devices are able to send punch records before the event starts.
+Sekce **Rádiová zařízení** obsahuje druhou tabulku **Poslední údery** , kde můžete vidět **posledních 7 záznamů úderů** vaší události. Pomocí této tabulky můžete zkontrolovat, zda jsou vaše zařízení schopna odeslat záznamy o děrování před zahájením události.
 :::
 
 <img src="/img/event-devices-monitor.png" width="100%" />
