@@ -6,8 +6,8 @@ sidebar_position: 3
 
 Před použitím Bluebox Mobile aplikace si přečtěte tyto pokyny.
 
-:::caution Poznámka
-Jedná se o beta verzi aplikace, takže se mohou objevit drobné chyby.
+:::caution
+This is a beta version of the app so small bugs may appear.
 :::
 
 ## Potřebné vybavení
@@ -16,7 +16,7 @@ Jedná se o beta verzi aplikace, takže se mohou objevit drobné chyby.
 - 1x USB na micro USB / USB-C adaptér podle zařízení
 - 1x **[SPORTident USB dongle](https://www.sportident.com/documents/si-radio/SRR-Kit/SPORTident_SRR-Dongle.pdf)**
 
-<img src="/img/srr-dongle.png" width="40%" alt="SPORTident USB dongle"/>
+<img src="/img/srr-dongle.png" width="40%" alt="SPORTident USB dongle" />
 
 ## Před událostí
 
@@ -25,26 +25,22 @@ Jedná se o beta verzi aplikace, takže se mohou objevit drobné chyby.
 Nové Bluebox Mobile zařízení můžete vytvořit v kartě Devices v části admin sekci OResults.
 
 :::tip
-Klikněte na název Bluebox Mobile zařízení pro změnu jeho názvu.
+Click on the name of your Bluebox Mobile device to change its name.
 :::
 
 ### Stáhnětě a nainstalujte aplikaci
 
 Nejnovější verzi aplikace Bluebox Mobile najdete pod záložkou Zařízení v admin sekci OResults.
 
-Nainstalujte aplikaci pomocí staženého instalačního souboru. Možná bude potřeba povolit instalaci z neznámých zdrojů.
+Install the app using the downloaded installation file. You may need to allow installation from unknown sources.
 
 ### Nastavení aplikace
 
-Při prvním spuštění aplikace otevřete nastavení aplikace a vyplňte **API token**.
-
-<!--Volitelně můžete nastavit, na kterém kanálu `Channel` bude váš USB dongle přijímat záznamy o ražení (viz [Jak nastavit radiokontrolu](./radio-control.md)).-->
-
-:::caution Pozor
-Nezapomeňte v nastavení aplikace vyplnit **API token**, naleznete jej v administraci OResults účtu v záložce **Devices**.
+Při prvním spuštění aplikace otevřete nastavení aplikace a vyplňte **API token**.<!--Optionally, you can set on which `Channel` your USB dongle is receiving punch records (see \[How to setup a radiocontrol\](./radio-control.md)). -->:::caution  
+Do not forget to set the **API token** in the settings tab, found in the OResults admin section under **Devices**.
 :::
 
-<img src="/img/bb-mobile-settings.jpg" width="50%" alt="Bluebox Mobile Settings"/>
+<img src="/img/bb-mobile-settings.jpg" width="50%" alt="Bluebox Mobile Settings" />
 
 ### Připojte USB dongle
 
@@ -56,8 +52,9 @@ Připojte SPORTident USB dongle k zařízení pomocí adaptéru USB na micro USB
 
 * Aplikace se ke SPORTident USB donglu připojí automaticky, dávejte však pozor abyste potvrdili žádosti o oprávnění (včetně checkboxu "povolit vždy"), díky tomu se aplikace připojí k donglu i při zamčené obrazovce pokud dojde k narušení kontaktu.
 * Pokud nepovolíte aplikaci přístup k poloze, síla signálu nebude posílána do OResults a nezobrazí se vám v administraci závodu.
-* Aplikace zabraňuje telefonu přejít do režimu spánku. Pokud aplikaci nevyužíváte k pořádání, nenechávejte ji běžet na pozadí, vybíjela by vám baterii.
-* Hlavní stránka **Device** zobrazuje příchozí ražení (zeleně) a události ohledně připojení donglu (žlutě). Na stránce **Punches** najdete uložené záznamy a status, zda už byly úspěšně odeslány na server. 
+* App prevents the phone entering sleep mode. Do not leave the app running in the background if you are not using it, it will drain your battery.
+* **Device** screen shows incoming punches (green) and dongle connection status messages (yellow). **Punches** tab displays saved punches and their *send / not send yet* status.
+
 
 ### Zajistěte internetové připojení
 
@@ -67,13 +64,12 @@ Ujistěte se, že je vaše zařízení připojeno k internetu v místě radio ko
 
 ### Umístění zařízení
 
-:::danger Pozor
-Připojený USB dongle musí být umístěn přibližně **ve stejné výšce jako SI krabička** ve **vzdálenosti maximálně 2 metrů**, aby byla zajištěna spolehlivá detekce razících záznamů.
+:::danger
+Connected USB dongle must be placed at approximately **the same height as the SI stations** at a **maximum distance of 2 metres** to ensure reliable detection of punch records.
 :::
 
 ### Monitoring
-
->Viz **[Monitoring zařízení](./device-monitoring)**
+> Viz **[Monitoring zařízení](./device-monitoring)**
 
 ## Privacy policy (Bluebox Mobile)
 
