@@ -1,9 +1,9 @@
 ---
 slug: first-blog-post
-title: First Blog Post
+title: První příspěvek na blogu
 authors:
   name: Gao Wei
-  title: Docusaurus Core Team
+  title: Základní tým Docusaurus
   url: https://github.com/wgao19
   image_url: https://github.com/wgao19.png
 tags:
