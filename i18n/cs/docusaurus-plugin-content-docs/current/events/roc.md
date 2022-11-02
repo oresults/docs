@@ -6,11 +6,11 @@ sidebar_position: 4
 
 Protokol ROC je implementací jednoduchého textového výstupu záznamů ražení, který používá většina orientačních softwarů pro příjem živých záznamů ražení.
 
-Each orienteering software has its own name for the service supporting the ROC protocol such as **Online input** or **Remote input**. See the documentation of your orienteering software for more information.
+Každý orientační software má vlastní název pro službu podporující protokol ROC, například **Online vstup** nebo **Vzdálený vstup**. Další informace naleznete v dokumentaci k orientačnímu softwaru.
 
 ## ROC v OResults
 
-**Request Query:** `https://api.oresults.eu/roc`
+**Dotaz:** `https://api.oresults.eu/roc`
 
 **Parametry:**
 - `unitId`: ID události v OResults (naleznete v URL vaší události)
@@ -24,6 +24,6 @@ Each orienteering software has its own name for the service supporting the ROC p
 4;1;2144039;2022-05-21 09:59:17
 ```
 
-Each row contains one punch record. The values are separated by semicolons and represent the **punch record ID**, **control code**, **SI card** and **punch timestamp**.
+Každý řádek obsahuje jeden záznam o děrování. Hodnoty jsou odděleny středníkem a představují **ID záznamu o ražení**, **kontrolní kód**, **karta SI** a **časové razítko ražení**.
 
 
