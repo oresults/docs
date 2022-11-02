@@ -8,19 +8,19 @@ Podívejme se na to, jak snadno vytvářet a spravovat události v OResults.
 
 ## Vytvoření účet pro organizátory
 
-Pokud ještě nemáte účet, vytvořte si bezplatný OResults účet pro organizátory (viz **[registrace](https://oresults.eu/register))**. Díky vašemu účtu se budete moci přihlásit do admin sekce OResults.
+If you don't have one yet, create a free OResults account for organizers (see **[registration](https://oresults.eu/register))**. Your account will allow you to log in to the OResults admin section.
 
-:::info
-Zbytek manuálu se věnuje admin sekci, do které má přístup pouze přihlášený uživatel OResults.
-:::
+The rest of the manual is devoted to the admin section, which can only be accessed by a logged-in OResults user.
 
 ## Moje události (My events)
 
-Všechny své události vidíte v kartě My events, odkud máte přístup k nastavení události, [speaker modulům](./speaker.md) a můžete vytvořit novou událost.
+You can see all your events in My events tab from where you can access event settings, [speaker modules](./speaker.md) and create a new event.
 
 :::tip
-Tabulky výsledků nezveřejněné (unpublished) události jsou přístupné po kliknutí na název události v sekci Moje události.
+
+Result tables of an unpublished event can be accessed by clicking on the event name in My events section.
 :::
+
 
 <img src="/img/my-events.png" width="100%" />
 
@@ -28,7 +28,7 @@ Tabulky výsledků nezveřejněné (unpublished) události jsou přístupné po 
 
 ### Obecná nastavení
 
-V této části se nastavují základní informace jako jsou:
+This section is used to set essential information such as:
 
 - Název události
 - Organizátor
@@ -37,68 +37,80 @@ V této části se nastavují základní informace jako jsou:
 - Místo konání
 - Souřadnice GPS
 
+V této části se nastavují základní informace jako jsou:
+
 **Musíte nastavit** zda událost **jsou štafety** (is relay) **nebo ne**.
 
 Posledním nastavením je **zveřejnění** události (is published), což má za následek, že se zobrazí na stránce událostí OResults.
 
-Pro správné zobrazení výsledků je nutné nahrát soubory **Start list** (startovky), **Courses** (tratě) a **Results** (výsledky) v podporovaných formátech (více o podporovaných formátech **[zde](#podporované-formáty)**).
-
-V této sekci také naleznete také svůj **API key události**, který použijete pro automatické nahrávání startovních listin a výsledků. Více informací o automatickém nahrávání naleznete v **[OResults Connector](./connector.md)**.
+In this section you can also find your **event API key** which is used to automatically upload the start list and results. For more information about automatic upload, see **[OResults Connector](./connector.md)**.
 
 :::tip
-Můžete snadno vytvořit **QR kód s odkazem na vaši událost** použitím tlačítka QR Code.
+
+You can easily create **QR Code with a link to your event** using the QR Code button.
 :::
+
 
 <img src="/img/event-main-setup.png" width="100%" />
 
 ### Podporované formáty
 
+**Start list** and **Results** are only supported in **IOF XML 3.0** format.
+
 **Start list** (startovky) a **Results** (výsledky) jsou podporovány pouze ve formátu **IOF XML 3.0**.
 
 :::caution Pozor
-**Start list** a **Results** musí obsahovat čísla čipů v tagu `<ControlCard>`.
 * Závodnící bez čísel čipů jsou ignorováni.
-* Každé číslo čipu může být použito pouze jednou. Druhý závodník s již použitým číslem čipu je ignorován.
+* Each card number can only be used once. A second runner with an already used card number is ignored.
 :::
 
-**Course** (tratě) jsou podporovány v textovém formátu **OCAD V8** a ve formátu **IOF XML 3.0**.
+
+**Start list** a **Results** musí obsahovat čísla čipů v tagu `<ControlCard>`.
 
 :::tip
-**Course** (tratě) jsou preferovány ve formátu **OCAD V8**, který je mnohem menší a vhodnější pro nahrávání než IOF XML 3.0.
+
+**Courses** are preferred in **OCAD V8 format** which is much smaller and more suitable for uploading than IOF XML 3.0.
 :::
+
 
 ### Nastavení radio kontrol
 
-Vyberte všechny radio kontroly. Radio kontroly se automaticky zobrazí v příslušných kategoriích v tabulkách výsledků.
+Select all radio controls. The radio controls will automatically appear in their respective classes in the results tables.
 
-:::caution Pozor
-Cílová kontrola se vybere automaticky bez ohledu na to, zda je to radio kontrola nebo ne. **Cílová kontrola musí mít kód nižší než 30.**
+:::caution
+
+Finish control is selected automatically whether you have it as a radio control or not. **Finish control must have a code lower than 30.**
 :::
+
 
 <img src="/img/event-radios-setup.png" width="100%" />
 
 ### Přiřazení Bluebox zařízení
 
-Tabulku s dostupnými Bluebox zařízeními můžete otevřít pomocí přepínače v části Radio devices.
+You can open the table with available Bluebox devices using the switch in the Radio devices section.
 
 <img src="/img/event-assign-devices.png" width="100%" />
 
 ### Monitoring Bluebox zařízení
 
-V sekci Radio devices můžete sledovat přiřazená Bluebox zařízení a přicházející razící záznamy, jak je znázorněno na obrázku. Další informace o monitoringu naleznete v části **[Monitoring zařízení](../devices/device-monitoring.md)**.
+You can monitor assigned Bluebox devices and punch records traffic in the Radio devices section as shown in the picture. For more information about monitoring see **[Device monitoring](../devices/device-monitoring.md)**.
 
 <img src="/img/event-devices-monitor.png" width="100%" />
 
 ### Danger zone
 
-:::danger Pozor
-Všechny akce provedené v Danger zone jsou nevratné.
+:::danger
+
+All actions taken in the Danger zone are irreversible.
 :::
 
-Pokud se potýkáte s chybami ve výsledcích, můžete vždy použít možnost Delete runners (odstraní startovní listinu a výsledky) a můžete je opět nahrát zpět.
+
+If you are struggling with some errors in the results you can always use option to delete runners (which will delete start list and results) and upload them back again.
 
 :::info
-**Nemějte obavy.** Funkce Delete runners a Delete Courses **NEODSTRANÍ** již **přijaté záznamy ražení** z radio kontrol.
+
+**Don't worry.** Delete Runners or Delete Courses do **NOT delete** already **received punch records** from radio controls.
 :::
+
 
 <img src="/img/event-danger-zone.png" width="100%" />
