@@ -1,8 +1,8 @@
 {
-  "label": "Events",
+  "label": "Události",
   "position": 2,
   "link": {
     "type": "generated-index",
-    "description": "Everything you need to know about how to setup and manage OResults events."
+    "description": "Vše, co potřebujete vědět o nastavení a správě událostí OResults."
   }
 }
