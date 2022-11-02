@@ -1,15 +1,15 @@
 ---
-slug: long-blog-post
-title: Long Blog Post
+slug: dlouhý blog-příspěvek
+title: Dlouhý příspěvek na blogu
 authors: endi
 tags:
-  - hello
+  - Dobrý den,
   - docusaurus
 ---
 
-This is the summary of a very long blog post,
+Toto je shrnutí velmi dlouhého příspěvku na blogu,
 
-Use a `<!--` `truncate` `-->` comment to limit blog post size in the list view.
+Pro omezení velikosti příspěvku blogu v zobrazení seznamu použijte komentář `<!--` `truncate` `-->` .
 
 <!--truncate-->
 
