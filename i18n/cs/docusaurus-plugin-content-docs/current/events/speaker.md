@@ -22,28 +22,30 @@ Speaker modul automaticky zobrazuje poslední razící záznamy, které přichá
 
 ### Tabulka
 
-Každý řádek tabulky patří jednomu závodníkovi. V prvním řádku se zobrazují nejnovější razící záznamy.
+Each row of the table belongs to one competitor. The most recent punch records are displayed in the first row.
 
-V **prvním sloupci** je zobrazen název **kategorie**. 
+V **prvním sloupci** je zobrazen název **kategorie**.
 
-Ve **druhém sloupci** se zobrazuje **jméno** závodníka a **klub/tým**. 
+Ve **druhém sloupci** se zobrazuje **jméno** závodníka a **klub/tým**.
 
-V **následujících sloupcích** jsou uvedeny **mezičasy závodníka**. Sloupce s mezičasy se postupně vyplňují tak, jak závodník prochází radio kontrolami. 
-
->Pokud závodník navštíví novou radio kontrolu, jeho řádek se přesune na začátek tabulky. 
+The **following columns** contain the competitor's **split times**. The intermediate time columns are progressively filled in as the competitor goes through the radio controls.
+> Pokud závodník navštíví novou radio kontrolu, jeho řádek se přesune na začátek tabulky.
 
 V **posledním sloupci** jsou uvedeny **údaje o vyčtení** (`OK`, `Disqualified` a `Unread` (nevyčteno)).
-
->Pokud se závodník objeví na **prvním, druhém nebo třetím místě** na některé z radio kontrol, **mezičas čas se podbarví** odpovídající barvou, jak je znázorněno na obrázku.
+> Pokud se závodník objeví na **prvním, druhém nebo třetím místě** na některé z radio kontrol, **mezičas čas se podbarví** odpovídající barvou, jak je znázorněno na obrázku.
 
 :::tip
-Kategorie můžete snadno filtrovat kliknutím na název kategorie v řádku kteréhokoli závodníka.
+
+You can easily filter the classes by clicking on the class name in the row of any competitor.
 :::
+
 
 <img src="/img/speaker-highlights.png" width="100%" />
 
 :::note Poznámka
-Nelekejte se, že některé řádky mají více sloupců než jiné. Počet sloupců je vždy specifický pro danou kategorii.
+
+Don't be alarmed that some rows have more columns than others. The number of columns is always class specific.
 :::
+
 
 <img src="/img/speaker-overview.png" width="100%" />
