@@ -18,26 +18,26 @@ Pokud máte zájem o pronájem Bluebox jednotek na vaši akci, podívejte se na 
 
 Jednotky se zapínají spínačem umístěným na boku.
 
-:::caution Pozor
-Před zapnutím každé jednotky musí být na její boční stranu přimontována externí anténa.
+:::caution
+An external antenna must be attached to the side of each unit before turning it on.
 :::
 
 ### Nabíjte jednotky
 
-:::caution Pozor
-Před každou akcí se ujistěte, že jednotky jsou řádně nabité.
+:::caution
+Make sure that the units are properly charged before each event.
 :::
 
-Jednotky se nabíjejí pomocí micro USB konektoru, který se nachází pod krytem na boku každé jednotky. Použijte nabíječku dodanou v zapůjčené sadě. V případě, že chcete použít vlastní nabíječku, musí mít jmenovité výstupní napětí 5V.
+The units are charged using the micro USB connector located under the cover on the side of each unit. Use the charger provided in the rental set. In case you want to use your own charger, it must have a nominal output voltage of 5V.
 
 ### Zkontrolujte signál
 
 V současné době jsou všechny jednotky vybaveny aktivními SIM kartami od T-Mobile.
 
-**Ujistěte se**, že ve všech místech, kam chcete umístit **vaše rádiokontroly**, je k dispozici **mobilní** **signál**. Jednotky Bluebox pracují na signálu Edge (2G) a jsou schopny spolehlivě odesílat záznamy o ražení i při slabém signálu. Stačí jedna nebo dvě čárky signálu.
+**Make sure** that there is **any mobile** network **signal** in the places **where** you want to place **your radiocontrol.** The Bluebox units work on the Edge (2G) signal and are able to reliably send punch records even with a weak signal. One or two lines of the signal are enaugh.
 
 :::info
-Pro informace, jak sledovat úroveň nabití baterie a sílu signálu navštivte [Monitoring zařízení](./device-monitoring).
+See [Device monitoring](./device-monitoring) for where to check the battery level and the signal strength .
 :::
 
 ## V den závodu
@@ -46,21 +46,20 @@ Pro informace, jak sledovat úroveň nabití baterie a sílu signálu navštivte
 
 Jedna jednotka je schopna přijímat razící záznami až z 8 SI-SRR krabiček (viz [Jak nastavit radio kontrolu](./radio-control.md))
 
-:::danger Pozor
-Jednotky musí být umístěny přibližně **ve stejné výšce jako SI krabička** ve **vzdálenosti maximálně 2 metrů**, aby byla zajištěna spolehlivá detekce razících záznamů.
+:::danger
+The units must be placed at approximately **the same height as the SI stations** at a **maximum distance of 2 metres** to ensure reliable detection of punch records.
 :::
 
-:::caution Pozor
-Jednotky ještě nejsou plně vodotěsné, takže pokud hrozí silný déšť, měly by být zakryty nepromokavým sáčkem nebo jiným obalem.
+:::caution
+The units are not fully waterproof so if there is a risk of heavy rain they should be covered with a waterproof bag or other cover.
 :::
 
 :::tip
-Jednotky lze nacvaknout na standardní držák krabičky SI-BSF7. Jednotky lze umístit na stejný stojan jako SI krabička nebo na samostatný kontrolní stojan vedle sebe, jak je znázorněno na obrázcích.
+The units can be snapped onto a standard SI-BSF7 station holder. You can be placed the units on the same control stand as the SI station or on a separate control stand alongside as it is shown in the pictures.
 :::
 
-<img src="/img/bb-sprintovky.jpg" width="45%" style={{marginRight: "10px"}} />
+<img src="/img/bb-sprintovky.jpg" width="45%" style={{marginRight: "15px"}} />
 <img src="/img/velikonoce.jpg" width="45%" />
 
 ### Monitoring
-
->Viz [Monitoring zařízení](./device-monitoring)
+> Viz [Monitoring zařízení](./device-monitoring)
