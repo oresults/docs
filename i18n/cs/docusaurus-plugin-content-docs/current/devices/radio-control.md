@@ -15,12 +15,13 @@ Pro každou radiokontrolu potřebujete:
 - Jedno zařízení **[Bluebox unit](bluebox-units)** nebo **[Bluebox Mobile](bluebox-mobile)**.
 - jednu nebo více SI stanic vybavených vysílačem SRR (**BSF8-SRR** nebo novějším).
 
+
 :::info
-Některé kluby a pořadatelé vlastní SRR stanice  a USB dongly pro zařízení Bluebox Mobile. Pokud nemáte vlastní, je možné si je pronajmout (viz **[informace pro organizátory](https://oresults.eu/organize)**).
+Some clubs and organizers own SRR stations and USB dongles for Bluebox Mobile devices. If you don't have your own, it is possible to rent them (see **[information for organizers](https://oresults.eu/organize)**).
 :::
 
 :::tip
-V případě závodu, kde **všichni závodnící mají SIAC, můžete** na radio kontrolách **použít klasické SPORTident stanice** namísto SRR stanic. Data záznamů ražení jsou posílána samotným SIACem pokud je stanice správně nastavena.
+In case of an event where **all competitiors have SIACs you can only use classic SPORTident stations** instead of the SRR stations on radio controls. Punch record data is sent by the SIAC itself if a station is correctly set.
 :::
 
 ## Před závodem
@@ -49,18 +50,19 @@ Ostatní parametry mohou být nastaveny volně podle potřeb závodu.
 
 <img src="/img/Untitled%201.png" width="100%" />
 
+
 ## V den závodu
 
 ### Umístění radiokontroly
 
 SRR stanice fungují stejně jako standardní SI stanice a lze je umístit do stojanů, jak jste zvyklí.
 
-**Jedno Bluebox** **zařízení** je schopno přijímat záznamy ražení z **až 8 SRR stanic nebo SIACů** najednou. Pokud tedy máte zdvojenou kontrolu (dvě SRR stanice na jedné kontrole), stále vám stačí jedno Bluebox zařízení pro celou kontrolu.
+**One Bluebox device** is capable of receiving punch records from **up to 8 SRR stations or SIACs** at the same time. So if you have doubled control (two SRR station at one control), you still only need one Bluebox device for the whole control.
 
-:::danger Pozor
-Bluebox zařízení musí být umístěno **ve stejné výšce jako SRR stanice** v **maximální vzdálenosti 2 metry**, aby byla zajištěna spolehlivá detekce záznamů děrování.
+:::danger
+The Bluebox device must be placed at the **same height as the SI stations** at a **maximum distance of 2 metres** to ensure reliable detection of punch records.
 :::
 
 :::tip
-Bluebox zařízení může být umístěno buď na stejném stojanu jako SRR stanice, nebo na samostatném stojanu. Nejlepším postupem je umístit Bluebox zařízení ve směru odběhu závodníků, čímž se výrazně zvýší spolehlivost zachycení záznamu ražení, především v případě SIACu.
+The Bluebox device can be placed either on the same stand as the SRR station or on a separate stand. The best practice is to place the Bluebox device in the run-off direction of the competitors which will greatly increase the reliability of punch record capture, mainly in case of SIACs.
 :::
