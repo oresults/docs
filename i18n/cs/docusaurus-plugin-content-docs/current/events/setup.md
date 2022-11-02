@@ -8,17 +8,17 @@ Podívejme se na to, jak snadno vytvářet a spravovat události v OResults.
 
 ## Vytvoření účet pro organizátory
 
-If you don't have one yet, create a free OResults account for organizers (see **[registration](https://oresults.eu/register))**. Your account will allow you to log in to the OResults admin section.
+Pokud ještě žádný nemáte, vytvořte si bezplatný účet OResults pro organizátory (viz **[registrace](https://oresults.eu/register))**. Váš účet vám umožní přihlásit se do sekce správce OResults.
 
-The rest of the manual is devoted to the admin section, which can only be accessed by a logged-in OResults user.
+Zbytek příručky je věnován sekci správce, do které má přístup pouze přihlášený uživatel OResults.
 
 ## Moje události (My events)
 
-You can see all your events in My events tab from where you can access event settings, [speaker modules](./speaker.md) and create a new event.
+Všechny své události vidíte na kartě Moje události, odkud můžete přistupovat k nastavení události, modulům [speaker](./speaker.md) a vytvářet nové události.
 
 :::tip
 
-Result tables of an unpublished event can be accessed by clicking on the event name in My events section.
+Tabulky výsledků nezveřejněné události lze zobrazit kliknutím na název události v sekci Moje události.
 :::
 
 
@@ -28,7 +28,7 @@ Result tables of an unpublished event can be accessed by clicking on the event n
 
 ### Obecná nastavení
 
-This section is used to set essential information such as:
+V této části se nastavují základní informace, jako jsou:
 
 - Název události
 - Organizátor
@@ -43,11 +43,11 @@ V této části se nastavují základní informace jako jsou:
 
 Posledním nastavením je **zveřejnění** události (is published), což má za následek, že se zobrazí na stránce událostí OResults.
 
-In this section you can also find your **event API key** which is used to automatically upload the start list and results. For more information about automatic upload, see **[OResults Connector](./connector.md)**.
+V této sekci najdete také svůj klíč API **události** , který se používá k automatickému odesílání startovní listiny a výsledků. Další informace o automatickém odesílání naleznete v části **[OResults Connector](./connector.md)**.
 
 :::tip
 
-You can easily create **QR Code with a link to your event** using the QR Code button.
+Pomocí tlačítka QR Code můžete snadno vytvořit **QR kód s odkazem na vaši událost** .
 :::
 
 
@@ -55,13 +55,13 @@ You can easily create **QR Code with a link to your event** using the QR Code bu
 
 ### Podporované formáty
 
-**Start list** and **Results** are only supported in **IOF XML 3.0** format.
+**Startovní seznam** a **Výsledky** jsou podporovány pouze ve formátu **IOF XML 3.0** .
 
 **Start list** (startovky) a **Results** (výsledky) jsou podporovány pouze ve formátu **IOF XML 3.0**.
 
 :::caution Pozor
 * Závodnící bez čísel čipů jsou ignorováni.
-* Each card number can only be used once. A second runner with an already used card number is ignored.
+* Každé číslo karty lze použít pouze jednou. Druhý běžec s již použitým číslem karty je ignorován.
 :::
 
 
@@ -69,17 +69,17 @@ You can easily create **QR Code with a link to your event** using the QR Code bu
 
 :::tip
 
-**Courses** are preferred in **OCAD V8 format** which is much smaller and more suitable for uploading than IOF XML 3.0.
+**Kurzy** jsou preferovány ve formátu **OCAD V8** , který je mnohem menší a vhodnější pro nahrávání než IOF XML 3.0.
 :::
 
 
 ### Nastavení radio kontrol
 
-Select all radio controls. The radio controls will automatically appear in their respective classes in the results tables.
+Vyberte všechny rádiové ovládací prvky. Rádiové ovládací prvky se automaticky zobrazí v příslušných třídách v tabulkách výsledků.
 
-:::caution
+**Start list** (startovky) a **Results** (výsledky) jsou podporovány pouze ve formátu **IOF XML 3.0**.
 
-Finish control is selected automatically whether you have it as a radio control or not. **Finish control must have a code lower than 30.**
+Kontrola dokončení je vybrána automaticky bez ohledu na to, zda ji máte jako rádiový ovladač, nebo ne. **Finish control musí mít kód nižší než 30.**
 :::
 
 
@@ -87,29 +87,29 @@ Finish control is selected automatically whether you have it as a radio control 
 
 ### Přiřazení Bluebox zařízení
 
-You can open the table with available Bluebox devices using the switch in the Radio devices section.
+Tabulku s dostupnými zařízeními Bluebox můžete otevřít pomocí přepínače v části Rádiová zařízení.
 
 <img src="/img/event-assign-devices.png" width="100%" />
 
 ### Monitoring Bluebox zařízení
 
-You can monitor assigned Bluebox devices and punch records traffic in the Radio devices section as shown in the picture. For more information about monitoring see **[Device monitoring](../devices/device-monitoring.md)**.
+Přidělená zařízení Bluebox můžete sledovat a záznamy úderů zaznamenávat v části Rádiová zařízení, jak je znázorněno na obrázku. Další informace o monitorování naleznete na adrese **[Monitorování zařízení](../devices/device-monitoring.md)**.
 
 <img src="/img/event-devices-monitor.png" width="100%" />
 
-### Danger zone
+### Nebezpečná zóna
 
-:::danger
+:::nebezpečí
 
-All actions taken in the Danger zone are irreversible.
+Všechny akce provedené v nebezpečné zóně jsou nevratné.
 :::
 
 
-If you are struggling with some errors in the results you can always use option to delete runners (which will delete start list and results) and upload them back again.
+Pokud se potýkáte s chybami ve výsledcích, můžete vždy použít možnost odstranit běžce (čímž se odstraní startovní listina a výsledky) a nahrát je znovu.
 
 :::info
 
-**Don't worry.** Delete Runners or Delete Courses do **NOT delete** already **received punch records** from radio controls.
+**Nebojte se.** **Funkce Odstranit běžce nebo Odstranit kurzy NESMÍ odstranit** již **přijaté záznamy o děrování** z rádiových ovládacích prvků.
 :::
 
 
