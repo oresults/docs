@@ -31,7 +31,7 @@ Karta Devices obsahuje dvě tabulky:
 - `Telefonní aplikace`: obsahuje všechna zařízení Bluebox Mobile, která jste vytvořili ve svém účtu. Zde také najdete `API tokeny` vašich zařízení.
 
 :::tip
-Klikněte na název zařízení Bluebox Mobile a změňte jeho název.
+Klikněte na název zařízení Bluebox Mobile pro změu jeho názvu.
 :::
 
 <img src="/img/devices-monitor.png" width="100%" />
