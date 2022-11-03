@@ -16,16 +16,16 @@ Jedná se o beta verzi aplikace, takže se mohou objevit drobné chyby.
 - 1x USB na micro USB / USB-C adaptér podle zařízení
 - 1x **[SPORTident USB dongle](https://www.sportident.com/documents/si-radio/SRR-Kit/SPORTident_SRR-Dongle.pdf)**
 
-<img src="/img/srr-dongle.png" width="40%" alt="Klíč USB SPORTident" />
+<img src="/img/srr-dongle.png" width="40%" alt="SPORTident USB dongle" />
 
 ## Před událostí
 
 ### Vytvořte si nové Bluebox Mobile zařízení
 
-Nové Bluebox Mobile zařízení můžete vytvořit v kartě Devices v části admin sekci OResults.
+Nové Bluebox Mobile zařízení můžete vytvořit v kartě Devices v admin sekci OResults.
 
 :::tip
-Klikněte na název zařízení Bluebox Mobile a změňte jeho název.
+Klikněte na název zařízení Bluebox Mobile pro změu jeho názvu.
 :::
 
 ### Stáhnětě a nainstalujte aplikaci
