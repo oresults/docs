@@ -8,13 +8,13 @@ Podívejme se na to, jak snadno vytvářet a spravovat události v OResults.
 
 ## Vytvoření účet pro organizátory
 
-Pokud ještě žádný nemáte, vytvořte si bezplatný účet OResults pro organizátory (viz **[registrace](https://oresults.eu/register))**. Váš účet vám umožní přihlásit se do sekce správce OResults.
+Pokud ještě žádný nemáte, vytvořte si bezplatný účet OResults pro organizátory (viz **[registrace](https://oresults.eu/register))**. Váš účet vám umožní přihlásit se do admin sekce OResults.
 
-Zbytek příručky je věnován sekci správce, do které má přístup pouze přihlášený uživatel OResults.
+Zbytek příručky je věnován administrátorské sekci, do které má přístup pouze přihlášený uživatel OResults.
 
 ## Moje události (My events)
 
-Všechny své události vidíte na kartě Moje události, odkud můžete přistupovat k nastavení události, modulům [speaker](./speaker.md) a vytvářet nové události.
+Všechny své události naleznete na kartě Moje události, odkud můžete přistupovat k nastavení události, [speaker modulu](./speaker.md) a vytvářet nové události.
 
 :::tip
 
