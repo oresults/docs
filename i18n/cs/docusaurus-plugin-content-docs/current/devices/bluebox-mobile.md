@@ -53,7 +53,7 @@ Připojte SPORTident USB dongle k zařízení pomocí adaptéru USB na micro USB
 * Aplikace se ke SPORTident USB donglu připojí automaticky, dávejte však pozor abyste potvrdili žádosti o oprávnění (včetně checkboxu "povolit vždy"), díky tomu se aplikace připojí k donglu i při zamčené obrazovce pokud dojde k narušení kontaktu.
 * Pokud nepovolíte aplikaci přístup k poloze, síla signálu nebude posílána do OResults a nezobrazí se vám v administraci závodu.
 * Aplikace zabraňuje přechodu telefonu do režimu spánku. Nenechávejte aplikaci spuštěnou na pozadí, pokud ji nepoužíváte, vybíjí to baterii.
-* **Na obrazovce zařízení** se zobrazují příchozí údery (zeleně) a zprávy o stavu připojení klíče (žlutě). **Záložka Děrovačky** zobrazuje uložené děrovačky a jejich stav *odeslat / ještě neodeslat* .
+* **Na obrazovce zařízení** se zobrazují příchozí údery (zeleně) a zprávy o stavu připojení klíče (žlutě). **Záložka Punches** zobrazuje uložená ražení a jejich stav *send / not send yet*.
 
 
 ### Zajistěte internetové připojení
@@ -64,8 +64,8 @@ Ujistěte se, že je vaše zařízení připojeno k internetu v místě radio ko
 
 ### Umístění zařízení
 
-:::nebezpečí
-Připojený USB klíč musí být umístěn přibližně ve **stejné výšce jako stanice SI** ve vzdálenosti **maximálně 2 metry** , aby byla zajištěna spolehlivá detekce záznamů děrných štítků.
+:::danger
+Pozor Připojený USB dongle musí být umístěn přibližně ve **stejné výšce jako stanice SI** ve vzdálenosti **maximálně 2 metry**, aby byla zajištěna spolehlivá detekce záznamů ražení.
 :::
 
 ### Monitorování
@@ -73,7 +73,7 @@ Připojený USB klíč musí být umístěn přibližně ve **stejné výšce ja
 
 ## Zásady ochrany osobních údajů (Bluebox Mobile)
 
-OResutls (Otakar Hirš a Jan Jurica) vytvořili aplikaci Bluebox Mobile jako bezplatnou aplikaci. Tato služba je poskytována společností OResutls bezplatně a je určena k použití tak, jak je.
+OResutls (Otakar Hirš a Jan Jurica) vytvořili aplikaci Bluebox Mobile jako bezplatnou aplikaci. Tato služba je poskytována týmem OResutls bezplatně a je určena k použití tak, jak je.
 
 Tato stránka slouží k informování návštěvníků o našich zásadách týkajících se shromažďování, používání a zveřejňování osobních údajů, pokud se někdo rozhodne používat naši službu.
 
