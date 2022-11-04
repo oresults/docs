@@ -19,16 +19,16 @@ Pokud máte zájem o pronájem Bluebox jednotek na vaši akci, podívejte se na 
 Jednotky se zapínají spínačem umístěným na boku.
 
 :::caution
-Před zapnutím každé jednotky je nutné na její boční stranu připojit externí anténu.
+Pozor Před zapnutím každé jednotky je nutné na její boční stranu připojit externí anténu.
 :::
 
 ### Nabíjte jednotky
 
 :::caution
-Před každou akcí se ujistěte, že jsou jednotky řádně nabité.
+Pozor Před každou akcí se ujistěte, že jsou jednotky řádně nabité.
 :::
 
-Jednotky se nabíjejí pomocí konektoru micro USB umístěného pod krytem na boku každé jednotky. Použijte nabíječku, která je součástí sady k zapůjčení. Pokud chcete použít vlastní nabíječku, musí mít jmenovité výstupní napětí 5 V.
+Jednotky se nabíjejí pomocí micro USB konektoru umístěném pod krytem na boku každé jednotky. Použijte nabíječku, která je součástí sady k zapůjčení. Pokud chcete použít vlastní nabíječku, musí mít jmenovité výstupní napětí 5 V.
 
 ### Zkontrolujte signál
 
