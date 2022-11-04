@@ -25,7 +25,7 @@ Jedná se o beta verzi aplikace, takže se mohou objevit drobné chyby.
 Nové Bluebox Mobile zařízení můžete vytvořit v kartě Devices v admin sekci OResults.
 
 :::tip
-Klikněte na název zařízení Bluebox Mobile pro změu jeho názvu.
+Klikněte na název zařízení Bluebox Mobile pro změnu jeho názvu.
 :::
 
 ### Stáhnětě a nainstalujte aplikaci
@@ -37,10 +37,10 @@ Nainstalujte aplikaci pomocí staženého instalačního souboru. Možná bude n
 ### Nastavení aplikace
 
 Při prvním spuštění aplikace otevřete nastavení aplikace a vyplňte **API token**.<!--Optionally, you can set on which `Channel` your USB dongle is receiving punch records (see \[How to setup a radiocontrol\](./radio-control.md)). -->:::caution  
-Nezapomeňte nastavit token API **** na kartě nastavení, kterou najdete v administraci OResults v sekci **Devices**.
+Nezapomeňte nastavit **API token** na kartě nastavení, kterou najdete v admin sekci OResults v kartě **Devices**.
 :::
 
-<img src="/img/bb-mobile-settings.jpg" width="50%" alt="Nastavení služby Bluebox Mobile" />
+<img src="/img/bb-mobile-settings.jpg" width="50%" alt="Nastavení Bluebox Mobile" />
 
 ### Připojte USB dongle
 
