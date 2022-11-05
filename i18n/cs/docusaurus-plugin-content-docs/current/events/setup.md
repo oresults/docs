@@ -55,7 +55,7 @@ Pomocí tlačítka QR Code můžete snadno vytvořit **QR kód s odkazem na vaš
 
 ### Podporované formáty
 
-**Startovní seznam** a **Výsledky** jsou podporovány pouze ve formátu **IOF XML 3.0** .
+**Startovní listina** a **Výsledky** jsou podporovány pouze ve formátu **IOF XML 3.0**.
 
 **Start list** (startovky) a **Results** (výsledky) jsou podporovány pouze ve formátu **IOF XML 3.0**.
 
