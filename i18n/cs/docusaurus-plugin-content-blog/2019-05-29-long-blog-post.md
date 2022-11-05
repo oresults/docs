@@ -3,7 +3,7 @@ slug: dlouhý blog-příspěvek
 title: Dlouhý příspěvek na blogu
 authors: endi
 tags:
-  - Dobrý den,
+  - hello
   - docusaurus
 ---
 
