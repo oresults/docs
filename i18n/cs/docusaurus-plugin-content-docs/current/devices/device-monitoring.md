@@ -6,7 +6,7 @@ sidebar_position: 4
 
 Monitoring zařízení umožňuje uživateli kontrolovat status Bluebox zařízení a sledovat příchozí razící záznamy během událostí.
 
-Sledování zařízení je k dispozici pouze pro přihlášené uživatele v sekci správce OResults. Existují dvě možnosti, jak sledovat zařízení Bluebox:
+Monitoring zařízení je k dispozici pouze pro přihlášené uživatele v sekci správce OResults. Existují dvě možnosti, jak sledovat zařízení Bluebox:
 
 - **Karta Devices**
 - **Nastavení události**
@@ -28,7 +28,7 @@ Pokud chcete zjistit přesný stav nabití baterie, najeďte kurzorem na ikonu b
 Karta Devices obsahuje dvě tabulky:
 
 - `Pronajaté jednotky Bluebox`: obsahuje všechny jednotky Bluebox, které jste si od nás pronajali na svou akci. Jednotky Bluebox k vašemu účtu přiřadí správce OResults.
-- `Telefonní aplikace`: obsahuje všechna zařízení Bluebox Mobile, která jste vytvořili ve svém účtu. Zde také najdete `API tokeny` vašich zařízení.
+- `Mobilní aplikace`: obsahuje všechna zařízení Bluebox Mobile, která jste vytvořili ve svém účtu. Zde také najdete `API tokeny` vašich zařízení.
 
 :::tip
 Klikněte na název zařízení Bluebox Mobile pro změnu jeho názvu.
@@ -41,7 +41,7 @@ Klikněte na název zařízení Bluebox Mobile pro změnu jeho názvu.
 Vaše zařízení můžete také monitorovat v sekci **Radio devices** v nastavení události, ke které jste je přiřadili (viz [Jak spravovat událost](../events/setup.md)).
 
 :::tip
-Sekce **Rádiová zařízení** obsahuje druhou tabulku **Poslední údery** , kde můžete vidět **posledních 7 záznamů úderů** vaší události. Pomocí této tabulky můžete zkontrolovat, zda jsou vaše zařízení schopna odeslat záznamy o děrování před zahájením události.
+Sekce **Radio devices** obsahuje druhou tabulku **Last punches**, kde můžete vidět **posledních 7 záznamů ražení** vaší události. Pomocí této tabulky můžete zkontrolovat, zda jsou vaše zařízení schopna odeslat záznamy o děrování před zahájením události.
 :::
 
 <img src="/img/event-devices-monitor.png" width="100%" />
