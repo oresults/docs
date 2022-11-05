@@ -17,7 +17,7 @@ Pro každou radiokontrolu potřebujete:
 
 
 :::info
-Některé kluby a organizátoři vlastní SRR stanice a USB klíče pro zařízení Bluebox Mobile. Pokud nemáte vlastní, je možné si je pronajmout (viz informace pro organizátory na **[](https://oresults.eu/organize)**).
+Některé kluby a organizátoři vlastní SRR stanice a USB dongky pro zařízení Bluebox Mobile. Pokud nemáte vlastní, je možné si je pronajmout (viz **[informace pro organizátory](https://oresults.eu/organize)**).
 :::
 
 :::tip
