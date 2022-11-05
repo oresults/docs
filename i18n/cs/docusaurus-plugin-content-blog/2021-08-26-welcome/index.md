@@ -1,5 +1,5 @@
 ---
-slug: Vítejte
+slug: vítejte
 title: Vítejte na
 authors:
   - slorber
