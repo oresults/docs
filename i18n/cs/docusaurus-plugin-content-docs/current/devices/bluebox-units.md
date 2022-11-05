@@ -34,24 +34,24 @@ Jednotky se nabíjejí pomocí micro USB konektoru umístěném pod krytem na bo
 
 V současné době jsou všechny jednotky vybaveny aktivními SIM kartami od T-Mobile.
 
-** **** Ujistěte se, že** je v místech **, kam chcete** umístit **rádiové ovládání, dostupný signál mobilní** sítě **.** Jednotky Bluebox pracují na signálu Edge (2G) a jsou schopny spolehlivě odesílat záznamy úderů i při slabém signálu. Stačí jeden nebo dva řádky signálu.
+**Ujistěte se,** že je v místech, kam chcete umístit radio kontrolu, **dostupný signál mobilní** sítě. Jednotky Bluebox pracují na signálu Edge (2G) a jsou schopny spolehlivě odesílat záznamy řazení I při slabém signálu. Stačí jeden nebo dva řádky signálu.
 
 :::info
-Viz [Sledování zařízení](./device-monitoring) , kde lze zkontrolovat úroveň nabití baterie a sílu signálu .
+Viz [Monitoring zařízení](./device-monitoring) , kde lze zkontrolovat úroveň nabití baterie a sílu signálu.
 :::
 
 ## V den závodu
 
 ### Umístění jednotek
 
-Jedna jednotka je schopna přijímat razící záznami až z 8 SI-SRR krabiček (viz [Jak nastavit radio kontrolu](./radio-control.md))
+Jedna jednotka je schopna přijímat záznamy ražení až z 8 SI-SRR krabiček (viz [Jak nastavit radio kontrolu](./radio-control.md))
 
-:::nebezpečí
-Jednotky musí být umístěny přibližně ve **stejné výšce jako stanice SI** ve vzdálenosti **maximálně 2 metry** , aby byla zajištěna spolehlivá detekce záznamů děr.
+:::danger
+Pozor Jednotky musí být umístěny přibližně ve **stejné výšce jako SI stanice** ve vzdálenosti **maximálně 2 metry**, aby byla zajištěna spolehlivá detekce záznamů ražení.
 :::
 
 :::caution
-Jednotky nejsou plně vodotěsné, takže pokud hrozí silný déšť, měly by být zakryty nepromokavým sáčkem nebo jiným krytem.
+Pozor Jednotky nejsou plně vodotěsné, takže pokud hrozí silný déšť, měly by být zakryty nepromokavým sáčkem nebo jiným krytem.
 :::
 
 :::tip
