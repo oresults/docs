@@ -43,7 +43,7 @@ V této části se nastavují základní informace jako jsou:
 
 Posledním nastavením je **zveřejnění** události (is published), což má za následek, že se zobrazí na stránce událostí OResults.
 
-V této sekci najdete také svůj klíč API **události** , který se používá k automatickému odesílání startovní listiny a výsledků. Další informace o automatickém odesílání naleznete v části **[OResults Connector](./connector.md)**.
+V této sekci najdete také svůj **API token události**, který se používá k automatickému odesílání startovní listiny a výsledků. Další informace o automatickém odesílání naleznete v části **[OResults Connector](./connector.md)**.
 
 :::tip
 
@@ -69,7 +69,7 @@ Pomocí tlačítka QR Code můžete snadno vytvořit **QR kód s odkazem na vaš
 
 :::tip
 
-**Kurzy** jsou preferovány ve formátu **OCAD V8** , který je mnohem menší a vhodnější pro nahrávání než IOF XML 3.0.
+**Tratě** jsou preferovány ve formátu **OCAD V8**, který je mnohem menší a vhodnější pro nahrávání než IOF XML 3.0.
 :::
 
 
@@ -79,7 +79,7 @@ Vyberte všechny rádiové ovládací prvky. Rádiové ovládací prvky se autom
 
 **Start list** (startovky) a **Results** (výsledky) jsou podporovány pouze ve formátu **IOF XML 3.0**.
 
-Kontrola dokončení je vybrána automaticky bez ohledu na to, zda ji máte jako rádiový ovladač, nebo ne. **Finish control musí mít kód nižší než 30.**
+Kontrola dokončení je vybrána automaticky bez ohledu na to, zda ji máte jako rádiový ovladač, nebo ne. **Cílová kontrola musí mít kód nižší než 30.**
 :::
 
 
@@ -93,7 +93,7 @@ Tabulku s dostupnými zařízeními Bluebox můžete otevřít pomocí přepína
 
 ### Monitoring Bluebox zařízení
 
-Přidělená zařízení Bluebox můžete sledovat a záznamy úderů zaznamenávat v části Rádiová zařízení, jak je znázorněno na obrázku. Další informace o monitorování naleznete na adrese **[Monitorování zařízení](../devices/device-monitoring.md)**.
+Přidělená zařízení Bluebox a záznamy ražení můžete sledovat v části Rádiová zařízení, jak je znázorněno na obrázku. Další informace o monitorování naleznete na adrese **[Monitorování zařízení](../devices/device-monitoring.md)**.
 
 <img src="/img/event-devices-monitor.png" width="100%" />
 
