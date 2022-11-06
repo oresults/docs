@@ -6,7 +6,7 @@ sidebar_position: 3
 
 OResults Connector je jednoduchá terminálová aplikace pro **automatické nahrávání startovních listin a souborů s výsledky do OResults**. Nahrává soubory z dané složky tak, jak jsou vytvářeny nebo upravovány.
 
-## Stáhnout a použít
+## Stažení a použití
 Viz **[Releases](https://github.com/oresults/oresults-connector/releases)**.
 
 ## QuickEvent
