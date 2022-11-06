@@ -6,7 +6,7 @@ sidebar_position: 1
 
 Podívejme se na to, jak snadno vytvářet a spravovat události v OResults.
 
-## Vytvoření účet pro organizátory
+## Vytvoření účtu pro organizátory
 
 Pokud ještě žádný nemáte, vytvořte si bezplatný účet OResults pro organizátory (viz **[registrace](https://oresults.eu/register))**. Váš účet vám umožní přihlásit se do admin sekce OResults.
 
