@@ -63,4 +63,4 @@ The units can be snapped onto a standard SI-BSF7 station holder. You can be plac
 
 ### Monitoring
 
->See [Device monitoring](./device-monitoring)
+>See **[Device monitoring](./device-monitoring)**

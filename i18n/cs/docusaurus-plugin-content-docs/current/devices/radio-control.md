@@ -17,7 +17,7 @@ Pro každou radiokontrolu potřebujete:
 
 
 :::info
-Některé kluby a organizátoři vlastní SRR stanice a USB dongky pro zařízení Bluebox Mobile. Pokud nemáte vlastní, je možné si je pronajmout (viz **[informace pro organizátory](https://oresults.eu/organize)**).
+Některé kluby a organizátoři vlastní SRR stanice a USB dongly pro zařízení Bluebox Mobile. Pokud nemáte vlastní, je možné si je pronajmout (viz **[informace pro organizátory](https://oresults.eu/organize)**).
 :::
 
 :::tip
@@ -59,7 +59,7 @@ SRR stanice fungují stejně jako standardní SI stanice a lze je umístit do st
 
 **Jedno zařízení Bluebox** je schopno přijímat záznamy ražení **až z 8 stanic SRR nebo SIAC** současně. Pokud tedy máte zdvojené kontroky (dvě stanice SRR na jedné kontrole), stále potřebujete pouze jedno zařízení Bluebox pro celou kontrolu.
 
-:::danger
+:::danger Pozor
 Pozor Zařízení Bluebox musí být umístěno ve **stejné výšce jako stanice SI** ve **vzdálenosti maximálně 2 metry**, aby byla zajištěna spolehlivá detekce záznamů ražení.
 :::
 

@@ -6,9 +6,9 @@ sidebar_position: 3
 
 Read these instructions before using Bluebox Mobile app.
 
-:::caution
+<!--:::caution
 This is a beta version of the app so small bugs may appear.
-:::
+:::-->
 
 ## Required equipment
 

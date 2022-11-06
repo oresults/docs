@@ -18,13 +18,13 @@ Pokud máte zájem o pronájem Bluebox jednotek na vaši akci, podívejte se na 
 
 Jednotky se zapínají spínačem umístěným na boku.
 
-:::caution
-Pozor Před zapnutím každé jednotky je nutné na její boční stranu připojit externí anténu.
+:::caution Pozor
+Před zapnutím každé jednotky je nutné na její boční stranu připojit externí anténu.
 :::
 
 ### Nabíjte jednotky
 
-:::caution
+:::caution Pozor
 Pozor Před každou akcí se ujistěte, že jsou jednotky řádně nabité.
 :::
 
@@ -46,11 +46,11 @@ Viz [Monitoring zařízení](./device-monitoring) , kde lze zkontrolovat úrove�
 
 Jedna jednotka je schopna přijímat záznamy ražení až z 8 SI-SRR krabiček (viz [Jak nastavit radio kontrolu](./radio-control.md))
 
-:::danger
+:::danger Pozor
 Pozor Jednotky musí být umístěny přibližně ve **stejné výšce jako SI stanice** ve vzdálenosti **maximálně 2 metry**, aby byla zajištěna spolehlivá detekce záznamů ražení.
 :::
 
-:::caution
+:::caution Pozor
 Pozor Jednotky nejsou plně vodotěsné, takže pokud hrozí silný déšť, měly by být zakryty nepromokavým sáčkem nebo jiným krytem.
 :::
 
@@ -62,4 +62,4 @@ Jednotky lze nacvaknout na standardní držák stanice SI-BSF7. Jednotky lze um�
 <img src="/img/velikonoce.jpg" width="45%" />
 
 ### Monitorování
-> Viz [Monitoring zařízení](./device-monitoring)
+> Viz **[Monitoring zařízení](./device-monitoring)**

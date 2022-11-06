@@ -12,7 +12,7 @@ Pro otevření Speaker modulu použijte **ikonu mikrofonu** u vaší události.
 
 ## Funkce
 
-Speaker modul automaticky zobrazuje poslední razící záznamy, které přicházejí do OResults.
+Speaker modul automaticky zobrazuje poslední záznamy ražení, které přicházejí do OResults.
 
 ### Filtr
 
@@ -22,29 +22,27 @@ Speaker modul automaticky zobrazuje poslední razící záznamy, které přichá
 
 ### Tabulka
 
-Každý řádek tabulky patří jednomu soutěžícímu. V prvním řádku se zobrazí nejnovější záznamy o děrování.
+Každý řádek tabulky patří jednomu závodníkovi. V prvním řádku se zobrazí nejnovější záznamy ražení.
 
 V **prvním sloupci** je zobrazen název **kategorie**.
 
 Ve **druhém sloupci** se zobrazuje **jméno** závodníka a **klub/tým**.
 
-Následující sloupce **** obsahují časy rozdělení soutěžícího ****. Sloupce s mezičasy se vyplňují postupně, jak závodník prochází rádiovými kontrolami.
+Následující sloupce **obsahují mezičasy závodníka**. Sloupce s mezičasy se vyplňují postupně, jak závodník prochází radio kontrolami.
 > Pokud závodník navštíví novou radio kontrolu, jeho řádek se přesune na začátek tabulky.
 
 V **posledním sloupci** jsou uvedeny **údaje o vyčtení** (`OK`, `Disqualified` a `Unread` (nevyčteno)).
 > Pokud se závodník objeví na **prvním, druhém nebo třetím místě** na některé z radio kontrol, **mezičas čas se podbarví** odpovídající barvou, jak je znázorněno na obrázku.
 
 :::tip
-
-Třídy můžete snadno filtrovat kliknutím na název třídy v řádku kteréhokoli konkurenta.
+Kategorie můžete snadno filtrovat kliknutím na název v řádku kteréhokoli závodníka.
 :::
 
 
 <img src="/img/speaker-highlights.png" width="100%" />
 
 :::note Poznámka
-
-Nelekejte se, že některé řádky mají více sloupců než jiné. Počet sloupců je vždy specifický pro danou třídu.
+Nelekejte se, že některé řádky mají více sloupců než jiné. Počet sloupců je vždy specifický pro danou kategorii.
 :::
 
 

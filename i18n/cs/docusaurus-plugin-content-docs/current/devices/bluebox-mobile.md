@@ -6,9 +6,9 @@ sidebar_position: 3
 
 Před použitím Bluebox Mobile aplikace si přečtěte tyto pokyny.
 
-:::caution
+<!--:::caution Pozor
 Jedná se o beta verzi aplikace, takže se mohou objevit drobné chyby.
-:::
+:::-->
 
 ## Potřebné vybavení
 
@@ -64,7 +64,7 @@ Ujistěte se, že je vaše zařízení připojeno k internetu v místě radio ko
 
 ### Umístění zařízení
 
-:::danger
+:::danger Pozor
 Pozor Připojený USB dongle musí být umístěn přibližně ve **stejné výšce jako stanice SI** ve vzdálenosti **maximálně 2 metry**, aby byla zajištěna spolehlivá detekce záznamů ražení.
 :::
 
