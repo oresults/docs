@@ -62,4 +62,4 @@ Jednotky lze nacvaknout na standardní držák stanice SI-BSF7. Jednotky lze um�
 <img src="/img/velikonoce.jpg" width="45%" />
 
 ### Monitorování
-> Viz [Monitoring zařízení](./device-monitoring)
+> Viz **[Monitoring zařízení](./device-monitoring)**
