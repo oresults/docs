@@ -6,9 +6,9 @@ sidebar_position: 3
 
 Před použitím Bluebox Mobile aplikace si přečtěte tyto pokyny.
 
-:::caution
-Jedná se o beta verzi aplikace, takže se mohou objevit drobné chyby.
-:::
+<!--:::caution
+This is a beta version of the app so small bugs may appear.
+:::-->
 
 ## Potřebné vybavení
 
