@@ -1,8 +1,5 @@
 {
   "label": "Events",
   "position": 2,
-  "link": {
-    "type": "generated-index",
-    "description": "Everything you need to know about how to setup and manage OResults events."
-  }
+  "link": null
 }

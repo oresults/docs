@@ -1,8 +1,5 @@
 {
   "label": "Zařízení",
   "position": 3,
-  "link": {
-    "type": "generated-index",
-    "description": "Vše, co potřebujete vědět o používání Bluebox zařízení a nastavení radio kontrol."
-  }
+  "link": null
 }

@@ -1,8 +1,5 @@
 {
   "label": "Devices",
   "position": 3,
-  "link": {
-    "type": "generated-index",
-    "description": "Everything you need to know about how to use Bluebox devices and setup radio controls."
-  }
+  "link": null
 }
