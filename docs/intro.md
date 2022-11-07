@@ -3,7 +3,7 @@ sidebar_position: 1
 slug: /
 ---
 
-# Intro
+# Introduction
 
 The OResults User Guide contains all the information you need to know to organise an event with live results in OResults.
 
