@@ -2,8 +2,8 @@
 sidebar_position: 4
 ---
 
-# What's New
+# Novinky
 
-## October 2022
+## Říjen 2022
 
-## September 2022
+## Září 2022
