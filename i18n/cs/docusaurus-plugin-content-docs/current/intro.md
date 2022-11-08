@@ -3,7 +3,7 @@ sidebar_position: 1
 slug: /
 ---
 
-# Úvod
+# Introduction
 
 OResults Uživatelská příručka obsahuje všechny potřebné informace, které potřebujete vědět pro organizaci události s živým přenosem výsledků v OResults.
 
