@@ -6,7 +6,7 @@ sidebar_position: 4
 
 Protokol ROC je implementací jednoduchého textového formátu záznamů ražení, který používá většina orientačních softwarů pro příjem živých záznamů ražení.
 
-Každý orientační software má vlastní název pro službu podporující protokol ROC, například **Online vstup** nebo **Vzdálený vstup**. Další informace naleznete v dokumentaci příslušného orientačnímu softwaru.
+Každý orientační software má vlastní název pro službu podporující protokol ROC, například **Online vstup** nebo **Vzdálený vstup**. Další informace naleznete v dokumentaci k orientačnímu softwaru.
 
 ## ROC v OResults
 
