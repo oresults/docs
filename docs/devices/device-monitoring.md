@@ -27,11 +27,11 @@ Hover cursor over the battery icon if you want to know the exact battery perceta
 
 The Devices tab contains two tables:
 
-- `Rented Bluebox units`: contains all Bluebox units which you have rented from us for your event. Bluebox units will be assigned to your account by the OResults administrator.
-- `Phone apps`: contains all Bluebox Mobile devices which you have created in your account. Here you can also find `API tokens` of your devices. 
+- `Rented Blueboxes`: contains all Blueboxes which you have rented from us for your event. Blueboxes will be assigned to your account by the OResults administrator.
+- `Mobile apps`: contains all mobile devices which you have created in your account. Here you can also find `API tokens` of your devices. 
 
 :::tip
-Click on the name of your Bluebox Mobile device to change its name.
+Click on the name of your Bluebox device to change its name.
 :::
 
 <img src="/img/devices-monitor.png" width="100%" />

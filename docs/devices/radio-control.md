@@ -12,7 +12,7 @@ Information on how the Bluebox system works are on **[OResults](https://oresults
 
 For each radio control you need:
 
-- One **[Bluebox unit](bluebox-units)** or one **[Bluebox Mobile](bluebox-mobile)** device
+- One **[Bluebox](bluebox-units)** or one Android device with **[Bluebox Mobile app](bluebox-mobile)**
 - One or more SI stations equipped with a SRR transmitter (**BSF8-SRR** or newer)
 
 
