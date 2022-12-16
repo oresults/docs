@@ -10,11 +10,11 @@ Podívejme se na to, jak snadno vytvářet a spravovat události v OResults.
 
 Pokud ještě žádný nemáte, vytvořte si bezplatný účet OResults pro organizátory (viz **[registrace](https://oresults.eu/register))**. Váš účet vám umožní přihlásit se do admin sekce OResults.
 
-Zbytek návodu je věnován administrátorské sekci, do které má přístup pouze přihlášený uživatel OResults.
+Zbytek příručky je věnován administrátorské sekci, do které má přístup pouze přihlášený uživatel OResults.
 
-## Moje události
+## Moje události (My events)
 
-Všechny své události naleznete na kartě Moje události, odkud můžete přistupovat k nastavení události, **[speaker modulu](./speaker.md)** a vytvářet nové události.
+Všechny své události naleznete na kartě Moje události, odkud můžete přistupovat k nastavení události, [speaker modulu](./speaker.md) a vytvářet nové události.
 
 :::tip
 
@@ -57,24 +57,29 @@ Pomocí tlačítka QR Code můžete snadno vytvořit **QR kód s odkazem na vaš
 
 **Startovní listina** a **Výsledky** jsou podporovány pouze ve formátu **IOF XML 3.0**.
 
+**Start list** (startovky) a **Results** (výsledky) jsou podporovány pouze ve formátu **IOF XML 3.0**.
+
 :::caution Pozor
 * Závodnící bez čísel čipů jsou ignorováni.
 * Každé číslo karty lze použít pouze jednou. Druhý běžec s již použitým číslem karty je ignorován.
 :::
 
-**Startovní listina** a **Výsledky** musí obsahovat čísla čipů v tagu `<ControlCard>`.
+
+**Start list** a **Results** musí obsahovat čísla čipů v tagu `<ControlCard>`.
 
 :::tip
+
 **Tratě** jsou preferovány ve formátu **OCAD V8**, který je mnohem menší a vhodnější pro nahrávání než IOF XML 3.0.
 :::
 
 
 ### Nastavení radio kontrol
 
-Vyberte všechny radio kontroly. Rádiové ovládací prvky se automaticky zobrazí v příslušných kategoriích v tabulkách výsledků.
+Vyberte všechny rádiové ovládací prvky. Rádiové ovládací prvky se automaticky zobrazí v příslušných třídách v tabulkách výsledků.
 
-:::caution Pozor
-Cílová kontrola je vybrána automaticky bez ohledu na to, zda ji máte jako radio kontrolu nebo ne. **Cílová kontrola musí mít kód nižší než 30.**
+**Start list** (startovky) a **Results** (výsledky) jsou podporovány pouze ve formátu **IOF XML 3.0**.
+
+Kontrola dokončení je vybrána automaticky bez ohledu na to, zda ji máte jako rádiový ovladač, nebo ne. **Cílová kontrola musí mít kód nižší než 30.**
 :::
 
 
@@ -82,19 +87,20 @@ Cílová kontrola je vybrána automaticky bez ohledu na to, zda ji máte jako ra
 
 ### Přiřazení Bluebox zařízení
 
-Tabulku s dostupnými Bluebox zařízeními můžete otevřít pomocí přepínače v části Radio zařízení.
+Tabulku s dostupnými zařízeními Bluebox můžete otevřít pomocí přepínače v části Rádiová zařízení.
 
 <img src="/img/event-assign-devices.png" width="100%" />
 
 ### Monitoring Bluebox zařízení
 
-Přidělená zařízení Bluebox a záznamy ražení můžete sledovat v části Rádiová zařízení, jak je znázorněno na obrázku. Další informace o monitorování naleznete na **[Monitoring zařízení](../devices/device-monitoring.md)**.
+Přidělená zařízení Bluebox a záznamy ražení můžete sledovat v části Rádiová zařízení, jak je znázorněno na obrázku. Další informace o monitorování naleznete na adrese **[Monitorování zařízení](../devices/device-monitoring.md)**.
 
 <img src="/img/event-devices-monitor.png" width="100%" />
 
-### Danger zone
+### Nebezpečná zóna
 
-:::danger Pozor
+:::nebezpečí
+
 Všechny akce provedené v nebezpečné zóně jsou nevratné.
 :::
 
@@ -103,7 +109,7 @@ Pokud se potýkáte s chybami ve výsledcích, můžete vždy použít možnost 
 
 :::info
 
-**Nebojte se.** **Funkce Odstranit běžce nebo Odstranit tratě NEODSTRANÍ** již **přijaté záznamy ražení** z rádiových ovládacích prvků.
+**Nebojte se.** **Funkce Odstranit běžce nebo Odstranit kurzy NESMÍ odstranit** již **přijaté záznamy o děrování** z rádiových ovládacích prvků.
 :::
 
 
