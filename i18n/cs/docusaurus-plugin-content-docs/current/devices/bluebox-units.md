@@ -2,9 +2,9 @@
 sidebar_position: 2
 ---
 
-# Bluebox jednotky
+# Bluebox
 
-Před jakoukoliv manipulací s Bluebox jednotkami si přečtěte tyto pokyny.
+Read these instructions before handling any Blueboxes.
 
 <img src="/img/Bluebox_unit.png" width="40%" style={{marginRight: "15px"}} />
 
@@ -12,29 +12,29 @@ Před jakoukoliv manipulací s Bluebox jednotkami si přečtěte tyto pokyny.
 
 ### Pronájem
 
-Pokud máte zájem o pronájem Bluebox jednotek na vaši akci, podívejte se na [OResults/Organize](https://oresults.eu/organize).
+See [OResults/Organize](https://oresults.eu/organize) if you are interested in renting Blueboxes for your event.
 
 ### Zapnutí jednotek
 
-Jednotky se zapínají spínačem umístěným na boku.
+Blueboxes are turned on by a switch located on the side.
 
-:::caution Pozor
-Před zapnutím každé jednotky je nutné na její boční stranu připojit externí anténu.
+:::caution
+Pozor Před zapnutím každé jednotky je nutné na její boční stranu připojit externí anténu.
 :::
 
-### Nabíjte jednotky
+### Charge the Bluebox
 
-:::caution Pozor
-Pozor Před každou akcí se ujistěte, že jsou jednotky řádně nabité.
+:::caution
+Make sure that the Blueboxes are properly charged before each event.
 :::
 
-Jednotky se nabíjejí pomocí micro USB konektoru umístěném pod krytem na boku každé jednotky. Použijte nabíječku, která je součástí sady k zapůjčení. Pokud chcete použít vlastní nabíječku, musí mít jmenovité výstupní napětí 5 V.
+The Blueboxes are charged using the micro USB connector located under the cover on the side of each unit. Použijte nabíječku, která je součástí sady k zapůjčení. Pokud chcete použít vlastní nabíječku, musí mít jmenovité výstupní napětí 5 V.
 
 ### Zkontrolujte signál
 
-V současné době jsou všechny jednotky vybaveny aktivními SIM kartami od T-Mobile.
+At the moment, all Blueboxes are equipped with active SIM cards from T-Mobile CZ.
 
-**Ujistěte se,** že je v místech, kam chcete umístit radio kontrolu, **dostupný signál mobilní** sítě. Jednotky Bluebox pracují na signálu Edge (2G) a jsou schopny spolehlivě odesílat záznamy řazení I při slabém signálu. Stačí jeden nebo dva řádky signálu.
+**Make sure** that there is **any mobile** network **signal** in the places **where** you want to place **your radiocontrol.** The Blueboxes work on the Edge (2G) signal and are able to reliably send punch records even with a weak signal. Stačí jeden nebo dva řádky signálu.
 
 :::info
 Viz [Monitoring zařízení](./device-monitoring) , kde lze zkontrolovat úroveň nabití baterie a sílu signálu.
@@ -44,18 +44,18 @@ Viz [Monitoring zařízení](./device-monitoring) , kde lze zkontrolovat úrove�
 
 ### Umístění jednotek
 
-Jedna jednotka je schopna přijímat záznamy ražení až z 8 SI-SRR krabiček (viz [Jak nastavit radio kontrolu](./radio-control.md))
+One Bluebox is capable of receiving punch records from up to 8 SI-SRR stations (see [How to set up a radio control](./radio-control.md))
 
-:::danger Pozor
-Pozor Jednotky musí být umístěny přibližně ve **stejné výšce jako SI stanice** ve vzdálenosti **maximálně 2 metry**, aby byla zajištěna spolehlivá detekce záznamů ražení.
+:::danger
+Blueboxes must be placed at approximately **the same height as the SI stations** at a **maximum distance of 2 metres** to ensure reliable detection of punch records.
 :::
 
-:::caution Pozor
-Pozor Jednotky nejsou plně vodotěsné, takže pokud hrozí silný déšť, měly by být zakryty nepromokavým sáčkem nebo jiným krytem.
+:::caution
+Blueboxes are not fully waterproof so if there is a risk of heavy rain they should be covered with a waterproof bag or other cover.
 :::
 
 :::tip
-Jednotky lze nacvaknout na standardní držák stanice SI-BSF7. Jednotky lze umístit na stejný ovládací stojan jako stanici SI nebo na samostatný ovládací stojan vedle sebe, jak je znázorněno na obrázcích.
+Blueboxes can be snapped onto a standard SI-BSF7 station holder. Jednotky lze umístit na stejný ovládací stojan jako stanici SI nebo na samostatný ovládací stojan vedle sebe, jak je znázorněno na obrázcích.
 :::
 
 <img src="/img/bb-sprintovky.jpg" width="45%" style={{marginRight: "15px"}} />
