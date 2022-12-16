@@ -2,7 +2,7 @@
 sidebar_position: 3
 ---
 
-# Mobile App
+# Mobilní aplikace
 
 Před použitím Bluebox Mobile aplikace si přečtěte tyto pokyny.
 
@@ -40,7 +40,7 @@ Při prvním spuštění aplikace otevřete nastavení aplikace a vyplňte **API
 Nezapomeňte nastavit **API token** na kartě nastavení, kterou najdete v admin sekci OResults v kartě **Devices**.
 :::
 
-<img src="/img/bb-mobile-settings.jpg" width="50%" alt="Nastavení Bluebox Mobile" />
+<img src="/img/bb-mobile-settings.jpg" width="50%" alt="Nastavení aplikace Bluebox Mobile" />
 
 ### Připojte USB dongle
 
