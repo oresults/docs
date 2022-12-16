@@ -27,11 +27,11 @@ Pokud chcete zjistit přesný stav nabití baterie, najeďte kurzorem na ikonu b
 
 Karta Devices obsahuje dvě tabulky:
 
-- `Rented Blueboxes`: contains all Blueboxes which you have rented from us for your event. Blueboxes will be assigned to your account by the OResults administrator.
-- `Mobile apps`: contains all mobile devices which you have created in your account. Zde také najdete `API tokeny` vašich zařízení.
+- `Pronajaté Blueboxy`: obsahuje všechny Blueboxy, které jste si od nás pronajali na svou akci. Blueboxy vašemu účtu přidělí správce služby OResults.
+- `Mobilní aplikace`: obsahuje všechna mobilní zařízení, která jste vytvořili ve svém účtu. Zde také najdete `API tokeny` vašich zařízení.
 
 :::tip
-Click on the name of your Bluebox device to change its name.
+Klikněte na název zařízení Bluebox a změňte jeho název.
 :::
 
 <img src="/img/devices-monitor.png" width="100%" />
