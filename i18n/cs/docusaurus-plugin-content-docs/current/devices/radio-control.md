@@ -12,7 +12,7 @@ Informace o fungování systému Bluebox jsou na stánce **[OResults](https://or
 
 Pro každou radiokontrolu potřebujete:
 
-- One **[Bluebox](bluebox-units)** or one Android device with **[Bluebox Mobile app](bluebox-mobile)**
+- Jeden **[Bluebox](bluebox-units)** nebo jedno zařízení se systémem Android s aplikací **[Bluebox Mobile](bluebox-mobile)**
 - jednu nebo více SI stanic vybavených vysílačem SRR (**BSF8-SRR** nebo novějším).
 
 
