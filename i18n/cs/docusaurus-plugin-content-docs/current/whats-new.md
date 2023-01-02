@@ -8,35 +8,35 @@ sidebar_position: 4
 
 #### OResults
 
-- Live feed (Speaker) view for all users
-    - All users can see new incoming records in chronoligical order
-    - Records can be filter by category, control code and competitor's name
-- Acceleration of results retrieval in case of bad reception.
-    - Once the web page is loaded, there is no need to refresh it.
-    - New records will be automatically displayed as they are received.
+- Zobrazení nejnovějších výsledků (Live feed) pro všechny uživatele
+    - Všichni uživatelé mohou vidět nové příchozí záznamy v chronologickém pořadí
+    - Záznamy lze filtrovat podle kategorie, čísla kontroly a jména závodníka
+- Zrychlení vyhledávání výsledků v případě špatného signálu.
+    - Po načtení webové stránky ji není třeba obnovovat.
+    - Nové záznamy se zobrazují automaticky, jakmile jsou přijaty.
 
 ## 2022-10
 
 #### OResults
 
-- New view for relays
-- MOP (MeOS Online Protocol) implementated (no need of OResults Connector with MeOS)
-- IOF XML 3.0 format support for courses
+- Nové zobrazení pro štafety
+- Implementace protokolu MOP (MeOS Online Protocol) (není potřeba OResults Connector s MeOS)
+- Podpora formátu IOF XML 3.0 pro tratě
 
 #### Mobilní aplikace
 
-- Published on Google Play
+- Zveřejněno na Google Play
 
 ## 2022-09
 
 #### OResults
 
-- platform released
-- ROC protocol implemented
-- OResults Connector service in QuickEvent (no need of OResults Connector)
-- IOF XML 3.0 format supported for statlists, and results
-- OCAD V8 format support for courses
-- Live feed (Speaker) view for organizers
+- platforma spuštěna
+- Zavedení protokolu ROC
+- Služba OResults Connector v QuickEvent (není potřeba OResults Connector)
+- Podpora formátu IOF XML 3.0 pro startovní listiny a výsledky
+- Podpora formátu OCAD V8 pro tratě
+- Zobrazení nejnovějších výsledků (Komentátorský modul) pro organizátory
 
-#### Docs
-- platform released
+#### Dokumentace
+- platforma spuštěna
