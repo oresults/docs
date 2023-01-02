@@ -9,7 +9,7 @@ sidebar_position: 4
 #### OResults
 
 - Live feed (Speaker) view for all users
-    - All users can see new incoming records in chronoligical order
+    - All users can see new incoming records in chronological order
     - Records can be filter by category, control code and competitor's name
 - Performance optimization
    - Results are computed live for all categories in the background
