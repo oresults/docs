@@ -9,6 +9,8 @@ sidebar_position: 4
 #### OResults
 
 - Live feed (Speaker) view for all users
+    - All users can see new incoming records in chronoligical order
+    - Records can be filter by category, control code and competitor's name
 - Acceleration of results retrieval in case of bad reception.
     - Once the web page is loaded, there is no need to refresh it.
     - New records will be automatically displayed as they are received.
