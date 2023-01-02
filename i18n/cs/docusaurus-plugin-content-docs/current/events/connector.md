@@ -15,4 +15,4 @@ Pokud používáte **[QuickEvent](https://github.com/Quick-Event/quickbox)**, m�
 
 ## MeOS
 
-If you use **[MeOS](https://www.melin.nu/meos/en/)**, you can use MOP (MeOS Online Protocol) which is now implemented in OResults (see **[MOP](./mop.md)**).
+Pokud používáte **[MeOS](https://www.melin.nu/meos/en/)**, můžete použít MOP (MeOS Online Protocol), který je nyní implementován v OResults (viz **[MOP](./mop.md)**).
