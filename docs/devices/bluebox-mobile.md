@@ -28,11 +28,9 @@ You can create a new Bluebox Mobile device in the Devices tab in the OResults ad
 Click on the name of your Bluebox Mobile device to change its name.
 :::
 
-### Download and install the app
+### Install the app
 
-The latest version of Bluebox Mobile app can be found under the Devices tab in the OResults admin section.
-
-Install the app using the downloaded installation file. You may need to allow installation from unknown sources.
+The latest version of the Bluebox Mobile app can be found in the [Google Play Store](https://play.google.com/store/apps/details?id=eu.oresults.bluebox).
 
 ### Set up the app
 
