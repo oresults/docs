@@ -30,7 +30,7 @@ Click on the name of your Bluebox Mobile device to change its name.
 
 ### Install the app
 
-The latest version of the Bluebox Mobile app can be found in the [Google Play Store](https://play.google.com/store/apps/details?id=eu.oresults.bluebox).
+The latest version of the Bluebox Mobile app can be found in the **[Google Play Store](https://play.google.com/store/apps/details?id=eu.oresults.bluebox)**.
 
 ### Set up the app
 
