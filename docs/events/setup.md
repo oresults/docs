@@ -14,13 +14,11 @@ The rest of the manual is devoted to the admin section, which can only be access
 
 ## My events
 
-You can see all your events in My events tab from where you can access event settings, [speaker modules](./speaker.md) and create a new event.
+You can see all your events in My events tab from where you can create a new event and access event settings.
 
 :::tip
 Result tables of an unpublished event can be accessed by clicking on the event name in My events section.
 :::
-
-<img src="/img/my-events.png" width="100%" />
 
 ## Event settings
 
