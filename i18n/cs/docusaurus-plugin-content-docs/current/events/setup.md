@@ -14,15 +14,13 @@ Zbytek příručky je věnován administrátorské sekci, do které má přístu
 
 ## Moje události (My events)
 
-Všechny své události naleznete na kartě Moje události, odkud můžete přistupovat k nastavení události, [speaker modulu](./speaker.md) a vytvářet nové události.
+You can see all your events in My events tab from where you can create a new event and access event settings.
 
 :::tip
 
 Tabulky výsledků nezveřejněné události lze zobrazit kliknutím na název události v sekci Moje události.
 :::
 
-
-<img src="/img/my-events.png" width="100%" />
 
 ## Nastavení události
 
