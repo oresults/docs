@@ -2,23 +2,26 @@
 sidebar_position: 2
 ---
 
-# Speaker module
+# Live feed for commentators
 
-Speaker module is a simple tool that helps the commentator of your event to quickly and easily comment on what is happening during the race.
+Live feed is a simple tool that helps an event commentator quickly and easily see all incoming split times and results.
 
-Use the **microphone icon** at your event to open the Speaker module.
+Everyone can access the live feed in the event results.
 
-<img src="/img/my-events-small.png" width="100%" />
+<img src="/img/speaker-overview.png" width="100%" />
+
+:::info
+Don't be alarmed that some rows have more columns than others. The number of columns is always class specific.
+:::
 
 ## Features
-
-The Speaker module automatically displays the latest punch records coming into OResults.
 
 ### Filter
 
 - **Display limit:** how many latest punch records is shown in the table
 - **Class:** filter classes which you see in the table
 - **Controls:** filter which controls you see in the table
+- **Search by name or club:** full-text search across results
 
 ### Table
 
@@ -41,9 +44,3 @@ You can easily filter the classes by clicking on the class name in the row of an
 :::
 
 <img src="/img/speaker-highlights.png" width="100%" />
-
-:::note
-Don't be alarmed that some rows have more columns than others. The number of columns is always class specific.
-:::
-
-<img src="/img/speaker-overview.png" width="100%" />
