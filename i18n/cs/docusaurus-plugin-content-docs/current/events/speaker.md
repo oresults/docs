@@ -2,23 +2,28 @@
 sidebar_position: 2
 ---
 
-# Speaker modul
+# Live feed pro komentátory
 
-Speaker modul je jednoduchý nástroj, který pomáhá komentátorovi vaší události rychle a snadno komentovat dění  během závodu.
+Live feed je jednoduchý nástroj, který komentátorovi události pomáhá rychle a snadno zobrazit všechny příchozí mezičasy a výsledky.
 
-Pro otevření Speaker modulu použijte **ikonu mikrofonu** u vaší události.
+Každý má přístup k Live feedu ve výsledcích události.
 
-<img src="/img/my-events-small.png" width="100%" />
+<img src="/img/speaker-overview.png" width="100%" />
+
+:::info
+
+Nelekejte se, že některé řádky mají více sloupců než jiné. Počet sloupců je vždy specifický pro danou třídu.
+:::
+
 
 ## Funkce
-
-Speaker modul automaticky zobrazuje poslední razící záznamy, které přicházejí do OResults.
 
 ### Filtr
 
 - **Display limit:** kolik se v tabulce zobrazí posledních razících záznamů
 - **Class:** filtruje, které kategorie se budou zobrazovat v tabulce
 - **Controls:** filtruje, které kontroly se budou zobrazovat v tabulce
+- **Search by name or club:** fulltextové vyhledávání napříč výsledky
 
 ### Tabulka
 
@@ -41,11 +46,3 @@ Třídy můžete snadno filtrovat kliknutím na název třídy v řádku kteréh
 
 
 <img src="/img/speaker-highlights.png" width="100%" />
-
-:::note Poznámka
-
-Nelekejte se, že některé řádky mají více sloupců než jiné. Počet sloupců je vždy specifický pro danou třídu.
-:::
-
-
-<img src="/img/speaker-overview.png" width="100%" />

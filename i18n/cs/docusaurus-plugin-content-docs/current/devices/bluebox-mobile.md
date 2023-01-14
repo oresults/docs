@@ -28,11 +28,9 @@ Nové Bluebox Mobile zařízení můžete vytvořit v kartě Devices v admin sek
 Klikněte na název zařízení Bluebox Mobile pro změnu jeho názvu.
 :::
 
-### Stáhnětě a nainstalujte aplikaci
+### Install the app
 
-Nejnovější verzi aplikace Bluebox Mobile najdete pod záložkou Zařízení v admin sekci OResults.
-
-Nainstalujte aplikaci pomocí staženého instalačního souboru. Možná bude nutné povolit instalaci z neznámých zdrojů.
+The latest version of the Bluebox Mobile app can be found in the **[Google Play Store](https://play.google.com/store/apps/details?id=eu.oresults.bluebox)**.
 
 ### Nastavení aplikace
 
