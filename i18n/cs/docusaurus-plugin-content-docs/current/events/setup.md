@@ -14,7 +14,7 @@ Zbytek příručky je věnován administrátorské sekci, do které má přístu
 
 ## Moje události (My events)
 
-You can see all your events in My events tab from where you can create a new event and access event settings.
+Všechny své události naleznete na kartě My events, kde můžete vytvořit novou událost a přistupovat k nastavení událostí.
 
 :::tip
 
