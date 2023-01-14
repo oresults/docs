@@ -2,11 +2,11 @@
 sidebar_position: 2
 ---
 
-# Live feed for commentators
+# Live feed pro komentátory
 
-Live feed is a simple tool that helps an event commentator quickly and easily see all incoming split times and results.
+Live feed je jednoduchý nástroj, který komentátorovi události pomáhá rychle a snadno zobrazit všechny příchozí mezičasy a výsledky.
 
-Everyone can access the live feed in the event results.
+Každý má přístup k Live feedu ve výsledcích události.
 
 <img src="/img/speaker-overview.png" width="100%" />
 
@@ -23,7 +23,7 @@ Nelekejte se, že některé řádky mají více sloupců než jiné. Počet slou
 - **Display limit:** kolik se v tabulce zobrazí posledních razících záznamů
 - **Class:** filtruje, které kategorie se budou zobrazovat v tabulce
 - **Controls:** filtruje, které kontroly se budou zobrazovat v tabulce
-- **Search by name or club:** full-text search across results
+- **Search by name or club:** fulltextové vyhledávání napříč výsledky
 
 ### Tabulka
 
