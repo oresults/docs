@@ -11,9 +11,6 @@ Poskytování živých mezičasů z radiokontrol a výsledků zabere jen několi
 
 OResults Uživatelská příručka obsahuje všechny potřebné informace, které potřebujete vědět pro organizaci události s živým přenosem výsledků v OResults.
 
-
- Celý systém se skládá z několika klíčových částí. Stavebními kameny jsou naše vlastní zařízení, která přenášejí záznamy ražení prostřednictvím mobilní sítě na náš vlastní server. Naše webová aplikace pak umožňuje divákům sledovat výsledky a organizátorům nezávisle spravovat všechny potřebné aspekty živých výsledků. To vše dohromady vede k jedinému cíli, a to poskytnout jednoduše nejlepší systém pro živé přenosy výsledků jakékoli události.
-
 :::info
 Pokud v návodech naleznete chyby nebo potíže, neváhejte nás**[ kontaktovat](https://oresults.eu/contact)**.
 :::
