@@ -11,9 +11,6 @@ Providing live split times from radio controls and results takes only a few minu
 
 The OResults User Guide contains all the information you need to know to organise an event with live results in OResults.
 
-
- The whole system consists of several key parts. The building stones are our custom devices which transmit punch records over cellular network to our in-house server. Our web app then allows spectators to watch results and organisers to independently manage all necessary aspects of their live results. This all together combines to achieve one goal, to provides simply the best system for live results coverage of any event.
-
 :::info
 If you find any errors or difficulties with the manuals, do not hesitate to **[contact us](https://oresults.eu/contact)**.
 :::
