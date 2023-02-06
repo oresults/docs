@@ -8,12 +8,12 @@ sidebar_position: 4
 
 #### OResults
 
-- Multiple competitors with the same SI (chip) number added
+- Možnost více závodníků se stejným SI čipem
 - Zobrazení nejnovějších výsledků (Live feed) pro všechny uživatele
-    - All users can see new incoming records in chronological order
+    - Všichni uživatelé mohou vidět nové příchozí záznamy v chronologickém pořadí
     - Záznamy lze filtrovat podle kategorie, čísla kontroly a jména závodníka
-- Performance optimization
-   - Results are computed live for all categories in the background
+- Optimalizace výkonu
+   - Výsledky jsou vypočítávány živě pro všechny kategorie na pozadí.
 
 ## 2022-10
 
