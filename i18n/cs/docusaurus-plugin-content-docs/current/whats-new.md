@@ -8,12 +8,12 @@ sidebar_position: 4
 
 #### OResults
 
+- Možnost více závodníků se stejným SI čipem
 - Zobrazení nejnovějších výsledků (Live feed) pro všechny uživatele
     - Všichni uživatelé mohou vidět nové příchozí záznamy v chronologickém pořadí
     - Záznamy lze filtrovat podle kategorie, čísla kontroly a jména závodníka
-- Zrychlení vyhledávání výsledků v případě špatného signálu.
-    - Po načtení webové stránky ji není třeba obnovovat.
-    - Nové záznamy se zobrazují automaticky, jakmile jsou přijaty.
+- Optimalizace výkonu
+   - Výsledky jsou vypočítávány živě pro všechny kategorie na pozadí.
 
 ## 2022-10
 
