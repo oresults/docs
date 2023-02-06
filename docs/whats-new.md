@@ -8,6 +8,7 @@ sidebar_position: 4
 
 #### OResults
 
+- Multiple competitors with the same SI (chip) number added
 - Live feed (Speaker) view for all users
     - All users can see new incoming records in chronological order
     - Records can be filter by category, control code and competitor's name
