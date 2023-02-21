@@ -4,6 +4,13 @@ sidebar_position: 4
 
 # What's New
 
+## 2023-02
+
+### OResults
+
+- Support for races with nodal control points (i.e. support for multiple control points with the same code)
+- New compact display of results
+
 ## 2023-01
 
 #### OResults
