@@ -8,8 +8,8 @@ sidebar_position: 4
 
 ### OResults
 
-- Support for races with nodal control points (i.e. support for multiple control points with the same code)
-- New compact display of results
+- Podpora závodů s uzlovými kontrolními body (tj. podpora více kontrolních bodů se stejným kódem)
+- Nové kompaktní zobrazení výsledků
 
 ## 2023-01
 
