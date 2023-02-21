@@ -4,6 +4,13 @@ sidebar_position: 4
 
 # Novinky
 
+## 2023-02
+
+### OResults
+
+- Podpora závodů s uzlovými kontrolními body (tj. podpora více kontrolních bodů se stejným kódem)
+- Nové kompaktní zobrazení výsledků
+
 ## 2023-01
 
 #### OResults
