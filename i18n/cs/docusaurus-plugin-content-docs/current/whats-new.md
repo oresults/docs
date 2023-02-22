@@ -2,7 +2,7 @@
 sidebar_position: 4
 ---
 
-# Novinky
+# 💡 Novinky
 
 ## 2023-02
 

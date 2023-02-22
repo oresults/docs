@@ -1,8 +1,8 @@
 {
-  "label": "Zařízení",
+  "label": "🧰 Zařízení",
   "position": 3,
   "link": {
     "type": "generated-index",
-    "description": "Everything you need to know about how to use Blueboxes, mobile app and and setup radio controls."
+    "description": "Vše, co potřebujete vědět o používání Blueboxů, mobilní aplikace a nastavení ovládání rádia."
   }
 }
