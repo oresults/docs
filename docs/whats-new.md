@@ -2,7 +2,7 @@
 sidebar_position: 4
 ---
 
-# What's New
+# 💡 What's New
 
 ## 2023-02
 

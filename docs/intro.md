@@ -3,14 +3,21 @@ sidebar_position: 1
 slug: /
 ---
 
-# Introduction
+# 🎉 Welcome to the User Guide
 
-OResults is an online system providing real-time results of orienteering events. The aim of the system is to simplify the process for the organizing team. 
+This is the official user guide for **[OResults](https://oresults.eu/about)**, an online system providing real-time results of orienteering events. The aim of **OResults** is to simplify the process for the organizing team. In this user guide you can find all the information you need to start organizing orienteering events with OResults and take your events to the next level.
 
-Providing live split times from radio controls and results takes only a few minutes of preparation with no additional technical knowledge or extensive work. OResults opens up the possibility to provide live results anywhere, at events of any scale from training to world-class, with instant and truly real-time delivery of records.
+## 📚 Contents
 
-The OResults User Guide contains all the information you need to know to organise an event with live results in OResults.
+- 💻 **[Events](./category/events)**: Learn how to manage events and integrate OResults with your orienteering software.
+- 🧰 **[Devices](./category/devices/)**: Discover how to use our Blueboxes, the mobile app and set up the radio controls.
+- 💡 **[What's New](./whats-new.md)**: Check out what new features are available in the latest release of OResults platform.
 
-:::info
-If you find any errors or difficulties with the manuals, do not hesitate to **[contact us](https://oresults.eu/contact)**.
-:::
+## 🤔 Need help?
+
+If you have any questions or need assistance, feel free **[to reach out to](https://oresults.eu/contact)** us and we'll be more than happy to help you.
+
+## 🚀 Get started now!
+Ready to start using OResults? Check out the **[Create and manage an event guide](./events/setup.md)** and start organizing your first event!
+
+And don't forget to follow us on **[Instagram](https://www.instagram.com/oresults.eu/)** for the latest updates and news.
