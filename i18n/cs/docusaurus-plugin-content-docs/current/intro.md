@@ -3,21 +3,21 @@ sidebar_position: 1
 slug: /
 ---
 
-# 🎉 Welcome to the User Guide
+# 🎉 Vítejte v Uživatelské příručce
 
-This is the official user guide for **[OResults](https://oresults.eu/about)**, an online system providing real-time results of orienteering events. The aim of **OResults** is to simplify the process for the organizing team. In this user guide you can find all the information you need to start organizing orienteering events with OResults and take your events to the next level.
+Toto je oficiální uživatelská příručka pro **[OResults](https://oresults.eu/about)**, online systém poskytující výsledky orientačních závodů v reálném čase. Cílem **OResults** je zjednodušit proces pro organizační tým. V této uživatelské příručce naleznete všechny informace, které potřebujete k tomu, abyste mohli začít organizovat orientační závody s OResults a posunout své závody na vyšší úroveň.
 
-## 📚 Contents
+## 📚 Obsah
 
-- 💻 **[Events](./category/-events)**: Learn how to manage events and integrate OResults with your orienteering software.
-- 🧰 **[Devices](./category/-devices)**: Discover how to use our Blueboxes, the mobile app and set up the radio controls.
-- 💡 **[What's New](./whats-new.md)**: Check out what new features are available in the latest release of OResults platform.
+- 💻 **[Události](./category/-events)**: Naučte se spravovat události a integrovat OResults s vaším orientačním softwarem.
+- 🧰 **[Zařízení](./category/-devices)**: Zjistěte, jak používat naše Blueboxy, mobilní aplikaci a nastavit radiokontroly.
+- 💡 **[Novinky](./whats-new.md)**: Podívejte se, jaké nové funkce jsou k dispozici v nejnovější verzi platformy OResults.
 
-## 🤔 Need help?
+## 🤔 Potřebujete pomoc?
 
-If you have any questions or need assistance, feel free **[to reach out to](https://oresults.eu/contact)** us and we'll be more than happy to help you.
+Pokud máte jakékoli dotazy nebo potřebujete pomoc, **[neváhejte se na nás obrátit](https://oresults.eu/contact)**a my vám rádi pomůžeme.
 
-## 🚀 Get started now!
-Ready to start using OResults? Check out the **[Create and manage an event guide](./events/setup.md)** and start organizing your first event!
+## 🚀 Začněte hned teď!
+Jste připraveni začít používat OResults? Podívejte se na **[Vytvoření a správu události](./events/setup.md)** a začněte organizovat svou první událost!
 
-And don't forget to follow us on **[Instagram](https://www.instagram.com/oresults.eu/)** for the latest updates and news.
+A nezapomeňte nás sledovat na **[Instagramu](https://www.instagram.com/oresults.eu/)**, kde najdete nejnovější informace a novinky.
