@@ -9,8 +9,8 @@ This is the official user guide for **[OResults](https://oresults.eu/about)**, a
 
 ## 📚 Contents
 
-- 💻 **[Events](./category/events)**: Learn how to manage events and integrate OResults with your orienteering software.
-- 🧰 **[Devices](./category/devices/)**: Discover how to use our Blueboxes, the mobile app and set up the radio controls.
+- 💻 **[Events](./category/-events)**: Learn how to manage events and integrate OResults with your orienteering software.
+- 🧰 **[Devices](./category/-devices)**: Discover how to use our Blueboxes, the mobile app and set up the radio controls.
 - 💡 **[What's New](./whats-new.md)**: Check out what new features are available in the latest release of OResults platform.
 
 ## 🤔 Need help?
