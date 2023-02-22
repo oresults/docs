@@ -1,8 +1,8 @@
 {
-  "label": "Zařízení",
+  "label": "🧰 Devices",
   "position": 3,
   "link": {
     "type": "generated-index",
-    "description": "Everything you need to know about how to use Blueboxes, mobile app and and setup radio controls."
+    "description": "Everything you need to know about how to use Blueboxes, mobile app and setup radio controls."
   }
 }
