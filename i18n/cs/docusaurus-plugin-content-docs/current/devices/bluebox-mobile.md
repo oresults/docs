@@ -6,6 +6,7 @@ sidebar_position: 3
 
 Před použitím Bluebox Mobile aplikace si přečtěte tyto pokyny.
 
+
 <!--:::caution
 This is a beta version of the app so small bugs may appear.
 :::-->
@@ -28,9 +29,9 @@ Nové Bluebox Mobile zařízení můžete vytvořit v kartě Devices v admin sek
 Klikněte na název zařízení Bluebox Mobile pro změnu jeho názvu.
 :::
 
-### Install the app
+### Nainstalujte aplikaci
 
-The latest version of the Bluebox Mobile app can be found in the **[Google Play Store](https://play.google.com/store/apps/details?id=eu.oresults.bluebox)**.
+Nejnovější verzi aplikace Bluebox Mobile najdete v obchodě **[Google Play](https://play.google.com/store/apps/details?id=eu.oresults.bluebox)**.
 
 ### Nastavení aplikace
 
@@ -58,7 +59,7 @@ Připojte SPORTident USB dongle k zařízení pomocí adaptéru USB na micro USB
 :::caution Pozor
 **Zajistěte internetové připojení**
 
-Ujistěte se, že je vaše zařízení připojeno k internetu v místě radio kontroly.
+Ujistěte se, že je vaše zařízení připojeno k internetu v místě radiokontroly.
 :::
 
 ## V den závodu
