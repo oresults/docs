@@ -1,5 +1,6 @@
 ---
 sidebar_position: 4
+title: "What's New"
 ---
 
 # 💡 What's New
