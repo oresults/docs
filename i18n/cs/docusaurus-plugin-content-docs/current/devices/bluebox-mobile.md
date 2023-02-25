@@ -37,7 +37,7 @@ Nejnovější verzi aplikace Bluebox Mobile najdete v obchodě **[Google Play](h
 
 Při prvním spuštění aplikace otevřete nastavení aplikace a vyplňte **API token**.
 
-:::caution  
+:::caution
 Nezapomeňte nastavit **API token** na kartě nastavení, kterou najdete v admin sekci OResults v kartě **Devices**.
 :::
 
