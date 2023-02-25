@@ -4,9 +4,11 @@ sidebar_position: 4
 
 # 💡 What's New
 
+Here, you can find the latest features and changes in **[OResults](https://oresults.eu/)**, **[Blueboxes](./devices/bluebox-units.md)** and **[mobile app](./devices/bluebox-mobile.md)**, including new features, improvements, and bug fixes. Stay informed and up-to-date on the latest developments to make the most of OResults platform's capabilities.
+
 ## 2023-02
 
-### OResults
+#### OResults
 
 - Support for races with nodal control points (i.e. support for multiple control points with the same code)
 - New compact display of results
