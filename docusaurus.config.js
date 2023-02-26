@@ -59,20 +59,22 @@ const config = {
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
       navbar: {
-        title: 'OResults User Guide',
+        title: 'User Guide',
         logo: {
           alt: 'OResults logo',
           src: 'img/oresults-icon-blue.svg',
           srcDark: 'img/oresults-icon-white.svg',
         },
         items: [
+          {to: '/', label: 'Docs', position: 'left'},
+          {to: '/whats-new', label: 'Changelog', position: 'left'},
           {
             type: 'localeDropdown',
-            position: 'left'
+            position: 'right'
           },
           {
             href: 'https://oresults.eu',
-            label: 'OResults.eu',
+            label: 'OResults',
             position: 'right',
           },
         ],
@@ -92,7 +94,7 @@ const config = {
       // options
       websiteID: "f7c1c4f7-337a-490e-9902-df2aa1f34037", // Required
       analyticsDomain: "analytics.otahirs.cz", // Required
-      scriptName: "dQw4w9WgXcQ.js", 
+      scriptName: "dQw4w9WgXcQ.js",
       dataHostURL: "",
       dataAutoTrack: true,
       dataDoNoTrack: true,
