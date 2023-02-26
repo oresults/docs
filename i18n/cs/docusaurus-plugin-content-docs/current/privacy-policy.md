@@ -6,7 +6,7 @@ sidebar_position: 5
 
 ## Bluebox Mobile Android aplikace
 
-OResutls (Otakar Hirš and Jan Jurica) built the Bluebox Mobile app as a Free app. This SERVICE is provided by OResutls at no cost and is intended for use as is.
+OResults (Otakar Hirš and Jan Jurica) built the Bluebox Mobile app as a Free app. This SERVICE is provided by OResults at no cost and is intended for use as is.
 
 Tato stránka slouží k informování návštěvníků o našich zásadách týkajících se shromažďování, používání a zveřejňování osobních údajů, pokud se někdo rozhodne používat naši službu.
 
@@ -29,5 +29,5 @@ Tato politika je účinná od 2022-10-12
 
 **Kontaktujte nás**
 
-Máte-li jakékoli dotazy nebo připomínky k našim zásadám ochrany osobních údajů, neváhejte nás kontaktovat na adrese info@oresutls.eu.
+Máte-li jakékoli dotazy nebo připomínky k našim zásadám ochrany osobních údajů, neváhejte nás kontaktovat na adrese info@OResults.eu.
 
