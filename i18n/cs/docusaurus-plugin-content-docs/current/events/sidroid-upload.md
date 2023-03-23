@@ -10,14 +10,18 @@ Funguje pouze na mobilních zařízeních s operačním systémem Android.
 :::
 
 ## Appka SI-Droid Event
-![](../../static/img/si-droid-icon.png)<br />
+
+<img src="/img/si-droid-icon.png" alt="SI-droid" />
+
 - **OS**: Android (jediný podporovaný)
 - **Odkaz ke stažení**: [zde](https://play.google.com/store/apps/details?id=se.joja.sidroid.event.full)
 
 Oblíbená a velmi hojně využívaná mobilní aplikace pro zjednodušení práce při pořádání závodu se SPORTident krabičkami. Jedná se o placenou aplikaci, kterou se vyplatí pořídit. Jestli appku ještě nemáš, tak neváhej a pořiď si ji hned. Nebudeš litovat.
 
 ## Appka Automate
-![](../../static/img/automate-icon.jpg)<br />
+
+<img src="/img/automate-icon.jpg" alt="Automate" />
+
 - **OS**: Android (jediný podporovaný)
 - **Odkaz ke stažení**: [zde](https://play.google.com/store/search?q=automate&c=apps)
 

@@ -10,14 +10,18 @@ It works only on mobile devices with Android operating system.
 :::
 
 ## SI-Droid Event app
-![](../../static/img/si-droid-icon.png)<br />
+
+<img src="/img/si-droid-icon.png" alt="SI-droid" />
+
 - **OS**: Android (the only supported)
 - **Donwload link**: [here](https://play.google.com/store/apps/details?id=se.joja.sidroid.event.full)
 
 Favorite and very popular mobile app that is used to arrange orienteering events with SPORTident units. The app is paid, but the investment is definitely worth it and it's lifetime. Just buy it if you don't already have it, you won't regret.
 
 ## Automate app
-![](../../static/img/automate-icon.jpg)<br />
+
+<img src="/img/automate-icon.jpg" alt="Automate" /> 
+
 - **OS**: Android (the only supported)
 - **Donwload link**: [here](https://play.google.com/store/search?q=automate&c=apps)
 
