@@ -7,6 +7,13 @@ title: "What's New"
 
 Here, you can find the latest features and changes in **[OResults](https://oresults.eu/)**, **[Blueboxes](./devices/bluebox-units.md)** and **[mobile app](./devices/bluebox-mobile.md)**, including new features, improvements, and bug fixes. Stay informed and up-to-date on the latest developments to make the most of OResults platform's capabilities.
 
+## 2023-03
+
+#### OResults
+
+- Start times for individual and relay races
+- Start time of the following relay legs plus the loss to the leading relay
+
 ## 2023-02
 
 #### OResults
