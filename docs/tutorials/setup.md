@@ -8,7 +8,7 @@ Let's take a look on how to easily create and manage events in OResults.
 
 ## Create an account for organizers
 
-If you don't have one yet, create a free OResults account for organizers (see **[registration](https://oresults.eu/register))**. Your account will allow you to log in to the OResults admin section.
+If you don't have one yet, create a free OResults account for organizers (see **[registration](https://oresults.eu/register)**). Your account will allow you to log in to the OResults admin section.
 
 The rest of the manual is devoted to the admin section, which can only be accessed by a logged-in OResults user.
 
@@ -39,7 +39,7 @@ The last setting is to set the event as **published** so it will appear on the O
 
 You must upload **Start list**, **Courses** and **Results** files in supported formats (more about supported formats **[here](#supported-formats)**) to properly display event results.
 
-In this section you can also find your **event API key** which is used to automatically upload the start list and results. For more information about automatic upload, see **[OResults Connector](./connector.md)**.
+In this section you can also find your **event API key** which is used to automatically upload the start list and results. For more information about automatic upload, see **[OResults Connector](../integrations/connector.md)**.
 
 :::tip
 You can easily create **QR Code with a link to your event** using the QR Code button.
@@ -81,7 +81,7 @@ You can open the table with available Bluebox devices using the switch in the Ra
 
 ### Monitor Bluebox devices
 
-You can monitor assigned Bluebox devices and punch records traffic in the Radio devices section as shown in the picture. For more information about monitoring see **[Device monitoring](../devices/device-monitoring.md)**.
+You can monitor assigned Bluebox devices and punch records traffic in the Radio devices section as shown in the picture. For more information about monitoring see **[Device monitoring](../blueboxes/device-monitoring.md)**.
 
 <img src="/img/event-devices-monitor.png" width="100%" />
 

@@ -1,5 +1,5 @@
 ---
-sidebar_position: 1
+sidebar_position: 2
 ---
 
 # Jak nastavit radio kontrolu
@@ -12,7 +12,7 @@ Informace o fungování systému Bluebox jsou na stánce **[OResults](https://or
 
 Pro každou radiokontrolu potřebujete:
 
-- Jeden **[Bluebox](bluebox-units)** nebo jedno zařízení se systémem Android s aplikací **[Bluebox Mobile](bluebox-mobile)**
+- Jeden **[Bluebox](../blueboxes/bluebox-units)** nebo jedno zařízení se systémem Android s aplikací **[Bluebox Mobile](./bluebox-mobile)**
 - jednu nebo více SI stanic vybavených vysílačem SRR (**BSF8-SRR** nebo novějším).
 
 
@@ -59,8 +59,8 @@ SRR stanice fungují stejně jako standardní SI stanice a lze je umístit do st
 
 **Jedno zařízení Bluebox** je schopno přijímat záznamy ražení **až z 8 stanic SRR nebo SIAC** současně. Pokud tedy máte zdvojené kontroky (dvě stanice SRR na jedné kontrole), stále potřebujete pouze jedno zařízení Bluebox pro celou kontrolu.
 
-:::danger
-Pozor Zařízení Bluebox musí být umístěno ve **stejné výšce jako stanice SI** ve **vzdálenosti maximálně 2 metry**, aby byla zajištěna spolehlivá detekce záznamů ražení.
+:::danger Pozor
+Zařízení Bluebox musí být umístěno ve **stejné výšce jako stanice SI** ve **vzdálenosti maximálně 2 metry**, aby byla zajištěna spolehlivá detekce záznamů ražení.
 :::
 
 :::tip

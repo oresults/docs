@@ -1,8 +1,8 @@
 ---
-sidebar_position: 2
+sidebar_position: 1
 ---
 
-# Bluebox
+# Jak používat Bluebox
 
 Před manipulací se zařízeními Bluebox si přečtěte tyto pokyny.
 
@@ -12,19 +12,19 @@ Před manipulací se zařízeními Bluebox si přečtěte tyto pokyny.
 
 ### Pronájem
 
-Pokud máte zájem o pronájem Blueboxů pro vaši akci, podívejte se na [OResults/Organize](https://oresults.eu/organize).
+Pokud máte zájem o pronájem Blueboxů pro vaši akci, podívejte se na **[OResults/Organize](https://oresults.eu/organize)**.
 
 ### Zapnutí jednotek
 
 Blueboxy se zapínají vypínačem umístěným na boku.
 
-:::caution
-Pozor Před zapnutím každé jednotky je nutné na její boční stranu připojit externí anténu.
+:::caution Pozor
+Před zapnutím každé jednotky je nutné na její boční stranu připojit externí anténu.
 :::
 
 ### Nabíjení zařízení Bluebox
 
-:::caution
+:::caution Pozor
 Před každou událostí se ujistěte, že jsou Blueboxy řádně nabité.
 :::
 
@@ -37,20 +37,20 @@ V současné době jsou všechny Blueboxy vybaveny aktivními SIM kartami spole�
 ** **** Ujistěte se, že** je v místech **, kam chcete** umístit **rádiové ovládání, dostupný signál mobilní** sítě **.** Blueboxy pracují na signálu Edge (2G) a jsou schopny spolehlivě odesílat záznamy o úderech i při slabém signálu. Stačí jeden nebo dva řádky signálu.
 
 :::info
-Viz [Monitoring zařízení](./device-monitoring) , kde lze zkontrolovat úroveň nabití baterie a sílu signálu.
+Viz **[Monitoring zařízení](./device-monitoring)**, kde lze zkontrolovat úroveň nabití baterie a sílu signálu.
 :::
 
 ## V den závodu
 
 ### Umístění jednotek
 
-Jeden Bluebox je schopen přijímat záznamy o děrování až z 8 stanic SI-SRR (viz [Jak nastavit rádiové řízení](./radio-control.md))
+Jeden Bluebox je schopen přijímat záznamy o děrování až z 8 stanic SI-SRR (viz **[Jak nastavit rádiové řízení](../tutorials/radio-control.md)**)
 
-:::danger
+:::danger Pozor
 Pozor Blueboxy musí být umístěny přibližně ve **stejné výšce jako SI stanice** ve vzdálenosti **maximálně 2 metry**, aby byla zajištěna spolehlivá detekce záznamů ražení.
 :::
 
-:::caution
+:::caution Pozor
 Blueboxy nejsou plně vodotěsné, takže pokud hrozí silný déšť, měly by být zakryty nepromokavým pytlem nebo jiným obalem.
 :::
 

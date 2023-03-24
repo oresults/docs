@@ -8,7 +8,7 @@ Podívejme se na to, jak snadno vytvářet a spravovat události v OResults.
 
 ## Vytvoření účtu pro organizátory
 
-Pokud ještě žádný nemáte, vytvořte si bezplatný účet OResults pro organizátory (viz **[registrace](https://oresults.eu/register))**. Váš účet vám umožní přihlásit se do admin sekce OResults.
+Pokud ještě žádný nemáte, vytvořte si bezplatný účet OResults pro organizátory (viz **[registrace](https://oresults.eu/register)**). Váš účet vám umožní přihlásit se do admin sekce OResults.
 
 Zbytek příručky je věnován administrátorské sekci, do které má přístup pouze přihlášený uživatel OResults.
 
@@ -17,7 +17,6 @@ Zbytek příručky je věnován administrátorské sekci, do které má přístu
 Všechny své události naleznete na kartě My events, kde můžete vytvořit novou událost a přistupovat k nastavení událostí.
 
 :::tip
-
 Tabulky výsledků nezveřejněné události lze zobrazit kliknutím na název události v sekci Moje události.
 :::
 
@@ -41,10 +40,9 @@ V této části se nastavují základní informace jako jsou:
 
 Posledním nastavením je **zveřejnění** události (is published), což má za následek, že se zobrazí na stránce událostí OResults.
 
-V této sekci najdete také svůj **API token události**, který se používá k automatickému odesílání startovní listiny a výsledků. Další informace o automatickém odesílání naleznete v části **[OResults Connector](./connector.md)**.
+V této sekci najdete také svůj **API token události**, který se používá k automatickému odesílání startovní listiny a výsledků. Další informace o automatickém odesílání naleznete v části **[OResults Connector](../integrations//connector.md)**.
 
 :::tip
-
 Pomocí tlačítka QR Code můžete snadno vytvořit **QR kód s odkazem na vaši událost** .
 :::
 
@@ -66,7 +64,6 @@ Pomocí tlačítka QR Code můžete snadno vytvořit **QR kód s odkazem na vaš
 **Start list** a **Results** musí obsahovat čísla čipů v tagu `<ControlCard>`.
 
 :::tip
-
 **Tratě** jsou preferovány ve formátu **OCAD V8**, který je mnohem menší a vhodnější pro nahrávání než IOF XML 3.0.
 :::
 
@@ -91,14 +88,13 @@ Tabulku s dostupnými zařízeními Bluebox můžete otevřít pomocí přepína
 
 ### Monitoring Bluebox zařízení
 
-Přidělená zařízení Bluebox a záznamy ražení můžete sledovat v části Rádiová zařízení, jak je znázorněno na obrázku. Další informace o monitorování naleznete na adrese **[Monitorování zařízení](../devices/device-monitoring.md)**.
+Přidělená zařízení Bluebox a záznamy ražení můžete sledovat v části Rádiová zařízení, jak je znázorněno na obrázku. Další informace o monitorování naleznete na adrese **[Monitorování zařízení](../blueboxes/device-monitoring.md)**.
 
 <img src="/img/event-devices-monitor.png" width="100%" />
 
 ### Nebezpečná zóna
 
-:::nebezpečí
-
+:::danger Pozor
 Všechny akce provedené v nebezpečné zóně jsou nevratné.
 :::
 
@@ -106,7 +102,6 @@ Všechny akce provedené v nebezpečné zóně jsou nevratné.
 Pokud se potýkáte s chybami ve výsledcích, můžete vždy použít možnost odstranit běžce (čímž se odstraní startovní listina a výsledky) a nahrát je znovu.
 
 :::info
-
 **Nebojte se.** **Funkce Odstranit běžce nebo Odstranit kurzy NESMÍ odstranit** již **přijaté záznamy o děrování** z rádiových ovládacích prvků.
 :::
 

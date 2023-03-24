@@ -1,5 +1,5 @@
 ---
-sidebar_position: 4
+sidebar_position: 2
 ---
 
 # Monitoring zařízení
@@ -38,7 +38,7 @@ Klikněte na název zařízení Bluebox a změňte jeho název.
 
 ## Nastavení události
 
-Vaše zařízení můžete také monitorovat v sekci **Radio devices** v nastavení události, ke které jste je přiřadili (viz **[Jak spravovat událost](../events/setup.md)**).
+Vaše zařízení můžete také monitorovat v sekci **Radio devices** v nastavení události, ke které jste je přiřadili (viz **[Jak spravovat událost](../tutorials/setup.md)**).
 
 :::tip
 Sekce **Radio devices** obsahuje druhou tabulku **Last punches**, kde můžete vidět **posledních 7 záznamů ražení** vaší události. Pomocí této tabulky můžete zkontrolovat, zda jsou vaše zařízení schopna odeslat záznamy o děrování před zahájením události.

@@ -1,8 +1,0 @@
-{
-  "label": "Events",
-  "position": 2,
-  "link": {
-    "type": "generated-index",
-    "description": "Everything you need to know about events on OResults and how to integrate OResults with your orienteering software."
-  }
-}

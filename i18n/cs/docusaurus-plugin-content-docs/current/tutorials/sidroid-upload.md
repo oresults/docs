@@ -3,9 +3,9 @@ sidebar_position: 5
 ---
 
 # Nahrání z aplikace SI-Droid Event
-Přehledný návod jak aplikaci propojit s online výsledky [OResults](https://oresults.eu/) jen pomocí mobilního zařízení připojeného do internetu (přes Wifi/hotspot nebo mobilní data). Poskytni závodníkům jednoduše nově vyčtená data a udělej tak závod atraktivnější.
+Přehledný návod jak aplikaci propojit s online výsledky **[OResults](https://oresults.eu/)** jen pomocí mobilního zařízení připojeného do internetu (přes Wifi/hotspot nebo mobilní data). Poskytni závodníkům jednoduše nově vyčtená data a udělej tak závod atraktivnější.
 
-:::caution
+:::caution Pozor
 Funguje pouze na mobilních zařízeních s operačním systémem Android.
 :::
 
@@ -14,7 +14,7 @@ Funguje pouze na mobilních zařízeních s operačním systémem Android.
 <img src="/img/si-droid-icon.png" alt="SI-droid" />
 
 - **OS**: Android (jediný podporovaný)
-- **Odkaz ke stažení**: [zde](https://play.google.com/store/apps/details?id=se.joja.sidroid.event.full)
+- **Odkaz ke stažení**: **[zde](https://play.google.com/store/apps/details?id=se.joja.sidroid.event.full)**
 
 Oblíbená a velmi hojně využívaná mobilní aplikace pro zjednodušení práce při pořádání závodu se SPORTident krabičkami. Jedná se o placenou aplikaci, kterou se vyplatí pořídit. Jestli appku ještě nemáš, tak neváhej a pořiď si ji hned. Nebudeš litovat.
 
@@ -23,13 +23,13 @@ Oblíbená a velmi hojně využívaná mobilní aplikace pro zjednodušení prá
 <img src="/img/automate-icon.jpg" alt="Automate" />
 
 - **OS**: Android (jediný podporovaný)
-- **Odkaz ke stažení**: [zde](https://play.google.com/store/search?q=automate&c=apps)
+- **Odkaz ke stažení**: **[zde](https://play.google.com/store/search?q=automate&c=apps)**
 
 Zdarma dostupná aplikace, která umožňuje automatizovat téměř všechny procesy v mobilních zařízeních. Po instalaci je při prvním spuštění nutné povolit všechna práva pro správné fungování.
 
 ## Nastavení krok za krokem
 ### 1. Vytvoř nový závod
-- zaregistruj se zdarma na [OResults.eu](https://oresults.eu/register)
+- zaregistruj se zdarma na **[OResults.eu](https://oresults.eu/register)**
 - klikni na `Create +` v sekci `My events` a vyplň detaily nového závodu
 - přepínač `Is Published` nech pro potřeby testování vypnutý a klikni na `Save changes`
 - zkopíruj si `Api key` v sekci `Tools` na pravé straně obrazovky
@@ -51,7 +51,7 @@ Zdarma dostupná aplikace, která umožňuje automatizovat téměř všechny pro
   <img src="/img/si-droid-04-start.jpg" align="top" width="20%" />
 
 ### 3. Stáhni a naimportuj Automate flow
-- stáhni flow ([klikni zde](../../static/attachments/oresults-upload.flo))
+- stáhni flow (**[klikni zde](/attachments/oresults-upload.flo)**)
 - načti flow do `Automate` appky - tři tečky v pravém horním menu a vyber `Import`
 
   <img src="/img/automate-flow-01-list.jpg" align="top" width="45%" style={{marginRight: "15px"}} />
@@ -67,7 +67,7 @@ Zdarma dostupná aplikace, která umožňuje automatizovat téměř všechny pro
   <img src="/img/automate-flow-04-set-apikey.jpg" align="top" width="30%" style={{marginRight: "15px"}} />
   <img src="/img/automate-flow-05-select-file.jpg" align="top" width="30%" />
 
-:::caution
+:::caution Pozor
 zavření vyskakovacích oken je možné vložením jakékoliv hodnoty (klidně fiktivní) a výběrem xml souboru
 :::
 
@@ -76,7 +76,7 @@ zavření vyskakovacích oken je možné vložením jakékoliv hodnoty (klidně 
 
 <img src="/img/oresults-event-apikey.jpg" align="top" width="30%" />
 
-:::danger
+:::danger Pozor
 Nezapomeň přepnout `Is Published` až budeš chtít závod zveřejnit.
 :::
 
@@ -101,7 +101,7 @@ zobrazí (ukázka různých kategorií):
 místo obyčejného:
 <img src="/img/oresults-event-data-columns03.png" />
 
-:::caution
+:::caution Pozor
 Bez nahraných tratí není možné radiokontroly vybrat.
 :::
 
@@ -109,7 +109,7 @@ Bez nahraných tratí není možné radiokontroly vybrat.
 Vytvoření startovky "na krabičku" v externím programu (QuickEvent, MeOS, OE12, ...) umožní ruční nahrání na OResults a zobrazení všech přihlášených/startujících závodníků. Je tak vidět kdo ještě nedoběhl, resp kdo si ještě nevyčetl a zobrazení není před startem závodu prázdné.
 
 ### 3. Přidání radikontrol
-S využitím [Mobilní aplikace](../devices/bluebox-mobile.md) je možné poskytovaná online data ještě vylepšit o skutečnou (jednu a víc) radiokontrolu.
+S využitím [Mobilní aplikace](./bluebox-mobile.md) je možné poskytovaná online data ještě vylepšit o skutečnou (jednu a víc) radiokontrolu.
 
 ## Známé chyby
 ### Expirované právo zápisu pro SI-Droid Event

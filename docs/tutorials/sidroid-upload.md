@@ -3,7 +3,7 @@ sidebar_position: 5
 ---
 
 # Upload from SI-Droid Event
-Tutorial how to upload results to [OResults](https://oresults.eu/) service using only mobile device connected to the internet (via Wifi/hotspot or mobile data). Make the event even more attractive to participants by sharing the results online.
+Tutorial how to upload results to **[OResults](https://oresults.eu/)** service using only mobile device connected to the internet (via Wifi/hotspot or mobile data). Make the event even more attractive to participants by sharing the results online.
 
 :::caution
 It works only on mobile devices with Android operating system. 
@@ -14,7 +14,7 @@ It works only on mobile devices with Android operating system.
 <img src="/img/si-droid-icon.png" alt="SI-droid" />
 
 - **OS**: Android (the only supported)
-- **Donwload link**: [here](https://play.google.com/store/apps/details?id=se.joja.sidroid.event.full)
+- **Donwload link**: **[here](https://play.google.com/store/apps/details?id=se.joja.sidroid.event.full)**
 
 Favorite and very popular mobile app that is used to arrange orienteering events with SPORTident units. The app is paid, but the investment is definitely worth it and it's lifetime. Just buy it if you don't already have it, you won't regret.
 
@@ -23,13 +23,13 @@ Favorite and very popular mobile app that is used to arrange orienteering events
 <img src="/img/automate-icon.jpg" alt="Automate" /> 
 
 - **OS**: Android (the only supported)
-- **Donwload link**: [here](https://play.google.com/store/search?q=automate&c=apps)
+- **Donwload link**: **[here](https://play.google.com/store/search?q=automate&c=apps)**
 
 Free powerful mobile app that allows you to automate almost any process in your device. After installation and the first run you need to grant the right permissions.
 
 ## Step-by-step setup
 ### 1. Create a new event
-- sign up for free on [OResults.eu](https://oresults.eu/register)
+- sign up for free on **[OResults.eu](https://oresults.eu/register)**
 - click on `Create +` in `My events` section and fill in the details
 - leave `Is Published` off for testing purposes and confirm `Save changes`
 - copy the `Api key` in the `Tools` section in the panel on the right
@@ -51,7 +51,7 @@ Free powerful mobile app that allows you to automate almost any process in your 
   <img src="/img/si-droid-04-start.jpg" align="top" width="20%" />
 
 ### 3. Get and import Automate flow
-- download the flow ([click here](../../static/attachments/oresults-upload.flo))
+- download the flow (**[click here](/attachments/oresults-upload.flo)**)
 - import the flow to the `Automate` app - the three dots in the upper right corner and click `Import`
 
   <img src="/img/automate-flow-01-list.jpg" align="top" width="45%" style={{marginRight: "15px"}} />
@@ -109,7 +109,7 @@ Without imported courses it is not possible to select radio controls.
 Creating a start list with a mass start in an external program (QuickEvent, MeOS, OE12, ...) and then manually uploading it to OResults will allow you to view all the competitors who should start, so you can see who hasn't read-out yet.
 
 ### 3. Add radicontrols
-Using [Mobile App](../devices/bluebox-mobile.md) you can even more improve result service at your event with real radio control.
+Using **[Mobile App](./bluebox-mobile.md)** you can even more improve result service at your event with real radio control.
 
 
 ## Know issues

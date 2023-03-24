@@ -1,5 +1,5 @@
 ---
-sidebar_position: 2
+sidebar_position: 4
 ---
 
 # Live feed pro komentátory
@@ -11,7 +11,6 @@ Každý má přístup k Live feedu ve výsledcích události.
 <img src="/img/speaker-overview.png" width="100%" />
 
 :::info
-
 Nelekejte se, že některé řádky mají více sloupců než jiné. Počet sloupců je vždy specifický pro danou třídu.
 :::
 
@@ -40,7 +39,6 @@ V **posledním sloupci** jsou uvedeny **údaje o vyčtení** (`OK`, `Disqualifie
 > Pokud se závodník objeví na **prvním, druhém nebo třetím místě** na některé z radio kontrol, **mezičas čas se podbarví** odpovídající barvou, jak je znázorněno na obrázku.
 
 :::tip
-
 Třídy můžete snadno filtrovat kliknutím na název třídy v řádku kteréhokoli konkurenta.
 :::
 

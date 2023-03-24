@@ -1,5 +1,5 @@
 ---
-sidebar_position: 5
+sidebar_position: 2
 ---
 
 # MeOS Online Protocol (MOP)
@@ -25,8 +25,8 @@ Přejděte na kartu Servisy v systému MeOS a otevřete aplikaci Výsledky Onlin
 - **Časový interval (sekundy)**: `0` (doporučeno, ale záleží na vašich potřebách).
 - **Exportní formát**: `MeOS Online Protocol XML 2.0`
 
-:::caution
-Pozor Startovní čas události OResults musí být stejný jako startovní čas v MeOS.
+:::caution Pozor
+Startovní čas události OResults musí být stejný jako startovní čas v MeOS.
 :::
 
 Nakonec **nastavte** všechny **radio kontroly**.

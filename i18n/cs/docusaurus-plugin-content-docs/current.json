@@ -3,20 +3,28 @@
     "message": "Next",
     "description": "The label for version current"
   },
-  "sidebar.tutorialSidebar.category.Devices": {
-    "message": "Zařízení",
+  "sidebar.tutorialSidebar.category.Blueboxes": {
+    "message": "Bluboxy",
     "description": "The label for category Devices in sidebar tutorialSidebar"
   },
   "sidebar.tutorialSidebar.category.Devices.link.generated-index.description": {
-    "message": "Vše, co potřebujete vědět o používání Blueboxů, mobilní aplikace a nastavení radiokontrol.",
+    "message": "Vše, co potřebujete vědět o používání našich Blueboxů.",
     "description": "The generated-index page description for category Device Setup in sidebar tutorialSidebar"
   },
-  "sidebar.tutorialSidebar.category.Events": {
-    "message": "Události",
+  "sidebar.tutorialSidebar.category.Tutorials": {
+    "message": "Tutoriály",
     "description": "The label for category Devices in sidebar tutorialSidebar"
   },
-  "sidebar.tutorialSidebar.category.Events.link.generated-index.description": {
-    "message": "Vše, co potřebujete vědět o událostech v OResults a o integraci OResults s vaším softwarem pro orientační běh.",
+  "sidebar.tutorialSidebar.category.Tutorials.link.generated-index.description": {
+    "message": "Naučte se, jak můžete organizovat akce pomocí OResults a svého oblíbeného softwaru pro orientační běh.",
+    "description": "The generated-index page description for category Device Setup in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Integrations": {
+    "message": "Integrace",
+    "description": "The label for category Devices in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Integrations.link.generated-index.description": {
+    "message": "Naučte se, jak můžete propojit OResults s vaším softwarem pro orientační běh.",
     "description": "The generated-index page description for category Device Setup in sidebar tutorialSidebar"
   }
 }

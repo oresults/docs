@@ -2,14 +2,9 @@
 sidebar_position: 3
 ---
 
-# Mobilní aplikace
+# Jak používat aplikaci Bluebox Mobile
 
 Před použitím Bluebox Mobile aplikace si přečtěte tyto pokyny.
-
-
-<!--:::caution
-This is a beta version of the app so small bugs may appear.
-:::-->
 
 ## Potřebné vybavení
 
@@ -37,7 +32,7 @@ Nejnovější verzi aplikace Bluebox Mobile najdete v obchodě **[Google Play](h
 
 Při prvním spuštění aplikace otevřete nastavení aplikace a vyplňte **API token**.
 
-:::caution  
+:::caution Pozor
 Nezapomeňte nastavit **API token** na kartě nastavení, kterou najdete v admin sekci OResults v kartě **Devices**.
 :::
 
@@ -66,9 +61,9 @@ Ujistěte se, že je vaše zařízení připojeno k internetu v místě radiokon
 
 ### Umístění zařízení
 
-:::danger
-Pozor Připojený USB dongle musí být umístěn přibližně ve **stejné výšce jako stanice SI** ve vzdálenosti **maximálně 2 metry**, aby byla zajištěna spolehlivá detekce záznamů ražení.
+:::danger Pozor
+Připojený USB dongle musí být umístěn přibližně ve **stejné výšce jako stanice SI** ve vzdálenosti **maximálně 2 metry**, aby byla zajištěna spolehlivá detekce záznamů ražení.
 :::
 
 ### Monitorování
-> Viz **[Monitoring zařízení](./device-monitoring)**
+> Viz **[Monitoring zařízení](../blueboxes/device-monitoring)**

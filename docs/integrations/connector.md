@@ -1,5 +1,5 @@
 ---
-sidebar_position: 3
+sidebar_position: 1
 ---
 
 # OResults Connector
@@ -16,3 +16,7 @@ If you use **[QuickEvent](https://github.com/Quick-Event/quickbox)**, you can us
 ## MeOS
  
 If you use **[MeOS](https://www.melin.nu/meos/en/)**, you can use MOP (MeOS Online Protocol) which is now implemented in OResults (see **[MOP](./mop.md)**).
+
+## Software supporting ROC
+
+If your orientation software supports the ROC protocol, then you can connect to OResults using ROC (see **[ROC](./roc.md)**).

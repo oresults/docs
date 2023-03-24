@@ -1,5 +1,5 @@
 ---
-sidebar_position: 3
+sidebar_position: 1
 ---
 
 # OResults Connector
@@ -16,3 +16,7 @@ Pokud používáte **[QuickEvent](https://github.com/Quick-Event/quickbox)**, m�
 ## MeOS
 
 Pokud používáte **[MeOS](https://www.melin.nu/meos/en/)**, můžete použít MOP (MeOS Online Protocol), který je nyní implementován v OResults (viz **[MOP](./mop.md)**).
+
+## Software podporující ROC
+
+Pokud váš orientační software podporuje protokol ROC, můžete se ke službě OResults připojit pomocí protokolu ROC (viz **[ROC](./roc.md)**).
