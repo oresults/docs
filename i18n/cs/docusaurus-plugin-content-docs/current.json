@@ -4,7 +4,7 @@
     "description": "The label for version current"
   },
   "sidebar.tutorialSidebar.category.Blueboxes": {
-    "message": "Bluboxy",
+    "message": "Blueboxy",
     "description": "The label for category Devices in sidebar tutorialSidebar"
   },
   "sidebar.tutorialSidebar.category.Devices.link.generated-index.description": {
