@@ -109,7 +109,7 @@ Bez nahraných tratí není možné radiokontroly vybrat.
 Vytvoření startovky "na krabičku" v externím programu (QuickEvent, MeOS, OE12, ...) umožní ruční nahrání na OResults a zobrazení všech přihlášených/startujících závodníků. Je tak vidět kdo ještě nedoběhl, resp kdo si ještě nevyčetl a zobrazení není před startem závodu prázdné.
 
 ### 3. Přidání radikontrol
-S využitím [Mobilní aplikace](./bluebox-mobile.md) je možné poskytovaná online data ještě vylepšit o skutečnou (jednu a víc) radiokontrolu.
+S využitím [Mobilní aplikace](../tutorials/bluebox-mobile.md) je možné poskytovaná online data ještě vylepšit o skutečnou (jednu a víc) radiokontrolu.
 
 ## Známé chyby
 ### Expirované právo zápisu pro SI-Droid Event

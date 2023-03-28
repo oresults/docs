@@ -109,7 +109,7 @@ Without imported courses it is not possible to select radio controls.
 Creating a start list with a mass start in an external program (QuickEvent, MeOS, OE12, ...) and then manually uploading it to OResults will allow you to view all the competitors who should start, so you can see who hasn't read-out yet.
 
 ### 3. Add radicontrols
-Using **[Mobile App](./bluebox-mobile.md)** you can even more improve result service at your event with real radio control.
+Using **[Mobile App](../tutorials/bluebox-mobile.md)** you can even more improve result service at your event with real radio control.
 
 
 ## Know issues
