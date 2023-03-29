@@ -58,8 +58,7 @@ Pomocí tlačítka QR Code můžete snadno vytvořit **QR kód s odkazem na vaš
 **Start list** (startovky) a **Results** (výsledky) jsou podporovány pouze ve formátu **IOF XML 3.0**.
 
 :::caution Pozor
-* Závodnící bez čísel čipů jsou ignorováni.
-* Každé číslo karty lze použít pouze jednou. Druhý běžec s již použitým číslem karty je ignorován.
+* Runners without a card number are ignored.
 :::
 
 
@@ -71,7 +70,7 @@ Pomocí tlačítka QR Code můžete snadno vytvořit **QR kód s odkazem na vaš
 :::
 
 
-### Nastavení radio kontrol
+### Nastavení radiokontrol
 
 Vyberte všechny rádiové ovládací prvky. Rádiové ovládací prvky se automaticky zobrazí v příslušných třídách v tabulkách výsledků.
 
