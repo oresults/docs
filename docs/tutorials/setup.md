@@ -54,7 +54,6 @@ You can easily create **QR Code with a link to your event** using the QR Code bu
 :::caution
 **Start list** and **Results** must contain card numbers in `<ControlCard>` tags. 
 * Runners without a card number are ignored.
-* Each card number can only be used once. A second runner with an already used card number is ignored.
 :::
 
 **Courses** are supproted in **OCAD V8 format** text file format and **IOF XML 3.0**.

@@ -10,7 +10,7 @@ Podívejme se na to, jak snadno vytvářet a spravovat události v OResults.
 
 Pokud ještě žádný nemáte, vytvořte si bezplatný účet OResults pro organizátory (viz **[registrace](https://oresults.eu/register)**). Váš účet vám umožní přihlásit se do admin sekce OResults.
 
-Zbytek příručky je věnován administrátorské sekci, do které má přístup pouze přihlášený uživatel OResults.
+Zbytek návodu je věnován administrátorské sekci, do které má přístup pouze přihlášený uživatel OResults.
 
 ## Moje události (My events)
 
@@ -34,11 +34,9 @@ V této části se nastavují základní informace, jako jsou:
 - Místo konání
 - Souřadnice GPS
 
-V této části se nastavují základní informace jako jsou:
+**Musíte nastavit** zda se jedná o štafetový závod **(is relay)**.
 
-**Musíte nastavit** zda událost **jsou štafety** (is relay) **nebo ne**.
-
-Posledním nastavením je **zveřejnění** události (is published), což má za následek, že se zobrazí na stránce událostí OResults.
+Posledním nastavením je zveřejnění události **(is published)**, díky čemuž se událost zobrazí na stránce hlavní stránce OResults.
 
 V této sekci najdete také svůj **API token události**, který se používá k automatickému odesílání startovní listiny a výsledků. Další informace o automatickém odesílání naleznete v části **[OResults Connector](../integrations//connector.md)**.
 
@@ -57,7 +55,6 @@ Pomocí tlačítka QR Code můžete snadno vytvořit **QR kód s odkazem na vaš
 
 :::caution Pozor
 * Závodnící bez čísel čipů jsou ignorováni.
-* Každé číslo karty lze použít pouze jednou. Druhý běžec s již použitým číslem karty je ignorován.
 :::
 
 
@@ -68,15 +65,13 @@ Pomocí tlačítka QR Code můžete snadno vytvořit **QR kód s odkazem na vaš
 :::
 
 
-### Nastavení radio kontrol
+### Nastavení radiokontrol
 
-Vyberte všechny rádiové ovládací prvky. Rádiové ovládací prvky se automaticky zobrazí v příslušných třídách v tabulkách výsledků.
+Vyberte všechny radiokontroly. Radiokontroly se automaticky zobrazí v příslušných třídách v tabulkách výsledků.
 
-**Start list** (startovky) a **Results** (výsledky) jsou podporovány pouze ve formátu **IOF XML 3.0**.
-
-Kontrola dokončení je vybrána automaticky bez ohledu na to, zda ji máte jako rádiový ovladač, nebo ne. **Cílová kontrola musí mít kód nižší než 30.**
+:::caution Pozor
+Cílová kontrola je vybrána automaticky bez ohledu na to, zda ji máte jako rádiový ovladač, nebo ne. **Cílová kontrola musí mít kód nižší než 30.**
 :::
-
 
 <img src="/img/event-radios-setup.png" width="100%" />
 
@@ -92,17 +87,17 @@ Přidělená zařízení Bluebox a záznamy ražení můžete sledovat v části
 
 <img src="/img/event-devices-monitor.png" width="100%" />
 
-### Nebezpečná zóna
+### Danger zone
 
 :::danger Pozor
-Všechny akce provedené v nebezpečné zóně jsou nevratné.
+Všechny akce provedené v Danger zone jsou nevratné.
 :::
 
 
 Pokud se potýkáte s chybami ve výsledcích, můžete vždy použít možnost odstranit běžce (čímž se odstraní startovní listina a výsledky) a nahrát je znovu.
 
 :::info
-**Nebojte se.** **Funkce Odstranit běžce nebo Odstranit kurzy NESMÍ odstranit** již **přijaté záznamy o děrování** z rádiových ovládacích prvků.
+**Nebojte se.** **Funkce Odstranit běžce nebo Odstranit tratě NIKDY neodstraní** již **přijaté záznamy ražení** z radiokontrol.
 :::
 
 
