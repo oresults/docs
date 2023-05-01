@@ -36,7 +36,7 @@ V této části se nastavují základní informace, jako jsou:
 
 **Musíte nastavit** zda se jedná o štafetový závod **(is relay)**.
 
-Posledním nastavením je zveřejnění události **(is published)**, díky čemuž se událost zobrazí na stránce hlavní stránce OResults.
+Posledním nastavením je zveřejnění události **(is published)**, díky čemuž se událost zobrazí na hlavní stránce OResults.
 
 V této sekci najdete také svůj **API token události**, který se používá k automatickému odesílání startovní listiny a výsledků. Další informace o automatickém odesílání naleznete v části **[OResults Connector](../integrations//connector.md)**.
 
@@ -49,12 +49,11 @@ Pomocí tlačítka QR Code můžete snadno vytvořit **QR kód s odkazem na vaš
 
 ### Podporované formáty
 
-**Startovní listina** a **Výsledky** jsou podporovány pouze ve formátu **IOF XML 3.0**.
+**Startovní listina** (Start list) a **Výsledky** (Results) jsou podporovány pouze ve formátu **IOF XML 3.0**.
 
-**Start list** (startovky) a **Results** (výsledky) jsou podporovány pouze ve formátu **IOF XML 3.0**.
 
 :::caution Pozor
-* Závodnící bez čísel čipů jsou ignorováni.
+* Závodnící bez čísla čipu jsou ignorováni.
 :::
 
 
@@ -67,10 +66,10 @@ Pomocí tlačítka QR Code můžete snadno vytvořit **QR kód s odkazem na vaš
 
 ### Nastavení radiokontrol
 
-Vyberte všechny radiokontroly. Radiokontroly se automaticky zobrazí v příslušných třídách v tabulkách výsledků.
+Zaškrtnutím vyberte požadované radiokontroly. Radiokontroly se automaticky zobrazí v příslušných kategoriích v tabulkách výsledků.
 
 :::caution Pozor
-Cílová kontrola je vybrána automaticky bez ohledu na to, zda ji máte jako rádiový ovladač, nebo ne. **Cílová kontrola musí mít kód nižší než 30.**
+Cílová kontrola je vybrána automaticky bez ohledu na to, zda je nastavena jako radiokontrola, nebo ne. **Cílová kontrola musí mít kód nižší než 30.**
 :::
 
 <img src="/img/event-radios-setup.png" width="100%" />

@@ -32,9 +32,9 @@ Blueboxy se nabíjejí pomocí konektoru micro USB, který se nachází pod kryt
 
 ### Zkontrolujte signál
 
-V současné době jsou všechny Blueboxy vybaveny aktivními SIM kartami společnosti T-Mobile CZ.
+V současné době jsou všechny Blueboxy vybaveny aktivními SIM kartami společnosti T-Mobile CZ. Mapa pokrytí území ČR [zde](https://www.t-mobile.cz/podpora/mapa-pokryti-internetem/mobilni).
 
-** **** Ujistěte se, že** je v místech **, kam chcete** umístit **rádiové ovládání, dostupný signál mobilní** sítě **.** Blueboxy pracují na signálu Edge (2G) a jsou schopny spolehlivě odesílat záznamy o úderech i při slabém signálu. Stačí jeden nebo dva řádky signálu.
+**Ujistěte se**, že v místech, kam chcete umístit rádikontrolu je dostupný **signál** mobilní sítě. Blueboxy pracují na signálu Edge (2G) a jsou schopny spolehlivě odesílat záznamy o úderech i při slabém signálu. Stačí jedna nebo dvě čárky signálu.
 
 :::info
 Viz **[Monitoring zařízení](./device-monitoring)**, kde lze zkontrolovat úroveň nabití baterie a sílu signálu.
@@ -44,10 +44,10 @@ Viz **[Monitoring zařízení](./device-monitoring)**, kde lze zkontrolovat úro
 
 ### Umístění jednotek
 
-Jeden Bluebox je schopen přijímat záznamy o děrování až z 8 stanic SI-SRR (viz **[Jak nastavit rádiové řízení](../tutorials/radio-control.md)**)
+Jeden Bluebox je schopen přijímat záznamy o ražení až z 8 jednotek SI-SRR (viz **[Jak nastavit radiokontrolu](../tutorials/radio-control.md)**)
 
 :::danger Pozor
-Pozor Blueboxy musí být umístěny přibližně ve **stejné výšce jako SI stanice** ve vzdálenosti **maximálně 2 metry**, aby byla zajištěna spolehlivá detekce záznamů ražení.
+Pozor Blueboxy musí být umístěny přibližně ve **stejné výšce jako SI jednotky** ve vzdálenosti **maximálně 2 metry**, aby byla zajištěna spolehlivá detekce záznamů ražení.
 :::
 
 :::caution Pozor
@@ -55,7 +55,7 @@ Blueboxy nejsou plně vodotěsné, takže pokud hrozí silný déšť, měly by 
 :::
 
 :::tip
-Bluebox lze nacvaknout na standardní držák stanice SI-BSF7. Jednotky lze umístit na stejný ovládací stojan jako stanici SI nebo na samostatný ovládací stojan vedle sebe, jak je znázorněno na obrázcích.
+Bluebox lze nacvaknout na standardní držák jednotek SI-BSF7. Jednotky lze umístit na stejný ovládací stojan jako jednotky SI nebo na samostatný ovládací stojan vedle sebe, jak je znázorněno na obrázcích.
 :::
 
 <img src="/img/bb-sprintovky.jpg" width="45%" style={{marginRight: "15px"}} />

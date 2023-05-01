@@ -7,7 +7,7 @@ sidebar_position: 2
 MeOS Online Protokol (MOP) umožňuje nahrávat výsledky, mezičasy a startovní listiny z orientačního softwaru MeOS na internet (v našem případě na OResults).
 
 :::tip
-Pokud používáte **[MeOS](https://www.melin.nu/meos/en/)**, není třeba nastavovat startlisty, tratě, výsledky a radio kontroly v administrační sekci OResults
+Pokud používáte **[MeOS](https://www.melin.nu/meos/en/)**, není třeba nastavovat startlisty, tratě, výsledky a radiokontroly v administrační sekci OResults
 
 **Vše lze nastavit přímo ze systému MeOS.**
 :::
@@ -29,7 +29,7 @@ Přejděte na kartu Servisy v systému MeOS a otevřete aplikaci Výsledky Onlin
 Startovní čas události OResults musí být stejný jako startovní čas v MeOS.
 :::
 
-Nakonec **nastavte** všechny **radio kontroly**.
+Nakonec **nastavte** všechny **radiokontroly**.
 
 :::tip
 Po spuštění služby v systému MeOS můžete zkontrolovat, zda je vše správně nastaveno v administrační sekci OResults.
