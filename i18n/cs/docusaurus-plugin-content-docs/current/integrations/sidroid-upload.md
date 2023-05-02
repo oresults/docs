@@ -108,28 +108,9 @@ Bez nahraných tratí není možné radiokontroly vybrat.
 ### 2. Nahrání startovky
 Vytvoření startovky "na krabičku" v externím programu ([QuickEvent](https://github.com/Quick-Event/quickbox), [MeOS](https://www.melin.nu/meos/en/), [OE12](https://sportsoftware.de/orienteering/oe), ...) umožní ruční nahrání na OResults a zobrazení všech přihlášených/startujících závodníků. Je tak vidět kdo ještě nedoběhl, resp kdo si ještě nevyčetl a zobrazení není před startem závodu prázdné.
 
-:::danger Důlěžité
-Musíte ručně odstranit uzly `ClassStart/Class/Id` **pro všechny kategorie**. Doporučujeme použít textový exitor Notepad++ nebo Visual Code, které barevně zvýrazňují xml syntaxe a omezí tak riziko chyby.
-:::
-
-Ukázka požadované úpravy pro kategorii `A`:
-```xml
-<!-- před editací -->
-<ClassStart>
-		<Class>
-			<Id>1</Id>
-			<Name>A</Name>
-		</Class>
-```
-```xml
-<!-- po editaci -->
-<ClassStart>
-		<Class>
-			<Name>A</Name>
-		</Class>
-```
-
-`<Id>1</Id>` bylo odstraněno.
+<p align="center" width="100%">
+  <img src="/img/si-droid-08-startlist-upload.jpg" align="center" width="40%" />
+</p>
 
 ### 3. Přidání radikontrol
 S využitím [Mobilní aplikace](../tutorials/bluebox-mobile.md) je možné poskytovaná online data ještě vylepšit o skutečnou (jednu a víc) radiokontrolu.

@@ -110,28 +110,9 @@ Without imported courses it is not possible to select radio controls.
 ### 2. Upload start list
 Creating a start list with a mass start in an external program ([QuickEvent](https://github.com/Quick-Event/quickbox), [MeOS](https://www.melin.nu/meos/en/), [OE12](https://sportsoftware.de/orienteering/oe), ...) and then manually uploading it to OResults will allow you to view all the competitors who should start, so you can see who hasn't read-out yet.
 
-:::danger Important
-You have to manually delete `ClassStart/Class/Id` node **for all classes**. Use a text editor such as Notepad++ or Visual Code that highlights the xml syntax to avoid errors..
-:::
-
-Example for class `A`:
-```xml
-<!-- original -->
-<ClassStart>
-		<Class>
-			<Id>1</Id>
-			<Name>A</Name>
-		</Class>
-```
-```xml
-<!-- edited -->
-<ClassStart>
-		<Class>
-			<Name>A</Name>
-		</Class>
-```
-
-`<Id>1</Id>` was removed.
+<p align="center" width="100%">
+  <img src="/img/si-droid-08-startlist-upload.jpg" align="center" width="40%" />
+</p>
 
 ### 3. Add radiocontrols
 Using **[Mobile App](../tutorials/bluebox-mobile.md)** you can even more improve the result service at your event with real radiocontrol.
