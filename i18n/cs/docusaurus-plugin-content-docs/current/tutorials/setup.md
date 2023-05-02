@@ -8,15 +8,16 @@ Podívejme se na to, jak snadno vytvářet a spravovat události v OResults.
 
 ## Vytvoření účtu pro organizátory
 
-Pokud ještě žádný nemáte, vytvořte si bezplatný účet OResults pro organizátory (viz **[registrace](https://oresults.eu/register)**). Váš účet vám umožní přihlásit se do admin sekce OResults.
+If you don't have one yet, create a free OResults account for organizers (see **[registration](https://oresults.eu/register)**). Váš účet vám umožní přihlásit se do admin sekce OResults.
 
-Zbytek návodu je věnován administrátorské sekci, do které má přístup pouze přihlášený uživatel OResults.
+Zbytek příručky je věnován administrátorské sekci, do které má přístup pouze přihlášený uživatel OResults.
 
 ## Moje události (My events)
 
 Všechny své události naleznete na kartě My events, kde můžete vytvořit novou událost a přistupovat k nastavení událostí.
 
 :::tip
+
 Tabulky výsledků nezveřejněné události lze zobrazit kliknutím na název události v sekci Moje události.
 :::
 
@@ -34,13 +35,16 @@ V této části se nastavují základní informace, jako jsou:
 - Místo konání
 - Souřadnice GPS
 
-**Musíte nastavit** zda se jedná o štafetový závod **(is relay)**.
+V této části se nastavují základní informace jako jsou:
 
-Posledním nastavením je zveřejnění události **(is published)**, díky čemuž se událost zobrazí na hlavní stránce OResults.
+**Musíte nastavit** zda událost **jsou štafety** (is relay) **nebo ne**.
 
-V této sekci najdete také svůj **API token události**, který se používá k automatickému odesílání startovní listiny a výsledků. Další informace o automatickém odesílání naleznete v části **[OResults Connector](../integrations//connector.md)**.
+Posledním nastavením je **zveřejnění** události (is published), což má za následek, že se zobrazí na stránce událostí OResults.
+
+V této sekci najdete také svůj **API token události**, který se používá k automatickému odesílání startovní listiny a výsledků. For more information about automatic upload, see **[OResults Connector](../integrations/connector.md)**.
 
 :::tip
+
 Pomocí tlačítka QR Code můžete snadno vytvořit **QR kód s odkazem na vaši událost** .
 :::
 
@@ -49,28 +53,32 @@ Pomocí tlačítka QR Code můžete snadno vytvořit **QR kód s odkazem na vaš
 
 ### Podporované formáty
 
-**Startovní listina** (Start list) a **Výsledky** (Results) jsou podporovány pouze ve formátu **IOF XML 3.0**.
+**Startovní listina** a **Výsledky** jsou podporovány pouze ve formátu **IOF XML 3.0**.
 
+**Start list** (startovky) a **Results** (výsledky) jsou podporovány pouze ve formátu **IOF XML 3.0**.
 
 :::caution Pozor
-* Závodnící bez čísla čipu jsou ignorováni.
+* Runners without a card number are ignored.
 :::
 
 
 **Start list** a **Results** musí obsahovat čísla čipů v tagu `<ControlCard>`.
 
 :::tip
+
 **Tratě** jsou preferovány ve formátu **OCAD V8**, který je mnohem menší a vhodnější pro nahrávání než IOF XML 3.0.
 :::
 
 
 ### Nastavení radiokontrol
 
-Zaškrtnutím vyberte požadované radiokontroly. Radiokontroly se automaticky zobrazí v příslušných kategoriích v tabulkách výsledků.
+Vyberte všechny rádiové ovládací prvky. Rádiové ovládací prvky se automaticky zobrazí v příslušných třídách v tabulkách výsledků.
 
-:::caution Pozor
-Cílová kontrola je vybrána automaticky bez ohledu na to, zda je nastavena jako radiokontrola, nebo ne. **Cílová kontrola musí mít kód nižší než 30.**
+**Start list** (startovky) a **Results** (výsledky) jsou podporovány pouze ve formátu **IOF XML 3.0**.
+
+Kontrola dokončení je vybrána automaticky bez ohledu na to, zda ji máte jako rádiový ovladač, nebo ne. **Cílová kontrola musí mít kód nižší než 30.**
 :::
+
 
 <img src="/img/event-radios-setup.png" width="100%" />
 
@@ -82,21 +90,23 @@ Tabulku s dostupnými zařízeními Bluebox můžete otevřít pomocí přepína
 
 ### Monitoring Bluebox zařízení
 
-Přidělená zařízení Bluebox a záznamy ražení můžete sledovat v části Rádiová zařízení, jak je znázorněno na obrázku. Další informace o monitorování naleznete na adrese **[Monitorování zařízení](../blueboxes/device-monitoring.md)**.
+Přidělená zařízení Bluebox a záznamy ražení můžete sledovat v části Rádiová zařízení, jak je znázorněno na obrázku. For more information about monitoring see **[Device monitoring](../blueboxes/device-monitoring.md)**.
 
 <img src="/img/event-devices-monitor.png" width="100%" />
 
-### Danger zone
+### Nebezpečná zóna
 
-:::danger Pozor
-Všechny akce provedené v Danger zone jsou nevratné.
+:::nebezpečí
+
+Všechny akce provedené v nebezpečné zóně jsou nevratné.
 :::
 
 
 Pokud se potýkáte s chybami ve výsledcích, můžete vždy použít možnost odstranit běžce (čímž se odstraní startovní listina a výsledky) a nahrát je znovu.
 
 :::info
-**Nebojte se.** **Funkce Odstranit běžce nebo Odstranit tratě NIKDY neodstraní** již **přijaté záznamy ražení** z radiokontrol.
+
+**Nebojte se.** **Funkce Odstranit běžce nebo Odstranit kurzy NESMÍ odstranit** již **přijaté záznamy o děrování** z rádiových ovládacích prvků.
 :::
 
 
