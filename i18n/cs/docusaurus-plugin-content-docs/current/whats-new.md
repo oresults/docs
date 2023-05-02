@@ -5,7 +5,7 @@ title: "Novinky"
 
 # 💡 Novinky
 
-Zde naleznete přehledný seznam novinek o **[OResults](https://oresults.eu/)**, **[Blueboxech](./blueboxes/bluebox-units.md)** a **[mobilní aplikaci](./tutorials/bluebox-mobile.md)**. Hlavně půjde o informace o nových funkcích, vylepšeních a opravených chybách. Při sledování tohoto přehledu Vám nic neuteče a veškeré novinky tak budete moci rovnou vyzkoušet.
+Here, you can find the latest features and changes in **[OResults](https://oresults.eu/)**, **[Blueboxes](./blueboxes/bluebox-units.md)** and **[mobile app](./tutorials/bluebox-mobile.md)**, including new features, improvements, and bug fixes. Stay informed and up-to-date on the latest developments to make the most of OResults platform's capabilities.
 
 ## 2023-03
 
@@ -48,7 +48,7 @@ Zde naleznete přehledný seznam novinek o **[OResults](https://oresults.eu/)**,
 
 #### OResults
 
-- Platforma spuštěna
+- platforma spuštěna
 - Zavedení protokolu ROC
 - Služba OResults Connector v QuickEvent (není potřeba OResults Connector)
 - Podpora formátu IOF XML 3.0 pro startovní listiny a výsledky
@@ -56,4 +56,4 @@ Zde naleznete přehledný seznam novinek o **[OResults](https://oresults.eu/)**,
 - Zobrazení nejnovějších výsledků (Komentátorský modul) pro organizátory
 
 #### Dokumentace
-- Platforma spuštěna
+- platforma spuštěna
