@@ -6,16 +6,16 @@ sidebar_position: 6
 
 ## Bluebox Mobile Android aplikace
 
-OResults (Otakar Hirš a Jan Jurica) vytvořili aplikaci Bluebox Mobile jako bezplatnou aplikaci. Tato služba je poskytována týmem OResults bezplatně a je určena k použití tak, jak je.
+OResults (Otakar Hirš and Jan Jurica) built the Bluebox Mobile app as a Free app. This SERVICE is provided by OResults at no cost and is intended for use as is.
 
 Tato stránka slouží k informování návštěvníků o našich zásadách týkajících se shromažďování, používání a zveřejňování osobních údajů, pokud se někdo rozhodne používat naši službu.
 
-Pokud se rozhodnete používat naši službu, souhlasíte se shromažďováním a používáním informací v souladu s těmito zásadami. Osobní údaje, které shromažďujeme, slouží k poskytování Služby. Vaše údaje nebudeme používat ani sdílet se třetími stranami.
+If you choose to use our Service, then you agree to the collection and use of information in relation to this policy. The Personal Information that we collect is used for providing the Service. We will not use or share your information with 3rd party.
 
 
 **Shromažďování a používání informací**
 
-Pro lepší zážitek z používání naší služby můžeme požadovat, abyste nám sdělili polohu zařízení. To nám umožňuje získat přístup k síle signálu zařízení, abychom mohli zobrazit stav zařízení na webovém panelu. Sílu signálu přenášíme pouze jako hodnotu v rozmezí 0-5 a přesnou polohu nelze odvodit. Tyto informace se ukládají na dobu neurčitou, ale můžete požádat o jejich vymazání z databáze prostřednictvím našeho kontaktního e-mailu. Můžete se rozhodnout, že aplikaci neposkytnete oprávnění k určování polohy, a v takovém případě nebude síla signálu přenášena a nebude k dispozici na ovládacím panelu.
+For a better experience, while using our Service, we may require you to provide us with the device location. This enables us to access the signal strength of the device in order to display the device status it in the web dashboard. We only transmit the signal strength as a value between 0-5 and precise location can not be inferred. This information is stored indefinitely, but you can request the deletion from the database via our contact email. You may choose to not provide location permission to the app, in which case the signal strength will not be transferred and available in the dashboard.
 
 **Zabezpečení**
 
@@ -23,10 +23,11 @@ Informace mohou být přenášeny pomocí nezabezpečeného připojení a my nem
 
 **Změny těchto zásad ochrany osobních údajů**
 
-Naše zásady ochrany osobních údajů můžeme čas od času aktualizovat. Proto vám doporučujeme, abyste tuto stránku pravidelně kontrolovali a zjišťovali případné změny. O všech změnách vás budeme informovat zveřejněním nových zásad ochrany osobních údajů na této stránce.
+We may update our Privacy Policy from time to time. Thus, you are advised to review this page periodically for any changes. We will notify you of any changes by posting the new Privacy Policy on this page.
 
 Tato politika je účinná od 2022-10-12
 
 **Kontaktujte nás**
 
 Máte-li jakékoli dotazy nebo připomínky k našim zásadám ochrany osobních údajů, neváhejte nás kontaktovat na adrese info@OResults.eu.
+
