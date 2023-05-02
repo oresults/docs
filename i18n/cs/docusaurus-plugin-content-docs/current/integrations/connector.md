@@ -4,7 +4,7 @@ sidebar_position: 1
 
 # OResults Connector
 
-OResults Connector je jednoduchý nástroj pro **automatické nahrávání startovních listin a souborů s výsledky do OResults**. Nahrává soubory z dané složky tak, jak jsou vytvářeny nebo upravovány.
+OResults Connector is a tool for **automatic upload of start list and results files to OResults**. Nahrává soubory z dané složky tak, jak jsou vytvářeny nebo upravovány.
 
 <img src="/img/oresults-connector-demo.png" width="100%" />
 
