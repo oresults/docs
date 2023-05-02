@@ -18,13 +18,13 @@ Pokud máte zájem o pronájem Blueboxů pro vaši akci, podívejte se na **[ORe
 
 Blueboxy se zapínají vypínačem umístěným na boku.
 
-:::caution Pozor
-Před zapnutím každé jednotky je nutné na její boční stranu připojit externí anténu.
+:::caution
+Pozor Před zapnutím každé jednotky je nutné na její boční stranu připojit externí anténu.
 :::
 
 ### Nabíjení zařízení Bluebox
 
-:::caution Pozor
+:::caution
 Před každou událostí se ujistěte, že jsou Blueboxy řádně nabité.
 :::
 
@@ -32,12 +32,12 @@ Blueboxy se nabíjejí pomocí konektoru micro USB, který se nachází pod kryt
 
 ### Zkontrolujte signál
 
-V současné době jsou všechny Blueboxy vybaveny aktivními SIM kartami společnosti T-Mobile CZ. Mapa pokrytí území ČR [zde](https://www.t-mobile.cz/podpora/mapa-pokryti-internetem/mobilni).
+V současné době jsou všechny Blueboxy vybaveny aktivními SIM kartami společnosti T-Mobile CZ.
 
-**Ujistěte se**, že v místech, kam chcete umístit rádikontrolu je dostupný **signál** mobilní sítě. Blueboxy pracují na signálu Edge (2G) a jsou schopny spolehlivě odesílat záznamy o úderech i při slabém signálu. Stačí jedna nebo dvě čárky signálu.
+** **** Ujistěte se, že** je v místech **, kam chcete** umístit **rádiové ovládání, dostupný signál mobilní** sítě **.** Blueboxy pracují na signálu Edge (2G) a jsou schopny spolehlivě odesílat záznamy o úderech i při slabém signálu. Stačí jeden nebo dva řádky signálu.
 
 :::info
-Viz **[Monitoring zařízení](./device-monitoring)**, kde lze zkontrolovat úroveň nabití baterie a sílu signálu.
+See **[Device monitoring](./device-monitoring)** for where to check the battery level and the signal strength .
 :::
 
 ## V den závodu
@@ -46,16 +46,16 @@ Viz **[Monitoring zařízení](./device-monitoring)**, kde lze zkontrolovat úro
 
 Jeden Bluebox je schopen přijímat záznamy o ražení až z 8 jednotek SI-SRR (viz **[Jak nastavit radiokontrolu](../tutorials/radio-control.md)**)
 
-:::danger Pozor
-Pozor Blueboxy musí být umístěny přibližně ve **stejné výšce jako SI jednotky** ve vzdálenosti **maximálně 2 metry**, aby byla zajištěna spolehlivá detekce záznamů ražení.
+:::danger
+Pozor Blueboxy musí být umístěny přibližně ve **stejné výšce jako SI stanice** ve vzdálenosti **maximálně 2 metry**, aby byla zajištěna spolehlivá detekce záznamů ražení.
 :::
 
-:::caution Pozor
+:::caution
 Blueboxy nejsou plně vodotěsné, takže pokud hrozí silný déšť, měly by být zakryty nepromokavým pytlem nebo jiným obalem.
 :::
 
 :::tip
-Bluebox lze nacvaknout na standardní držák jednotek SI-BSF7. Jednotky lze umístit na stejný ovládací stojan jako jednotky SI nebo na samostatný ovládací stojan vedle sebe, jak je znázorněno na obrázcích.
+Bluebox lze nacvaknout na standardní držák stanice SI-BSF7. Jednotky lze umístit na stejný ovládací stojan jako stanici SI nebo na samostatný ovládací stojan vedle sebe, jak je znázorněno na obrázcích.
 :::
 
 <img src="/img/bb-sprintovky.jpg" width="45%" style={{marginRight: "15px"}} />
