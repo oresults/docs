@@ -42,13 +42,15 @@ Free powerful mobile app that allows you to automate almost any process in your 
 - in `RESULTS` tabs in `SI-Droid Event` click three dots in the upper right corner and tap `Share Automatic`
 - tick `Results for Eventor (IOFv3 XML)` option
 - set the interval value, for example, 30 sec (the shortest possible)
-- select a directory for export 
-- press the grey button to start the automatic export (`SHARING RUNNING`)
+- select a directory for export and allow access
+<img src="/img/si-droid-05-write-permission.jpg" align="top" width="60%" />
+- press the grey button to start the automatic export (`SHARING RUNNING`)
 
-  <img src="/img/si-droid-01-three-dots.jpg" align="top" width="20%" style={{marginRight: "15px"}}  />
-  <img src="/img/si-droid-02-menu.jpg" align="top" width="20%" style={{marginRight: "15px"}}  />
-  <img src="/img/si-droid-03-settings.jpg" align="top" width="20%" style={{marginRight: "15px"}}  />
-  <img src="/img/si-droid-04-start.jpg" align="top" width="20%" />
+  <img src="/img/si-droid-01-three-dots.jpg" align="top" width="40%" style={{marginRight: "15px"}}  />
+  <img src="/img/si-droid-02-menu.jpg" align="top" width="40%" style={{marginRight: "15px"}}  />
+
+  <img src="/img/si-droid-03-settings.jpg" align="top" width="30%" style={{marginRight: "15px"}}  />
+  <img src="/img/si-droid-04-start.jpg" align="top" width="29%" />
 
 ### 3. Get and import Automate flow
 - download the flow (**[click here](/attachments/oresults-upload.flo)**)
@@ -76,7 +78,7 @@ To close the pop-up window, you must enter any value, e.g. an invalid one and se
 
 <img src="/img/oresults-event-apikey.jpg" align="top" width="30%" />
 
-:::danger
+:::danger Important
 Don't forget to switch `Is Published` if you want to publish the event.
 :::
 
@@ -106,18 +108,29 @@ Without imported courses it is not possible to select radio controls.
 :::
 
 ### 2. Upload start list
-Creating a start list with a mass start in an external program (QuickEvent, MeOS, OE12, ...) and then manually uploading it to OResults will allow you to view all the competitors who should start, so you can see who hasn't read-out yet.
+Creating a start list with a mass start in an external program ([QuickEvent](https://github.com/Quick-Event/quickbox), [MeOS](https://www.melin.nu/meos/en/), [OE12](https://sportsoftware.de/orienteering/oe), ...) and then manually uploading it to OResults will allow you to view all the competitors who should start, so you can see who hasn't read-out yet.
 
-### 3. Add radicontrols
-Using **[Mobile App](../tutorials/bluebox-mobile.md)** you can even more improve result service at your event with real radio control.
+<p align="center" width="100%">
+  <img src="/img/si-droid-08-startlist-upload.jpg" align="center" width="40%" />
+</p>
 
+### 3. Add radiocontrols
+Using **[Mobile App](../tutorials/bluebox-mobile.md)** you can even more improve the result service at your event with real radiocontrol.
+
+### 4. Manually added competitors
+Competitors who ran **without a card**, e.g. only with a paper card with manual punching and were **manually entered** into the SI-Droid Event will get into the OResults web page only if you insert **unique** `External id` value in competitor's properties. The value can be a number or text or a combination of both.
+
+<p align="center" width="100%">
+  <img src="/img/si-droid-06-edit-runner.jpg" align="center" width="40%" />
+</p>
 
 ## Know issues
 ### Expired write permission in SI-Droid Event
 - You have to reselect the directory for exporting the xml files from SI-Droid Event app in the export setting (`Location` section). Running the export is not enough! Expired permission results in the exported file not being overwritten. Export directory contains files like `results.xml`, `results(1).xml`, `results(2).xml`, ... Selecting the directory again updates the write permission.
 
-### Manually entered competitors
-- Competitors who ran **without a card**, for example, only with a paper card with manual punching and were **manually entered** into the SI Droid Event will not get into the OResults web page. The card number works as a unique identifier without which the service doesn't work. Currently, it is not possible to manually add a card number (e.g. fictitious) in the SI Droid Event app.
+<p align="center" width="100%">
+  <img src="/img/si-droid-07-error-renaming.jpg" align="center" width="40%" />
+</p>
 
 ## Support
 In case of any issue do not hesitate to contact official OResults support at tech@oresults.eu in Czech or English.

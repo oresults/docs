@@ -28,7 +28,7 @@ Protokol ROC slouží ke stažení živých ražení do vašeho orietačního so
 4;1;2144039;2022-05-21 09:59:17
 ```
 
-Každý řádek obsahuje jeden záznam o děrování. Hodnoty jsou odděleny středníkem a představují **ID záznamu o ražení**, **kontrolní kód**, **karta SI** a **časové razítko ražení**.
+Každý řádek obsahuje jeden záznam o ražení. Hodnoty jsou odděleny středníkem a představují **ID záznamu o ražení**, **kontrolní kód**, **karta SI** a **časové razítko ražení**.
 
 
 ## Použití ROC v orientačních softwarech

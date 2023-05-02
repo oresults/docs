@@ -5,8 +5,8 @@ sidebar_position: 4
 # Nahrání z aplikace SI-Droid Event
 Přehledný návod jak aplikaci propojit s online výsledky **[OResults](https://oresults.eu/)** jen pomocí mobilního zařízení připojeného do internetu (přes Wifi/hotspot nebo mobilní data). Poskytni závodníkům jednoduše nově vyčtená data a udělej tak závod atraktivnější.
 
-:::caution Pozor
-Funguje pouze na mobilních zařízeních s operačním systémem Android.
+:::caution Upozornění
+Funguje pouze na mobilních zařízeních s operačním systémem `Android`.
 :::
 
 ## Appka SI-Droid Event
@@ -16,7 +16,7 @@ Funguje pouze na mobilních zařízeních s operačním systémem Android.
 - **OS**: Android (jediný podporovaný)
 - **Odkaz ke stažení**: **[zde](https://play.google.com/store/apps/details?id=se.joja.sidroid.event.full)**
 
-Oblíbená a velmi hojně využívaná mobilní aplikace pro zjednodušení práce při pořádání závodu se SPORTident krabičkami. Jedná se o placenou aplikaci, kterou se vyplatí pořídit. Jestli appku ještě nemáš, tak neváhej a pořiď si ji hned. Nebudeš litovat.
+Oblíbená a velmi hojně využívaná mobilní aplikace pro zjednodušení práce při pořádání tréninku či dokonce závodu se SPORTident krabičkami. Jedná se o placenou aplikaci. Jestli appku ještě nemáš, tak neváhej a pořiď si ji. Nebudeš litovat.
 
 ## Appka Automate
 
@@ -67,8 +67,8 @@ Zdarma dostupná aplikace, která umožňuje automatizovat téměř všechny pro
   <img src="/img/automate-flow-04-set-apikey.jpg" align="top" width="30%" style={{marginRight: "15px"}} />
   <img src="/img/automate-flow-05-select-file.jpg" align="top" width="30%" />
 
-:::caution Pozor
-zavření vyskakovacích oken je možné vložením jakékoliv hodnoty (klidně fiktivní) a výběrem xml souboru
+:::caution Upozornění
+Zavření vyskakovacích oken je možné vložením jakékoliv hodnoty (klidně fiktivní) a výběrem xml souboru
 :::
 
 ### 5. Sdílej závod
@@ -76,7 +76,7 @@ zavření vyskakovacích oken je možné vložením jakékoliv hodnoty (klidně 
 
 <img src="/img/oresults-event-apikey.jpg" align="top" width="30%" />
 
-:::danger Pozor
+:::danger Důležité
 Nezapomeň přepnout `Is Published` až budeš chtít závod zveřejnit.
 :::
 
@@ -106,17 +106,29 @@ Bez nahraných tratí není možné radiokontroly vybrat.
 :::
 
 ### 2. Nahrání startovky
-Vytvoření startovky "na krabičku" v externím programu (QuickEvent, MeOS, OE12, ...) umožní ruční nahrání na OResults a zobrazení všech přihlášených/startujících závodníků. Je tak vidět kdo ještě nedoběhl, resp kdo si ještě nevyčetl a zobrazení není před startem závodu prázdné.
+Vytvoření startovky "na krabičku" v externím programu ([QuickEvent](https://github.com/Quick-Event/quickbox), [MeOS](https://www.melin.nu/meos/en/), [OE12](https://sportsoftware.de/orienteering/oe), ...) umožní ruční nahrání na OResults a zobrazení všech přihlášených/startujících závodníků. Je tak vidět kdo ještě nedoběhl, resp kdo si ještě nevyčetl a zobrazení není před startem závodu prázdné.
+
+<p align="center" width="100%">
+  <img src="/img/si-droid-08-startlist-upload.jpg" align="center" width="40%" />
+</p>
 
 ### 3. Přidání radikontrol
 S využitím [Mobilní aplikace](../tutorials/bluebox-mobile.md) je možné poskytovaná online data ještě vylepšit o skutečnou (jednu a víc) radiokontrolu.
+
+### 4. Ručně vložení závodníci
+Závodníci, kteří běželi **bez čipu** , např. pouze s průkazkou a razili kleštičkami, a byli do appky SI Droid Event **vloženi ručně**, se ve výsledcích na OResults zobrazí jen pokud budou mít v políčku `External id` nastavenou **unikátní** hodnotu - může být číslo, text nebo kombinace.
+
+<p align="center" width="100%">
+  <img src="/img/si-droid-06-edit-runner.jpg" align="center" width="40%" />
+</p>
 
 ## Známé chyby
 ### Expirované právo zápisu pro SI-Droid Event
 - Při novém spuštění exportu dat je potřeba v appce SI Droid Event znovu vybrat adresář, do kterého se mají výsledky exportovat (část `Location`). Pouze spuštění exportu nestačí! Expirované právo způsobuje, že se soubory nepřepisují. Obsah adresáře s exprtovanými výsledky tak vypadá následovně: `results.xml`, `results(1).xml`, `results(2).xml`, ... Opakovaný výběr adresáře právo pro zápis obnoví.
 
-### Ručně vložení závodníci
-- Závodníci, kteří běželi **bez čipu** pouze s průkazkou a razili kleštičkami a byli do appky SI Droid Event **vloženi ručně**, se ve výsledcích na OResults nezobrazí. Číslo čipu se totiž používá jako jednoznačný identifikátor, bez kterého služba nefunguje. Aktuálně číslo čipu nejde (např. na fiktivní) v aplikaci ručně upravit.
+<p align="center" width="100%">
+  <img src="/img/si-droid-07-error-renaming.jpg" align="center" width="40%" />
+</p>
 
 ## Podpora
 V případě potíží s fungováním neváhej a napiš na oficiální podporu OResults na email tech@oresults.eu.
