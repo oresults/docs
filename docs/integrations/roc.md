@@ -51,7 +51,7 @@ Further information can be found in the **[MeOS documentation](https://www.melin
 You can download punches from OResults to OE12 using **Online monitor - Client Web** functionality.
 
 - Choose **ROC olresultat** option.
-- Set **URL** to  `https://api.oresults.eu`
+- Set **URL** to  `api.oresults.eu`
 - Set **Query** to `/roc`
 - **Event ID** is the `unitId` as mentioned above.
 

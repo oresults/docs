@@ -51,7 +51,7 @@ Další informace naleznete v **[dokumentaci systému MeOS](https://www.melin.nu
 Ražení z OResults můžete do OE12 stahovat pomocí funkce **Online monitor - Client Web**.
 
 - Vyberte možnost **ROC olresultat**.
-- Nastavte **URL** na `https://api.oresults.eu`.
+- Nastavte **URL** na `api.oresults.eu`.
 - Nastavte **Query** na `/roc`.
 - **Event ID** je `unitId`, jak je uvedeno výše.
 
