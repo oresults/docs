@@ -94,11 +94,9 @@ const config = {
       // options
       websiteID: "3b9947ae-d41b-4d90-8317-eab5e8afaa92", // Required
       analyticsDomain: "analytics.oresults.eu", // Required
-      dataHostURL: "",
       dataAutoTrack: true,
       dataDoNoTrack: true,
       dataCache: true,
-      dataDomains: "", // comma separated list of domains, *Recommended*
     }],
   ],
 };
