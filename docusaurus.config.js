@@ -92,9 +92,8 @@ const config = {
   plugins: [
     ['@dipakparmar/docusaurus-plugin-umami', {
       // options
-      websiteID: "f7c1c4f7-337a-490e-9902-df2aa1f34037", // Required
-      analyticsDomain: "analytics.otahirs.cz", // Required
-      scriptName: "dQw4w9WgXcQ.js",
+      websiteID: "3b9947ae-d41b-4d90-8317-eab5e8afaa92", // Required
+      analyticsDomain: "analytics.oresults.eu", // Required
       dataHostURL: "",
       dataAutoTrack: true,
       dataDoNoTrack: true,
