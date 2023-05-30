@@ -92,7 +92,7 @@ const config = {
   plugins: [
     ['@dipakparmar/docusaurus-plugin-umami', {
       // options
-      websiteID: "3b9947ae-d41b-4d90-8317-eab5e8afaa92", // Required
+      websiteID: "eca0953e-4bb9-42b6-bd33-5c88d12a7a67", // Required
       analyticsDomain: "analytics.oresults.eu", // Required
       dataCache: true,
     }],
