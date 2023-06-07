@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="2.6682cm" height="2.8966cm" version="1.1" viewBox="0 0 26.682 28.966" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+<metadata>
+<rdf:RDF>
+<cc:Work rdf:about="">
+<dc:format>image/svg+xml</dc:format>
+<dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+<dc:title/>
+</cc:Work>
+</rdf:RDF>
+</metadata>
+<g transform="translate(-6.6588 -262.52)">
+<text x="54.790253" y="302.21173" fill="#000000" font-family="AMSansOneW00-Regular" font-size="19.756px" letter-spacing="0px" word-spacing="0px" style="line-height:1.25" xml:space="preserve"/>
+<text x="26.426273" y="263.69821" fill="#000000" font-family="AMSansOneW00-Regular" font-size="19.756px" letter-spacing="0px" word-spacing="0px" style="line-height:1.25" xml:space="preserve"/>
+<circle cx="26.626" cy="276.62" r="0" fill="#fff" style="paint-order:normal"/>
+<flowRoot fill="#000000" font-family="AMSansOneW00-Regular" font-size="74.667px" letter-spacing="0px" word-spacing="0px" style="line-height:1.25" xml:space="preserve"><flowRegion><rect x="-6.364" y="-35.689" width="627.91" height="272.94"/></flowRegion><flowPara/></flowRoot>
+<g transform="translate(.66514 -124.56)">
+<path transform="matrix(.26458 0 0 .26458 0 252)" d="m73.146 540.47c-16.043 0-29.105 13.07-29.105 29.113 0 5.3936 1.481 10.448 4.0508 14.785l3.2949-6.0527c-1.0784-2.6972-1.6777-5.6423-1.6777-8.7324 0-12.98 10.458-23.443 23.438-23.443 3.1676 0 6.1849 0.62677 8.9375 1.7578l6.0352-3.2676c-4.3787-2.6387-9.5026-4.1602-14.973-4.1602zm25 14.225-3.2891 6.0117c1.1159 2.7369 1.7344 5.7317 1.7344 8.877 0 12.98-10.466 23.438-23.445 23.438-3.0448 0-5.9465-0.58228-8.6113-1.6309l-6.0742 3.3066c4.3151 2.5343 9.3322 3.9941 14.686 3.9941 16.043 0 29.115-13.064 29.115-29.107 0-5.4364-1.5065-10.528-4.1152-14.889z" color="#000000" color-rendering="auto" dominant-baseline="auto" fill="#0b409c" image-rendering="auto" shape-rendering="auto" solid-color="#000000" style="font-feature-settings:normal;font-variant-alternates:normal;font-variant-caps:normal;font-variant-ligatures:normal;font-variant-numeric:normal;font-variant-position:normal;isolation:auto;mix-blend-mode:normal;paint-order:normal;shape-padding:0;text-decoration-color:#000000;text-decoration-line:none;text-decoration-style:solid;text-indent:0;text-orientation:mixed;text-transform:none;white-space:normal"/>
+<path d="m19.382 392.45 0.0024 1.0097" fill="none" stroke="#0b409c" stroke-linecap="square" stroke-linejoin="round" stroke-width="1.5"/>
+<path d="m17.633 400.32 9.0296-4.873-4.963 9.006z" fill="#0b409c"/>
+<path d="m20.979 405.17-8.9985 4.9172 4.8984-9.0424z" fill="#0b409c"/>
+<ellipse cx="19.335" cy="402.7" rx="12.591" ry="12.591" fill="none" stroke="#0b409c" stroke-linecap="round" stroke-linejoin="bevel" stroke-width="1.5" style="paint-order:normal"/>
+<path d="m29.699 402.76-1.0118 0.0272" fill="none" stroke="#0b409c" stroke-linecap="square" stroke-linejoin="round" stroke-width="1.5"/>
+<path d="m19.384 413.1 0.0018-1.0077" fill="none" stroke="#0b409c" stroke-linecap="square" stroke-linejoin="round" stroke-width="1.5"/>
+<path d="m9.0427 402.79 1.0118-2e-3" fill="none" stroke="#0b409c" stroke-linecap="square" stroke-linejoin="round" stroke-width="1.5"/>
+<rect x="15.764" y="387.08" width="7.1427" height="3.6" rx="0" ry=".3638" fill="#0b409c" stroke-width=".07177"/>
+<rect transform="rotate(-45)" x="-272.96" y="283.16" width="3.85" height="2.3788" rx="0" ry=".35079" fill="#0b409c" stroke-width=".042832"/>
+<rect transform="rotate(45)" x="296.45" y="255.82" width="3.85" height="2.3788" rx="0" ry=".37418" fill="#0b409c" stroke-width=".042832"/>
+</g>
+</g>
+</svg>
