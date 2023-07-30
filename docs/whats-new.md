@@ -7,6 +7,18 @@ title: "What's New"
 
 Here, you can find the latest features and changes in **[OResults](https://oresults.eu/)**, **[Blueboxes](./blueboxes/bluebox-units.md)** and **[mobile app](./tutorials/bluebox-mobile.md)**, including new features, improvements, and bug fixes. Stay informed and up-to-date on the latest developments to make the most of OResults platform's capabilities.
 
+## 2023-07
+
+### OResults
+
+- Brand new design
+
+## 2023-05
+
+#### Blueboxes
+
+- New Blueboxes with NB-IoT connection and longer battery life
+
 ## 2023-03
 
 #### OResults

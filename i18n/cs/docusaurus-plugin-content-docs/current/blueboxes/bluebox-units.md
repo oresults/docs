@@ -16,7 +16,7 @@ Pokud máte zájem o pronájem Blueboxů pro vaši akci, podívejte se na **[ORe
 
 ### Zapnutí jednotek
 
-Blueboxy se zapínají vypínačem umístěným na boku.
+Blueboxy se zapínají vypínačem umístěným na straně.
 
 :::caution Pozor
 Před zapnutím každé jednotky je nutné na její boční stranu připojit externí anténu.
@@ -24,21 +24,23 @@ Před zapnutím každé jednotky je nutné na její boční stranu připojit ext
 
 ### Nabíjení zařízení Bluebox
 
+**Výdrž baterie** jednoho Blueboxu je přibližně **20 hodin**, takže vydrží na jedno nabití dvě standardní víkenové etapy.
+
 :::caution Pozor
 Před každou událostí se ujistěte, že jsou Blueboxy řádně nabité.
 :::
 
 Blueboxy se nabíjejí pomocí konektoru micro USB, který se nachází pod krytem na boku každého zařízení. Použijte nabíječku, která je součástí sady k zapůjčení. Pokud chcete použít vlastní nabíječku, musí mít jmenovité výstupní napětí 5 V.
 
-### Zkontrolujte signál
+<!--### Zkontrolujte signál
 
-V současné době jsou všechny Blueboxy vybaveny aktivními SIM kartami společnosti T-Mobile CZ. Mapa pokrytí území ČR [zde](https://www.t-mobile.cz/podpora/mapa-pokryti-internetem/mobilni).
+V současné době jsou všechny Blueboxy vybaveny aktivními SIM kartami společnosti T-Mobile CZ a Vodafone CZ.
 
 **Ujistěte se**, že v místech, kam chcete umístit rádikontrolu je dostupný **signál** mobilní sítě. Blueboxy pracují na signálu Edge (2G) a jsou schopny spolehlivě odesílat záznamy o úderech i při slabém signálu. Stačí jedna nebo dvě čárky signálu.
 
 :::info
 Viz **[Monitoring zařízení](./device-monitoring)**, kde lze zkontrolovat úroveň nabití baterie a sílu signálu.
-:::
+:::-->
 
 ## V den závodu
 
@@ -50,16 +52,11 @@ Jeden Bluebox je schopen přijímat záznamy o ražení až z 8 jednotek SI-SRR 
 Pozor Blueboxy musí být umístěny přibližně ve **stejné výšce jako SI jednotky** ve vzdálenosti **maximálně 2 metry**, aby byla zajištěna spolehlivá detekce záznamů ražení.
 :::
 
-:::caution Pozor
-Blueboxy nejsou plně vodotěsné, takže pokud hrozí silný déšť, měly by být zakryty nepromokavým pytlem nebo jiným obalem.
-:::
-
 :::tip
-Bluebox lze nacvaknout na standardní držák jednotek SI-BSF7. Jednotky lze umístit na stejný ovládací stojan jako jednotky SI nebo na samostatný ovládací stojan vedle sebe, jak je znázorněno na obrázcích.
+Bluebox lze nacvaknout na standardní držák jednotek SI-BSF8. Jednotky lze umístit na stejný ovládací stojan jako jednotky SI nebo na samostatný ovládací stojan vedle sebe, jak je znázorněno na obrázcích.
 :::
 
-<img src="/img/bb-sprintovky.jpg" width="45%" style={{marginRight: "15px"}} />
-<img src="/img/velikonoce.jpg" width="45%" />
+<img src="/img/bluebox_in_forrest.jpg" width="100%" />
 
 ### Monitorování
 > Viz **[Monitoring zařízení](./device-monitoring)**

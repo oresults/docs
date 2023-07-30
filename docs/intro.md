@@ -8,7 +8,7 @@ slug: /
 
 This is the official user guide for **[OResults](https://oresults.eu/about)**, an online system providing real-time results of orienteering events. The aim of **OResults** is to simplify the process for the organizing team. In this user guide you can find all the information you need to start organizing orienteering events with OResults and take your events to the next level.
 
-<img src="/img/oresults_platform_docs.png" width="100%" />
+<img src="/img/oresults_platform_docs.svg" width="100%" />
 
 ## Contents
 

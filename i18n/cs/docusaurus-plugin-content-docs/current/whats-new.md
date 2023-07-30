@@ -7,6 +7,18 @@ title: "Novinky"
 
 Zde naleznete přehledný seznam novinek o **[OResults](https://oresults.eu/)**, **[Blueboxech](./blueboxes/bluebox-units.md)** a **[mobilní aplikaci](./tutorials/bluebox-mobile.md)**. Hlavně půjde o informace o nových funkcích, vylepšeních a opravených chybách. Při sledování tohoto přehledu Vám nic neuteče a veškeré novinky tak budete moci rovnou vyzkoušet.
 
+## 2023-07
+
+### OResults
+
+- Zcela nový design
+
+## 2023-05
+
+### Blueboxy
+
+- Nové Blueboxy s připojením přes NB-IoT a delší výdrží baterie
+
 ## 2023-03
 
 #### OResults

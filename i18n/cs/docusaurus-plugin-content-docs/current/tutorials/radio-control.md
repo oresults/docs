@@ -64,5 +64,5 @@ Zařízení Bluebox musí být umístěno ve **stejné výšce jako jednotka SI*
 :::
 
 :::tip
-Zařízení Bluebox lze umístit buď na stejný stojan jako jednotka SRR, nebo na samostatný stojan. Nejlepším postupem je umístit zařízení Bluebox ve směru odběhu závodníků, čímž se výrazně zvýší spolehlivost zachycení záznamu ražení, zejména v případě SIACu.
+Zařízení Bluebox lze umístit buď na stejný stojan jako jednotka SRR, nebo na samostatný stojan.
 :::

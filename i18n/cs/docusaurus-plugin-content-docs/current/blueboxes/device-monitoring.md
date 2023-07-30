@@ -34,8 +34,6 @@ Karta Devices obsahuje dvě tabulky:
 Klikněte na název zařízení Bluebox a změňte jeho název.
 :::
 
-<img src="/img/devices-monitor.png" width="100%" />
-
 ## Nastavení události
 
 Vaše zařízení můžete také monitorovat v sekci **Radio devices** v nastavení události, ke které jste je přiřadili (viz **[Vytvoření a správa události](../tutorials/setup.md)**).

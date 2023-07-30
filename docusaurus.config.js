@@ -63,7 +63,6 @@ const config = {
         logo: {
           alt: 'OResults logo',
           src: 'img/oresults-icon-blue.svg',
-          srcDark: 'img/oresults-icon-white.svg',
         },
         items: [
           {to: '/', label: 'Docs', position: 'left'},

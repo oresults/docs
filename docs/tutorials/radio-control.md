@@ -64,5 +64,5 @@ The Bluebox device must be placed at the **same height as the SI stations** at a
 :::
 
 :::tip
-The Bluebox device can be placed either on the same stand as the SRR station or on a separate stand. The best practice is to place the Bluebox device in the run-off direction of the competitors which will greatly increase the reliability of punch record capture, mainly in case of SIACs.
+The Bluebox device can be placed either on the same stand as the SRR station or on a separate stand.
 :::

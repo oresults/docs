@@ -47,6 +47,8 @@ You can easily create **QR Code with a link to your event** using the QR Code bu
 
 <img src="/img/event-main-setup.png" width="100%" />
 
+<img src="/img/event-radios-setup.png" width="100%" />
+
 ### Supported formats
 
 **Start list** and **Results** are only supported in **IOF XML 3.0** format.
@@ -70,7 +72,6 @@ Select all radio controls. The radio controls will automatically appear in their
 Finish control is selected automatically whether you have it as a radio control or not. **Finish control must have a code lower than 30.**
 :::
 
-<img src="/img/event-radios-setup.png" width="100%" />
 
 ### Assign Bluebox devices
 
@@ -83,17 +84,3 @@ You can open the table with available Bluebox devices using the switch in the Ra
 You can monitor assigned Bluebox devices and punch records traffic in the Radio devices section as shown in the picture. For more information about monitoring see **[Device monitoring](../blueboxes/device-monitoring.md)**.
 
 <img src="/img/event-devices-monitor.png" width="100%" />
-
-### Danger zone
-
-:::danger
-All actions taken in the Danger zone are irreversible.
-:::
-
-If you are struggling with some errors in the results you can always use option to delete runners (which will delete start list and results) and upload them back again.
-
-:::info
-**Don't worry.** Delete Runners or Delete Courses do **NOT delete** already **received punch records** from radio controls.
-:::
-
-<img src="/img/event-danger-zone.png" width="100%" />

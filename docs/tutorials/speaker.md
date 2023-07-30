@@ -42,5 +42,3 @@ The **last column** contains the **clearance information** (`OK`, `Disqualified`
 :::tip
 You can easily filter the classes by clicking on the class name in the row of any competitor.
 :::
-
-<img src="/img/speaker-highlights.png" width="100%" />

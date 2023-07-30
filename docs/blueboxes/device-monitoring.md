@@ -34,8 +34,6 @@ The Devices tab contains two tables:
 Click on the name of your Bluebox device to change its name.
 :::
 
-<img src="/img/devices-monitor.png" width="100%" />
-
 ## Event Settings
 
 You can also monitor your devices in **Radio devices** section in the settings of the event to which you assigned them (see **[How to manage an event](../tutorials/setup.md)**).

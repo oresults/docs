@@ -8,7 +8,7 @@ slug: /
 
 Toto je oficiální uživatelská příručka pro **[OResults](https://oresults.eu/about)**, online systém poskytující výsledky orientačních závodů v reálném čase. Cílem **OResults** je zjednodušit proces pro organizační tým. V této uživatelské příručce naleznete všechny informace, které potřebujete k tomu, abyste mohli začít organizovat orientační závody s OResults a posunout své závody či tréninky na vyšší úroveň.
 
-<img src="/img/oresults_platform_docs.png" width="100%" />
+<img src="/img/oresults_platform_docs.svg" width="100%" />
 
 ## Obsah
 

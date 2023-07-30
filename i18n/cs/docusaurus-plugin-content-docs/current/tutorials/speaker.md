@@ -41,6 +41,3 @@ V **posledním sloupci** jsou uvedeny **údaje o vyčtení** (`OK`, `Disqualifie
 :::tip
 Kategorie můžete snadno filtrovat kliknutím na název kategorie v řádku kteréhokoli soutěžícího.
 :::
-
-
-<img src="/img/speaker-highlights.png" width="100%" />

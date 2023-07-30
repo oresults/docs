@@ -47,6 +47,8 @@ Pomocí tlačítka QR Code můžete snadno vytvořit **QR kód s odkazem na vaš
 
 <img src="/img/event-main-setup.png" width="100%" />
 
+<img src="/img/event-radios-setup.png" width="100%" />
+
 ### Podporované formáty
 
 **Startovní listina** (Start list) a **Výsledky** (Results) jsou podporovány pouze ve formátu **IOF XML 3.0**.
@@ -72,7 +74,6 @@ Zaškrtnutím vyberte požadované radiokontroly. Radiokontroly se automaticky z
 Cílová kontrola je vybrána automaticky bez ohledu na to, zda je nastavena jako radiokontrola, nebo ne. **Cílová kontrola musí mít kód nižší než 30.**
 :::
 
-<img src="/img/event-radios-setup.png" width="100%" />
 
 ### Přiřazení Bluebox zařízení
 
@@ -85,19 +86,3 @@ Tabulku s dostupnými zařízeními Bluebox můžete otevřít pomocí přepína
 Přidělená zařízení Bluebox a záznamy ražení můžete sledovat v části Rádiová zařízení, jak je znázorněno na obrázku. Další informace o monitorování naleznete na adrese **[Monitorování zařízení](../blueboxes/device-monitoring.md)**.
 
 <img src="/img/event-devices-monitor.png" width="100%" />
-
-### Danger zone
-
-:::danger Pozor
-Všechny akce provedené v Danger zone jsou nevratné.
-:::
-
-
-Pokud se potýkáte s chybami ve výsledcích, můžete vždy použít možnost odstranit běžce (čímž se odstraní startovní listina a výsledky) a nahrát je znovu.
-
-:::info
-**Nebojte se.** **Funkce Odstranit běžce nebo Odstranit tratě NIKDY neodstraní** již **přijaté záznamy ražení** z radiokontrol.
-:::
-
-
-<img src="/img/event-danger-zone.png" width="100%" />
