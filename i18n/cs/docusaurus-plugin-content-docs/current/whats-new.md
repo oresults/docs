@@ -9,13 +9,13 @@ Zde naleznete přehledný seznam novinek o **[OResults](https://oresults.eu/)**,
 
 ## 2023-07
 
-### OResults
+#### OResults
 
 - Zcela nový design
 
 ## 2023-05
 
-### Blueboxy
+#### Blueboxy
 
 - Nové Blueboxy s připojením přes NB-IoT a delší výdrží baterie
 
