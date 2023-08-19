@@ -7,11 +7,19 @@ title: "What's New"
 
 Here, you can find the latest features and changes in **[OResults](https://oresults.eu/)**, **[Blueboxes](./blueboxes/bluebox-units.md)** and **[mobile app](./tutorials/bluebox-mobile.md)**, including new features, improvements, and bug fixes. Stay informed and up-to-date on the latest developments to make the most of OResults platform's capabilities.
 
+## 2023-08
+
+#### OResults
+
+- Competitors country flags
+- Filtering to exclude punches with time earlier than the previous controls.
+
 ## 2023-07
 
 #### OResults
 
 - Brand new design
+- Event country flags
 
 ## 2023-05
 
