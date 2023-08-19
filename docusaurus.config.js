@@ -62,7 +62,8 @@ const config = {
         title: 'User Guide',
         logo: {
           alt: 'OResults logo',
-          src: 'img/oresults-icon-blue.svg',
+          src: 'img/oresults-logo-text.svg',
+          style: { height: '1.3em', marginTop: '0.35em', marginRight: '0.5em' }
         },
         items: [
           {to: '/', label: 'Docs', position: 'left'},
