@@ -14,76 +14,70 @@ It works only on mobile devices with Android operating system.
 <img src="/img/si-droid-icon.png" alt="SI-droid" />
 
 - **OS**: Android (the only supported)
-- **Donwload link**: **[here](https://play.google.com/store/apps/details?id=se.joja.sidroid.event.full)**
+- **Download link**: **[here](https://play.google.com/store/apps/details?id=se.joja.sidroid.event.full)**
 
 Favorite and very popular mobile app that is used to arrange orienteering events with SPORTident units. The app is paid, but the investment is definitely worth it and it's lifetime. Just buy it if you don't already have it, you won't regret.
 
-## Automate app
+## SIDroid OResults Connector
 
-<img src="/img/automate-icon.jpg" alt="Automate" /> 
+<img src="/img/sidroid-oresults-connector-icon
+.jpg" width="150px" alt="SIDroid OResults Connector" /> 
 
 - **OS**: Android (the only supported)
-- **Donwload link**: **[here](https://play.google.com/store/search?q=automate&c=apps)**
+- **Download link**: **[here](https://play.google.com/store/apps/details?id=com.yogevm15.sidroid_oresults_connector)**
 
-Free powerful mobile app that allows you to automate almost any process in your device. After installation and the first run you need to grant the right permissions.
+Connect between OResults.eu and SIDroid easily.
+Just fill the SIDroid result service port and OResults.eu event Api Key and start uploading!
 
 ## Step-by-step setup
 ### 1. Create a new event
-- sign up for free on **[OResults.eu](https://oresults.eu/register)**
-- click on `Create +` in `My events` section and fill in the details
-- leave `Is Published` off for testing purposes and confirm `Save changes`
-- copy the `Api key` in the `Tools` section in the panel on the right
+- Sign up for free on **[OResults.eu](https://oresults.eu/register)**
+- Click on `Create +` in `My events` section and fill in the details
+- Leave `Is Published` off for testing purposes and confirm `Save changes`
+- Copy the `Api key` in the `Tools` section in the panel on the right
 
   <img src="/img/oresults-events.jpg" align="top" width="30%" style={{marginRight: "15px"}}  />
   <img src="/img/oresults-event-settings.jpg" align="top" width="30%" style={{marginRight: "15px"}}  />
   <img src="/img/oresults-event-apikey.jpg" align="top" width="30%" />
 
-### 2. Set up regular export of results
-- in `RESULTS` tabs in `SI-Droid Event` click three dots in the upper right corner and tap `Share Automatic`
-- tick `Results for Eventor (IOFv3 XML)` option
-- set the interval value, for example, 30 sec (the shortest possible)
-- select a directory for export and allow access
-<img src="/img/si-droid-05-write-permission.jpg" align="top" width="60%" />
-- press the grey button to start the automatic export (`SHARING RUNNING`)
+### 2. Set up SiDroid result service
+- In any tab in `SI-Droid Event` click on the three dots in the upper right corner and tap `Settings`
+- In the `Settings menu` scroll down and click on `Result service`
+- Tick the `Use the builtin result service` option
+- Copy the `Port` in the `Result Service port` section
 
-  <img src="/img/si-droid-01-three-dots.jpg" align="top" width="40%" style={{marginRight: "15px"}}  />
-  <img src="/img/si-droid-02-menu.jpg" align="top" width="40%" style={{marginRight: "15px"}}  />
+  <img src="/img/si-droid-01-three-dots.jpg" align="top" width="40%" style={{marginRight: "15px", marginBottom: "15px"}}  />
+  <img src="/img/si-droid-02-menu.png" align="top" width="40%" style={{marginRight: "15px", marginBottom: "15px"}}  />
 
-  <img src="/img/si-droid-03-settings.jpg" align="top" width="30%" style={{marginRight: "15px"}}  />
-  <img src="/img/si-droid-04-start.jpg" align="top" width="29%" />
+  <img src="/img/si-droid-03-result-service.png" align="top" width="30%" style={{marginRight: "15px"}}  />
+  <img src="/img/si-droid-04-tick-and-copy.png" align="top" width="29%" />
 
-### 3. Get and import Automate flow
-- download the flow (**[click here](/attachments/oresults-upload.flo)**)
-- import the flow to the `Automate` app - the three dots in the upper right corner and click `Import`
+### 4. Connect result service to OResults and start uploading
+- Open the `SIDroid OResults Connector` app
+- Paste both the `Api key` and the `Port` into their respective input fields.
+- Choose the `Upload internval` speed
+- Click the `Start uploading` button and the uploading will start!
 
-  <img src="/img/automate-flow-01-list.jpg" align="top" width="45%" style={{marginRight: "15px"}} />
-  <img src="/img/automate-flow-02-import.jpg" align="top" width="45%" />
+  <img src="/img/sidroid-oresults-connector-01-enter-api-key-and-port.jpg" align="top" width="30%" style={{marginRight: "15px"}} />
+  <img src="/img/sidroid-oresults-connector-02-upload-interval-and-events-log.jpg" align="top" width="30%" style={{marginRight: "15px"}} />
 
-### 4. Start flow and follow the instructions
-- open imported flow (click on `oresults-upload` or similar item which was added after the import) and press `START` button
-- two windows will pop up one by one - `Set event Api key` and select xml file with results
-  - paste the copied `Api key`, confirm `OK`
-  - select the exported xml file (the file must exist, start automatic export first), confirm `OK`
-
-  <img src="/img/automate-flow-03-start.jpg" align="top" width="30%" style={{marginRight: "15px"}} />
-  <img src="/img/automate-flow-04-set-apikey.jpg" align="top" width="30%" style={{marginRight: "15px"}} />
-  <img src="/img/automate-flow-05-select-file.jpg" align="top" width="30%" />
-
-:::caution
-To close the pop-up window, you must enter any value, e.g. an invalid one and select xml file.
+:::tip
+You can view the upload's log in the bottom of the app (each upload log has a detailed report)
 :::
-
+:::tip
+`SIDroid OResults Connector` app automatically generates an external id to each competitor, so there is not need to enter manually external id's to participants without a card.
+:::
 ### 5. Share event
 - use built-in QR Code generator and print the code or share in on event webpage
 
-<img src="/img/oresults-event-apikey.jpg" align="top" width="30%" />
+<img src="/img/oresults-event-apikey.jpg" align="top" width="30%" style={{marginRight: "15px", marginBottom: "15px"}}/>
 
 :::danger Important
 Don't forget to switch `Is Published` if you want to publish the event.
 :::
 
 ### 6. Check out [OResults.eu](https://oresults.eu/)
-- scann QR Code and follow how your buddies, rivals, clubmates or family are doing
+- scan QR Code and follow how your buddies, rivals, clubmates or family are doing
 
 :::tip
 You can switch between event data and evets settings using the button in the upper left corner (you have to be logged in)
@@ -111,26 +105,11 @@ Without imported courses it is not possible to select radio controls.
 Creating a start list with a mass start in an external program ([QuickEvent](https://github.com/Quick-Event/quickbox), [MeOS](https://www.melin.nu/meos/en/), [OE12](https://sportsoftware.de/orienteering/oe), ...) and then manually uploading it to OResults will allow you to view all the competitors who should start, so you can see who hasn't read-out yet.
 
 <p align="center" width="100%">
-  <img src="/img/si-droid-08-startlist-upload.jpg" align="center" width="40%" />
+  <img src="/img/si-droid-05-startlist-upload.jpg" align="center" width="40%" />
 </p>
 
 ### 3. Add radiocontrols
 Using **[Mobile App](../tutorials/bluebox-mobile.md)** you can even more improve the result service at your event with real radiocontrol.
-
-### 4. Manually added competitors
-Competitors who ran **without a card**, e.g. only with a paper card with manual punching and were **manually entered** into the SI-Droid Event will get into the OResults web page only if you insert **unique** `External id` value in competitor's properties. The value can be a number or text or a combination of both.
-
-<p align="center" width="100%">
-  <img src="/img/si-droid-06-edit-runner.jpg" align="center" width="40%" />
-</p>
-
-## Know issues
-### Expired write permission in SI-Droid Event
-- You have to reselect the directory for exporting the xml files from SI-Droid Event app in the export setting (`Location` section). Running the export is not enough! Expired permission results in the exported file not being overwritten. Export directory contains files like `results.xml`, `results(1).xml`, `results(2).xml`, ... Selecting the directory again updates the write permission.
-
-<p align="center" width="100%">
-  <img src="/img/si-droid-07-error-renaming.jpg" align="center" width="40%" />
-</p>
 
 ## Support
 In case of any issue do not hesitate to contact official OResults support at tech@oresults.eu in Czech or English.
