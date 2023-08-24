@@ -6,7 +6,7 @@ sidebar_position: 4
 Tutorial how to upload results to **[OResults](https://oresults.eu/)** service using only mobile device connected to the internet (via Wifi/hotspot or mobile data). Make the event even more attractive to participants by sharing the results online.
 
 :::caution
-It works only on mobile devices with Android operating system. 
+It works only on mobile devices with `Android` operating system. 
 :::
 
 ## SI-Droid Event app
@@ -26,8 +26,8 @@ Favorite and very popular mobile app that is used to arrange orienteering events
 - **OS**: Android (the only supported)
 - **Download link**: **[here](https://play.google.com/store/apps/details?id=com.yogevm15.sidroid_oresults_connector)**
 
-Connect between OResults.eu and SIDroid easily.
-Just fill the SIDroid result service port and OResults.eu event Api Key and start uploading!
+Connect between `OResults.eu` and `SI-Droid Event` easily.
+Just fill the SI-Droid result service `port` and OResults.eu event `Api Key` and start uploading!
 
 ## Step-by-step setup
 ### 1. Create a new event
@@ -40,7 +40,7 @@ Just fill the SIDroid result service port and OResults.eu event Api Key and star
   <img src="/img/oresults-event-settings.jpg" align="top" width="30%" style={{marginRight: "15px"}}  />
   <img src="/img/oresults-event-apikey.jpg" align="top" width="30%" />
 
-### 2. Set up SiDroid result service
+### 2. Set up SI-Droid result service
 - In any tab in `SI-Droid Event` click on the three dots in the upper right corner and tap `Settings`
 - In the `Settings menu` scroll down and click on `Result service`
 - Tick the `Use the builtin result service` option
@@ -52,7 +52,7 @@ Just fill the SIDroid result service port and OResults.eu event Api Key and star
   <img src="/img/si-droid-03-result-service.png" align="top" width="30%" style={{marginRight: "15px"}}  />
   <img src="/img/si-droid-04-tick-and-copy.png" align="top" width="29%" />
 
-### 4. Connect result service to OResults and start uploading
+### 3. Connect result service to OResults and start uploading
 - Open the `SIDroid OResults Connector` app
 - Paste both the `Api key` and the `Port` into their respective input fields.
 - Choose the `Upload internval` speed
@@ -62,12 +62,14 @@ Just fill the SIDroid result service port and OResults.eu event Api Key and star
   <img src="/img/sidroid-oresults-connector-02-upload-interval-and-events-log.jpg" align="top" width="30%" style={{marginRight: "15px"}} />
 
 :::tip
-You can view the upload's log in the bottom of the app (each upload log has a detailed report)
+You can view the upload's log in the bottom of the app (each upload log has a detailed report).
 :::
+
 :::tip
-`SIDroid OResults Connector` app automatically generates an external id to each competitor, so there is not need to enter manually external id's to participants without a card.
+`SIDroid OResults Connector` app automatically generates an `External id` to each competitor, so there is not need to enter manually external id's to participants without a card.
 :::
-### 5. Share event
+
+### 4. Share event
 - use built-in QR Code generator and print the code or share in on event webpage
 
 <img src="/img/oresults-event-apikey.jpg" align="top" width="30%" style={{marginRight: "15px", marginBottom: "15px"}}/>
@@ -76,7 +78,7 @@ You can view the upload's log in the bottom of the app (each upload log has a de
 Don't forget to switch `Is Published` if you want to publish the event.
 :::
 
-### 6. Check out [OResults.eu](https://oresults.eu/)
+### 5. Check out [OResults.eu](https://oresults.eu/)
 - scan QR Code and follow how your buddies, rivals, clubmates or family are doing
 
 :::tip
