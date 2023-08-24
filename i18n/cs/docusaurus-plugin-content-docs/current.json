@@ -24,7 +24,7 @@
     "description": "The label for category Devices in sidebar tutorialSidebar"
   },
   "sidebar.tutorialSidebar.category.Integrations.link.generated-index.description": {
-    "message": "Naučte se, jak můžete propojit OResults s vaším softwarem pro orientační běh.",
+    "message": "Některé softwary pro orientační běh jako je QuickEvent, OE12 a MeOS podporují OResults přímo integrovanými službami nebo protokoly. Naučte se, jak můžete propojit OResults s vaším softwarem pro orientační běh.",
     "description": "The generated-index page description for category Device Setup in sidebar tutorialSidebar"
   }
 }

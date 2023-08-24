@@ -3,6 +3,6 @@
   "position": 3,
   "link": {
     "type": "generated-index",
-    "description": "Learn how you can connect OResults with your orienteering software."
+    "description": "Some orienteering software such as QuickEvent, OE12 and MeOS support OResults directly with integrated services or protocols. Learn how you can connect OResults with your orienteering software."
   }
 }
