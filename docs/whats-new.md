@@ -12,7 +12,11 @@ Here, you can find the latest features and changes in **[OResults](https://oresu
 #### OResults
 
 - Competitors country flags
-- Filtering to exclude punches with time earlier than the previous controls.
+- Filtering to exclude punches with time earlier than the previous controls
+- Support for sub-second timing for finish
+
+#### Bluebox
+- Support for sub-second timing
 
 ## 2023-07
 
@@ -23,7 +27,7 @@ Here, you can find the latest features and changes in **[OResults](https://oresu
 
 ## 2023-05
 
-#### Blueboxes
+#### Bluebox
 
 - New Blueboxes with NB-IoT connection and longer battery life
 

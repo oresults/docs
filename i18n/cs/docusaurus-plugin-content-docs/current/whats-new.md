@@ -12,7 +12,11 @@ Zde naleznete přehledný seznam novinek o **[OResults](https://oresults.eu/)**,
 #### OResults
 
 - Vlajky států závodníků
-- Filtrace pro odstranění ražení s časem dříve než u předchozích kontrol.
+- Filtrace pro odstranění ražení s časem dříve než u předchozích kontrol
+- Podpora měření času na desetiny (sub-second)
+
+#### Bluebox
+- Podpora měření času na desetiny (sub-second)
 
 ## 2023-07
 
@@ -23,7 +27,7 @@ Zde naleznete přehledný seznam novinek o **[OResults](https://oresults.eu/)**,
 
 ## 2023-05
 
-#### Blueboxy
+#### Bluebox
 
 - Nové Blueboxy s připojením přes NB-IoT a delší výdrží baterie
 
