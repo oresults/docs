@@ -1,5 +1,5 @@
 <h1 align="center">
-  <a href="https://oresults.eu"><img src="https://docs.oresults.eu/img/oresults-logo-text.svg" width=400 alt="OResults"></a>
+  <a href="https://oresults.eu"><img src="/img/oresults-logo-text.svg" width=400 alt="OResults"></a>
 </h1>
 
 # About
