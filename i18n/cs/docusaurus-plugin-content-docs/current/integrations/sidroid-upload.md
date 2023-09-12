@@ -18,14 +18,15 @@ Funguje pouze na mobilních zařízeních s operačním systémem `Android`.
 
 Oblíbená a velmi hojně využívaná mobilní aplikace pro zjednodušení práce při pořádání tréninku či dokonce závodu se SPORTident krabičkami. Jedná se o placenou aplikaci. Jestli appku ještě nemáš, tak neváhej a pořiď si ji. Nebudeš litovat.
 
-## Appka Automate
+## SIDroid OResults Connector
 
-<img src="/img/automate-icon.jpg" alt="Automate" />
+<img src="/img/sidroid-oresults-connector-icon
+.jpg" width="150px" alt="SIDroid OResults Connector" /> 
 
 - **OS**: Android (jediný podporovaný)
-- **Odkaz ke stažení**: **[zde](https://play.google.com/store/search?q=automate&c=apps)**
+- **Download link**: **[zde](https://play.google.com/store/apps/details?id=com.yogevm15.sidroid_oresults_connector)**
 
-Zdarma dostupná aplikace, která umožňuje automatizovat téměř všechny procesy v mobilních zařízeních. Po instalaci je při prvním spuštění nutné povolit všechna práva pro správné fungování.
+Umožňuje jednoduše propojit `SI-Droid Event` s `OResults.eu`. Stačí jen vyplnit `port` výsledkové služby SI-Droid aplikace a `Api key` z webu OResults získaný v nastavení závodu a spustit nahrávání v požadovaném intervalu.
 
 ## Nastavení krok za krokem
 ### 1. Vytvoř nový závod
@@ -38,40 +39,36 @@ Zdarma dostupná aplikace, která umožňuje automatizovat téměř všechny pro
   <img src="/img/oresults-event-settings.jpg" align="top" width="30%" style={{marginRight: "15px"}}  />
   <img src="/img/oresults-event-apikey.jpg" align="top" width="30%" />
 
-### 2. Nastav pravidelný export výsledků
-- v záložce `RESULTS` v appce `SI-Droid Event` klikni na tři tečky v pravém horním rohu a zvol `Share Automatic`
-- zaklikni formát `Results for Eventor (IOFv3 XML)`
-- nastav interval exportu, např. 30 sec (nejkratší možný)
-- vyber adresář, do kterého se bude exportovat
-- kliknutím na šedivé tlačítko automatický export zapneš (`SHARING RUNNING`)
+### 2. Nastav výsledkovou službu v SI-Droidu
+- V libovolné záložce `SI-Droid Event` klikni na tři tečky v pravém horním rohu a vyber `Nastavení`
+- V `Nastavení` rozlikni detail `Výsledkové služby`
+- Zaškrtni `Zapnout výsledkovou službu` pro spuštění služby
+- Zkopíruj si číslo `portu` v sekci `Port výsledkové služby`
 
-  <img src="/img/si-droid-01-three-dots.jpg" align="top" width="20%" style={{marginRight: "15px"}}  />
-  <img src="/img/si-droid-02-menu.jpg" align="top" width="20%" style={{marginRight: "15px"}}  />
-  <img src="/img/si-droid-03-settings.jpg" align="top" width="20%" style={{marginRight: "15px"}}  />
-  <img src="/img/si-droid-04-start.jpg" align="top" width="20%" />
+  <img src="/img/si-droid-01-three-dots.jpg" align="top" width="40%" style={{marginRight: "15px", marginBottom: "15px"}}  />
+  <img src="/img/si-droid-02-menu.png" align="top" width="40%" style={{marginRight: "15px", marginBottom: "15px"}}  />
 
-### 3. Stáhni a naimportuj Automate flow
-- stáhni flow (**[klikni zde](/attachments/oresults-upload.flo)**)
-- načti flow do `Automate` appky - tři tečky v pravém horním menu a vyber `Import`
+  <img src="/img/si-droid-03-result-service.png" align="top" width="30%" style={{marginRight: "15px"}}  />
+  <img src="/img/si-droid-04-tick-and-copy.png" align="top" width="29%" />
 
-  <img src="/img/automate-flow-01-list.jpg" align="top" width="45%" style={{marginRight: "15px"}} />
-  <img src="/img/automate-flow-02-import.jpg" align="top" width="45%" />
+### 3. Propoj výsledkovou službu s OResults a spusť nahrávání
+- Spusť aplikaci `SIDroid OResults Connector`
+- Vyplň `Api key` a číslo `port` výsledkové služby
+- Nastav posuvníkem `Upload internval` interval nahrávání v sekundách
+- Tlačítkem `Start uploading` zapni nahrávání
 
-### 4. Nastartuj flow a řiď se instrukcemi
-- otevři naimportované flow (klikni na `oresults-upload` nebo podobnou položku, která se importem přidala) a zmáčkni tlačítko `START`
-- postupně se objeví dvě okna - `Set event Api key` a výběr xml souboru s výsledky
-  - vlož zkopírovaný `Api key`, potvrď `OK`
-  - vyber xml soubor s výsledky (soubor musí existovat, takže nejdříve spusť automatický export), volbu potvrď `OK`
+  <img src="/img/sidroid-oresults-connector-01-enter-api-key-and-port.jpg" align="top" width="30%" style={{marginRight: "15px"}} />
+  <img src="/img/sidroid-oresults-connector-02-upload-interval-and-events-log.jpg" align="top" width="30%" style={{marginRight: "15px"}} />
 
-  <img src="/img/automate-flow-03-start.jpg" align="top" width="30%" style={{marginRight: "15px"}} />
-  <img src="/img/automate-flow-04-set-apikey.jpg" align="top" width="30%" style={{marginRight: "15px"}} />
-  <img src="/img/automate-flow-05-select-file.jpg" align="top" width="30%" />
-
-:::caution Upozornění
-Zavření vyskakovacích oken je možné vložením jakékoliv hodnoty (klidně fiktivní) a výběrem xml souboru
+:::tip
+Okno aplikace má ve spodní části log nahrávání (každé nahrání má svůj detailní záznam).
 :::
 
-### 5. Sdílej závod
+:::tip
+Aplikace `SIDroid OResults Connector` automaticky generuje unikátní `reg. číslo` pro každého závodníka, takže ho již není nutné ručně přidávat pro závodníky běžící bez čipu.
+:::
+
+### 4. Sdílej závod
 - využij přímé možnosti tisku QR kódu s odkazem na Tvůj závod nebo kód přidej na web závodu
 
 <img src="/img/oresults-event-apikey.jpg" align="top" width="30%" />
@@ -80,7 +77,7 @@ Zavření vyskakovacích oken je možné vložením jakékoliv hodnoty (klidně 
 Nezapomeň přepnout `Is Published` až budeš chtít závod zveřejnit.
 :::
 
-### 6. Mrkni na [OResults.eu](https://oresults.eu/)
+### 5. Mrkni na [OResults.eu](https://oresults.eu/)
 - naskenuj QR kód a sleduj kámoše, kámošky, soupeře, soupeřky, klubové kolegy a kolegyně nebo rodinu jak se jim dařilo
 
 :::tip
@@ -114,21 +111,6 @@ Vytvoření startovky "na krabičku" v externím programu ([QuickEvent](https://
 
 ### 3. Přidání radikontrol
 S využitím [Mobilní aplikace](../tutorials/bluebox-mobile.md) je možné poskytovaná online data ještě vylepšit o skutečnou (jednu a víc) radiokontrolu.
-
-### 4. Ručně vložení závodníci
-Závodníci, kteří běželi **bez čipu** , např. pouze s průkazkou a razili kleštičkami, a byli do appky SI Droid Event **vloženi ručně**, se ve výsledcích na OResults zobrazí jen pokud budou mít v políčku `External id` nastavenou **unikátní** hodnotu - může být číslo, text nebo kombinace.
-
-<p align="center" width="100%">
-  <img src="/img/si-droid-06-edit-runner.jpg" align="center" width="40%" />
-</p>
-
-## Známé chyby
-### Expirované právo zápisu pro SI-Droid Event
-- Při novém spuštění exportu dat je potřeba v appce SI Droid Event znovu vybrat adresář, do kterého se mají výsledky exportovat (část `Location`). Pouze spuštění exportu nestačí! Expirované právo způsobuje, že se soubory nepřepisují. Obsah adresáře s exprtovanými výsledky tak vypadá následovně: `results.xml`, `results(1).xml`, `results(2).xml`, ... Opakovaný výběr adresáře právo pro zápis obnoví.
-
-<p align="center" width="100%">
-  <img src="/img/si-droid-07-error-renaming.jpg" align="center" width="40%" />
-</p>
 
 ## Podpora
 V případě potíží s fungováním neváhej a napiš na oficiální podporu OResults na email tech@oresults.eu.
