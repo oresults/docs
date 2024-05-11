@@ -2,29 +2,21 @@
 sidebar_position: 1
 ---
 
-# Create and manage an event
+# How to manage events
 
 Let's take a look on how to easily create and manage events in OResults.
 
-## Create an account for organizers
-
-If you don't have one yet, create a free OResults account for organizers (see **[registration](https://oresults.eu/register)**). Your account will allow you to log in to the OResults admin section.
-
-The rest of the manual is devoted to the admin section, which can only be accessed by a logged-in OResults user.
-
-## My events
-
-You can see all your events in My events tab from where you can create a new event and access event settings.
-
-:::tip
-Result tables of an unpublished event can be accessed by clicking on the event name in My events section.
+:::note
+If you don't have one yet, create a free OResults account for organizers (see **[registration](https://oresults.eu/register)**). Your account will allow you to log in to the OResults admin section where you find My events section.
 :::
 
 ## Event settings
 
-### General settings
+You find all your events in My events section where you can also create new ones and access event settings.
 
-This section is used to set essential information such as:
+### Event info
+
+Here you set basic information about your event such as:
 
 - Event name
 - Organizer
@@ -33,54 +25,52 @@ This section is used to set essential information such as:
 - Place
 - GPS coordinates
 
-You **must set** whether the event **is** a **relay** event **or not**.
+### Visibility
 
-The last setting is to set the event as **published** so it will appear on the OResults event page.
+In this section you set the event as **private** or **public**. The **public** events are visible on the OResults event page.
 
-You must upload **Start list**, **Courses** and **Results** files in supported formats (more about supported formats **[here](#supported-formats)**) to properly display event results.
+### Tools
 
-In this section you can also find your **event API key** which is used to automatically upload the start list and results. For more information about automatic upload, see **[OResults Connector](../integrations/connector.md)**.
+**API key** allows you to connect your orienteering software to OResults and automatically upload startlists, results and more. See **[Integrations](../category/integrations/)** for more info about how to connect your orienteering software with OResults.
 
-:::tip
-You can easily create **QR Code with a link to your event** using the QR Code button.
-:::
+**Event link** provides you with a link to your event in the form of text and a QR code, which you can then embed in your promotional materials.
 
 <img src="/img/event-main-setup.png" width="100%" />
 
-<img src="/img/event-radios-setup.png" width="100%" />
 
-### Supported formats
+### Runners & Courses
 
-**Start list** and **Results** are only supported in **IOF XML 3.0** format.
-
-:::caution
-**Start list** and **Results** must contain card numbers in `<ControlCard>` tags. 
-* Runners without a card number are ignored.
-:::
-
-**Courses** are supproted in **OCAD V8 format** text file format and **IOF XML 3.0**.
+Here you can upload startlists, courses and results in supported formats.
 
 :::tip
-**Courses** are preferred in **OCAD V8 format** which is much smaller and more suitable for uploading than IOF XML 3.0.
+The current information on supported formats is displayed by hovering over the individual labels.
 :::
-
-### Setup radio controls
-
-Select all radio controls. The radio controls will automatically appear in their respective classes in the results tables.
 
 :::caution
-Finish control is selected automatically whether you have it as a radio control or not. **Finish control must have a code lower than 30.**
+**Start list** and **Results** must contain card numbers in `<ControlCard>` tags. Runners without a card number are ignored.
 :::
 
+The list of controls will be displayed after uploading the courses. Check all the controls wich you want have as online controls.
 
-### Assign Bluebox devices
+Finish control is selected automatically whether you have it as a radio control or not. **Finish control must have a code lower than 30.**
 
-You can open the table with available Bluebox devices using the switch in the Radio devices section.
+<img src="/img/event-runners-courses.png" width="100%" />
 
-<img src="/img/event-assign-devices.png" width="100%" />
 
-### Monitor Bluebox devices
+### Blueboxes
 
-You can monitor assigned Bluebox devices and punch records traffic in the Radio devices section as shown in the picture. For more information about monitoring see **[Device monitoring](../blueboxes/device-monitoring.md)**.
+Here you will find Blueboxes assigned to the event and can assign others.
 
-<img src="/img/event-devices-monitor.png" width="100%" />
+You can also monitor the status of your Blueboxes during your event, including signal strength, battery charge and the last recorded punch on the device.
+
+**Bluebox status can be:**
+
+- **`OFFLINE`**: device is not connected to the Internet
+- **`ONLINE`**: device is connected to the Internet and ready to send any received punch records
+- **`OVERDUE`**: the device status is delayed and if it is not received within 30 seconds, the device will be marked as offline. Status delay can be caused by an increased punch record traffic at a radio control with a low signal because punch records take precedence over statuses.
+
+<img src="/img/event-blueboxes.png" width="100%" />
+
+### Troubleshooting & Danger zone
+
+These sections contain a variety of information and tools for dealing with some of the issues that may arise during your event. All the information you need is described on the Event Settings page.

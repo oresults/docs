@@ -15,7 +15,6 @@ Toto je oficiální uživatelská příručka pro **[OResults](https://oresults.
 - 🎓 **[Tutoriály](./category/tutorials)**: Naučte se jak lze jednoduše organizovat závody s OResults a spoustu dalších tipů pro organizaci.
 - 💻 **[Integrace](./category/integrations)**: Objevte jak můžete OResults napojit na vámi používaný software.
 - 📡 **[Blueboxy](./category/blueboxes)**: Zjistěte jak používat naše Blueboxy.
-- 💡 **[Novinky](./whats-new.md)**: Podívejte se jaké nové funkce jsou k dispozici v nejnovější verzi platformy OResults.
 
 ## Potřebujete pomoc?
 

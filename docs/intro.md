@@ -15,7 +15,6 @@ This is the official user guide for **[OResults](https://oresults.eu/about)**, a
 - 🎓 **[Tutorials](./category/tutorials)**: Learn how you can easily organize events with OResults and lots of other tips for organisation.
 - 💻 **[Integrations](./category/integrations)**: Discover how you can connect OResults with your orienteering software.
 - 📡 **[Blueboxes](./category/blueboxes)**: Find out more about our Blueboxes.
-- 💡 **[What's New](./whats-new.md)**: Check out what new features are available in the latest release of OResults platform.
 
 ## Need help?
 

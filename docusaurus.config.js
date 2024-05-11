@@ -67,7 +67,6 @@ const config = {
         },
         items: [
           {to: '/', label: 'Docs', position: 'left'},
-          {to: '/whats-new', label: 'Changelog', position: 'left'},
           {
             type: 'localeDropdown',
             position: 'right'
