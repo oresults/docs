@@ -7,8 +7,8 @@
     "message": "Blueboxy",
     "description": "The label for category Devices in sidebar tutorialSidebar"
   },
-  "sidebar.tutorialSidebar.category.Devices.link.generated-index.description": {
-    "message": "Vše, co potřebujete vědět o používání našich Blueboxů.",
+  "sidebar.tutorialSidebar.category.Blueboxes.link.generated-index.description": {
+    "message": "Vše, co potřebujete vědět o používání a správě Blueboxů.",
     "description": "The generated-index page description for category Device Setup in sidebar tutorialSidebar"
   },
   "sidebar.tutorialSidebar.category.Tutorials": {
