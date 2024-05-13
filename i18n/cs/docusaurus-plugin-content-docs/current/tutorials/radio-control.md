@@ -53,16 +53,10 @@ Ostatní parametry mohou být nastaveny volně podle potřeb závodu.
 
 ## V den závodu
 
-### Umístění radiokontroly
+Zapněte Bluebox a jednoduše jej nacvakněte na stojan společně s SI kontrolou nacvaknutou na vrch Blueboxu. Pak už jen zkontrolujte přiřazení Blueboxu k události (viz **[Jak spravovat události](../tutorials/setup.md)**).
 
-SRR jednotky fungují stejně jako standardní SI jednotky a lze je umístit do stojanů jak jste zvyklí.
+<img src="/img/bluebox_in_forrest.jpg" width="100%" />
 
-**Jedno zařízení Bluebox** je schopno přijímat záznamy ražení **až z 8 jednotek SRR nebo SIAC** současně. Pokud tedy máte zdvojené kontroly (dvě jednotky SRR na jedné kontrole), stále potřebujete pouze jedno zařízení Bluebox pro obsloužení celé kontroly.
-
-:::danger Pozor
-Zařízení Bluebox musí být umístěno ve **stejné výšce jako jednotka SI** ve **vzdálenosti maximálně 2 metry**, aby byla zajištěna spolehlivá detekce záznamů ražení.
-:::
-
-:::tip
-Zařízení Bluebox lze umístit buď na stejný stojan jako jednotka SRR, nebo na samostatný stojan.
+:::caution Pozor
+Pokud se rozhodnete neumístit zařízení Bluebox do stejného stojanu jako kontrolu, ujistěte se, že je Bluebox umístěno přibližně ve stejné výšce jako kontrola ve vzdálenosti **maximálně 2 metry**, aby byla zajištěna spolehlivá detekce záznamů ražení.
 :::

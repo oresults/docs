@@ -53,16 +53,10 @@ Other parameters can be set freely according to the needs of the event.
 
 ## On the day of the event
 
-### Radio control deployment
+Turn on the Bluebox and simply snap it onto the stand with the SI station already snapped onto the top of the Bluebox. Then just check the Bluebox assignment for your event (see **[How to manage events](../tutorials/setup.md)**)
 
-The SI SRR stations work the same as standard SI stations and can be placed on racks as you are used to.
+<img src="/img/bluebox_in_forrest.jpg" width="100%" />
 
-**One Bluebox device** is capable of receiving punch records from **up to 8 SRR stations or SIACs** at the same time. So if you have doubled control (two SRR station at one control), you still only need one Bluebox device for the whole control.
-
-:::danger
-The Bluebox device must be placed at the **same height as the SI stations** at a **maximum distance of 2 metres** to ensure reliable detection of punch records.
-:::
-
-:::tip
-The Bluebox device can be placed either on the same stand as the SRR station or on a separate stand.
+:::caution
+If you choose not to place the Bluebox on the same rack as the control, make sure the Bluebox is placed at approximately the same height as the SI** station at a **maximum distance of 2 meters** to ensure reliable detection of punch records.
 :::
