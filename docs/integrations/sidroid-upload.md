@@ -111,7 +111,7 @@ Creating a start list with a mass start in an external program ([QuickEvent](htt
 </p>
 
 ### 3. Add radiocontrols
-Using **[Mobile App](../tutorials/bluebox-mobile.md)** you can even more improve the result service at your event with real radiocontrol.
+Using **[Mobile App](../byo/bluebox-mobile)** you can even more improve the result service at your event with real radiocontrol.
 
 ## Support
 In case of any issue do not hesitate to contact official OResults support at tech@oresults.eu in Czech or English.

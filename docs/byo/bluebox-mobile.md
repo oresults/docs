@@ -1,8 +1,8 @@
 ---
-sidebar_position: 3
+sidebar_position: 1
 ---
 
-# How to use Bluebox Mobile app
+# Bluebox Mobile app
 
 Read these instructions before using Bluebox Mobile app.
 
@@ -67,4 +67,4 @@ Connected USB dongle must be placed at approximately **the same height as the SI
 
 ### Monitoring
 
->See **[Device monitoring](../blueboxes/device-monitoring)**.
+>See **[Devices](../blueboxes/devices)**.

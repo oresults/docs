@@ -110,7 +110,7 @@ Vytvoření startovky "na krabičku" v externím programu ([QuickEvent](https://
 </p>
 
 ### 3. Přidání radikontrol
-S využitím [Mobilní aplikace](../tutorials/bluebox-mobile.md) je možné poskytovaná online data ještě vylepšit o skutečnou (jednu a víc) radiokontrolu.
+S využitím [Mobilní aplikace](../byo/bluebox-mobile) je možné poskytovaná online data ještě vylepšit o skutečnou (jednu a víc) radiokontrolu.
 
 ## Podpora
 V případě potíží s fungováním neváhej a napiš na oficiální podporu OResults na email tech@oresults.eu.

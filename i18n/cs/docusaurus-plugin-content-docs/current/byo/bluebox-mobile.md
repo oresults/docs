@@ -1,8 +1,8 @@
 ---
-sidebar_position: 3
+sidebar_position: 1
 ---
 
-# Jak používat aplikaci Bluebox Mobile
+# Aplikace Bluebox Mobile
 
 Před použitím Bluebox Mobile aplikace si přečtěte tyto pokyny.
 
@@ -66,4 +66,4 @@ Připojený USB dongle musí být umístěn přibližně ve **stejné výšce ja
 :::
 
 ### Monitorování
-> Viz **[Monitoring zařízení](../blueboxes/device-monitoring)**
+> Viz **[Zařízení](../blueboxes/devices)**
