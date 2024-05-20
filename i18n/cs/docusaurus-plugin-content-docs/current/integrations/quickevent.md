@@ -17,6 +17,4 @@ Nastavení služby se nachází na kartě Services.
 Pokud máte více událostí v jeden den nebo během víkendu, nezapomeňte pro každou událost **aktualizovat API key v QuickEventu**.
 :::
 
-Translated with DeepL.com (free version)
-
 <img src="/img/quickevent-service.jpeg" width="75%" />
