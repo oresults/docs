@@ -27,11 +27,11 @@
     "message": "OResults má integrované servisy v QuickEventu a OE12 a jsou plně integrované s MeOSem prostřednictvím MeOS protokolu. Android uživatelé mohou k automatickému odesílání výsledků používat aplikaci SI-Droid OResults Connector, nebo na počítači mohou využívat aplikaci OResults Connector. Zjistěte, jak můžete bez problémů propojit OResults se svým orientačním softwarem.",
     "description": "The generated-index page description for category Device Setup in sidebar tutorialSidebar"
   },
-  "sidebar.tutorialSidebar.category.BYO online controls": {
-    "message": "Bring-your-own online kontroly",
+  "sidebar.tutorialSidebar.category.Bring Your Own online controls": {
+    "message": "Použij vlastní online kontroly",
     "description": "The label for category Devices in sidebar tutorialSidebar"
   },
-  "sidebar.tutorialSidebar.category.BYO online controls.link.generated-index.description": {
+  "sidebar.tutorialSidebar.category.Bring Your Own online controls.link.generated-index.description": {
     "message": "Pokud nepotřebujete spolehlivost našich Blueboxů, zde najdete vše, co potřebujete vědět o tom, jak zrpovoznit vaše vlastní online kontroly (BYO = bring-your-own).",
     "description": "The generated-index page description for category Device Setup in sidebar tutorialSidebar"
   }

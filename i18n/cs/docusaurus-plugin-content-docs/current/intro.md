@@ -15,7 +15,7 @@ Toto je oficiální uživatelská příručka **[OResults](https://oresults.eu/a
 - 🎓 **[Tutoriály](./category/tutorials)**: Naučte se jak lze jednoduše organizovat závody s OResults a spoustu dalších tipů pro organizaci.
 - 💻 **[Integrace](./category/integrations)**: Objevte jak můžete OResults napojit na vámi používaný software.
 - 📡 **[Blueboxy](./category/blueboxes)**: Zjistěte jak používat naše Blueboxy.
-- 🛠️ **[BYO online kontroly](./category/byo-online-controls)**: Vše, co potřebujete vědět o nastavení vlastních BYO (bring-your-own) online kontrol.
+- 🛠️ **[Použij vlastní online kontroly](./category/bring-your-own-online-controls)**: Vše, co potřebujete vědět o použití vlastních online kontrol.
 
 ## Potřebujete pomoc?
 

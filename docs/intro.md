@@ -15,7 +15,7 @@ This is the official **[OResults](https://oresults.eu/about)** user guide, an on
 - 🎓 **[Tutorials](./category/tutorials)**: Learn how you can easily organize events with OResults and lots of other tips for organisation.
 - 💻 **[Integrations](./category/integrations)**: Discover how you can connect OResults with your orienteering software.
 - 📡 **[Blueboxes](./category/blueboxes)**: Find out more about our Blueboxes.
-- 🛠️ **[BYO online controls](./category/byo-online-controls)**: Everything you need to know about setting up BYO (bring-your-own) online controls.
+- 🛠️ **[Bring Your Own online controls](./category/bring-your-own-online-controls)**: Everything you need to know about setting up BYO (bring-your-own) online controls.
 
 ## Need help?
 
