@@ -24,7 +24,7 @@
     "description": "The label for category Devices in sidebar tutorialSidebar"
   },
   "sidebar.tutorialSidebar.category.Integrations.link.generated-index.description": {
-    "message": "Některé softwary pro orientační běh jako je QuickEvent, OE12 a MeOS podporují OResults přímo integrovanými službami nebo protokoly. Naučte se, jak můžete propojit OResults s vaším softwarem pro orientační běh.",
+    "message": "OResults má integrované servisy v QuickEventu a OE12 a jsou plně integrované s MeOSem prostřednictvím MeOS protokolu. Android uživatelé mohou k automatickému odesílání výsledků používat aplikaci SI-Droid OResults Connector, nebo na počítači mohou využívat aplikaci OResults Connector. Zjistěte, jak můžete bez problémů propojit OResults se svým orientačním softwarem.",
     "description": "The generated-index page description for category Device Setup in sidebar tutorialSidebar"
   }
 }

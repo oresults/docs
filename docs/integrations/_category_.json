@@ -3,6 +3,6 @@
   "position": 3,
   "link": {
     "type": "generated-index",
-    "description": "Some orienteering software such as QuickEvent, OE12 and MeOS support OResults directly with integrated services or protocols. Learn how you can connect OResults with your orienteering software."
+    "description": "OResults have dedicated services in QuickEvent and OE12 and is fully integrated with MeOS via the MeOS protocol. Android users can use the SI-Droid OResults Connector to automatically upload results, while desktop users can utilize the OResults Connector app. Discover how you can seamlessly connect OResults with your orienteering software."
   }
 }
