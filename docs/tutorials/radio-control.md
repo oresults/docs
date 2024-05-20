@@ -40,7 +40,7 @@ The SI SRR stations must be set up as shown in the following images.
 
 Other parameters can be set freely according to the needs of the event.
 
-<img src="/img/Untitled.png" width="100%" />
+<img src="/img/si-config-1.png" width="100%" />
 
 ### Contact mode
 
@@ -48,7 +48,7 @@ Other parameters can be set freely according to the needs of the event.
 
 Other parameters can be set freely according to the needs of the event.
 
-<img src="/img/Untitled%201.png" width="100%" />
+<img src="/img/si-config-2.png" width="100%" />
 
 
 ## On the day of the event

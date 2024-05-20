@@ -40,7 +40,7 @@ SRR jednotky musí být nastaveny tak, jak je uvedeno na následujících obráz
 
 Ostatní parametry mohou být nastaveny volně podle potřeb závodu.
 
-<img src="/img/Untitled.png" width="100%" />
+<img src="/img/si-config-1.png" width="100%" />
 
 ### Kontaktní mód
 
@@ -48,7 +48,7 @@ Ostatní parametry mohou být nastaveny volně podle potřeb závodu.
 
 Ostatní parametry mohou být nastaveny volně podle potřeb závodu.
 
-<img src="/img/Untitled%201.png" width="100%" />
+<img src="/img/si-config-2.png" width="100%" />
 
 
 ## V den závodu
