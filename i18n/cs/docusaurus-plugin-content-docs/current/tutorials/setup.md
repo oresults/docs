@@ -41,19 +41,23 @@ V této části nastavíte událost jako **soukromou (private)** nebo **veřejno
 
 Zde můžete nahrát startovní listiny, kurzy a výsledky v podporovaných formátech.
 
-:::tip
-Aktuální informace o podporovaných formátech se zobrazí po najetí na jednotlivé štítky.
-:::
 
 :::caution Pozor
 **Startovní listina** a **Výsledky** musí obsahovat čísla čipů ve tagu `<ControlCard>`. Závodnící bez čísla čipu jsou ignorováni.
 :::
 
+:::tip
+- SI krabičky s kódy **1-28** jsou automaticky zařazeny jako **cílová kontrola.**
+- SI krabičky s kódem **29** je zařazena jako **startovací krabička** (v případě startovací krabičky).
+:::
+
 Seznam kontrol se zobrazí po nahrání tratí. Zaškrtněte všechny kontroly, které chcete mít jako online kontroly.
 
-Cílová kontrola je vybrána automaticky bez ohledu na to, zda je nastavena jako radiokontrola, nebo ne. **Cílová kontrola musí mít kód nižší než 30.**
-
 <img src="/img/event-runners-courses.png" width="100%" />
+
+:::tip
+Aktuální informace o podporovaných formátech se zobrazí po najetí na jednotlivé štítky.
+:::
 
 ### Blueboxes
 

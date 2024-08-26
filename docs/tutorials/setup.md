@@ -42,20 +42,23 @@ In this section you set the event as **private** or **public**. The **public** e
 
 Here you can upload startlists, courses and results in supported formats.
 
-:::tip
-The current information on supported formats is displayed by hovering over the individual labels.
-:::
 
 :::caution
 **Start list** and **Results** must contain card numbers in `<ControlCard>` tags. Runners without a card number are ignored.
 :::
 
-The list of controls will be displayed after uploading the courses. Check all the controls wich you want have as online controls.
+:::tip
+- SI station with codes **1-28** are automatically selected as **finish control.**
+- SI station with code **29** is selected as a **start control** (in case there is punch start).
+:::
 
-Finish control is selected automatically whether you have it as a radio control or not. **Finish control must have a code lower than 30.**
+The list of controls will be displayed after uploading the courses. Check all the controls wich you want have as online controls.
 
 <img src="/img/event-runners-courses.png" width="100%" />
 
+:::tip
+The current information on supported formats is displayed by hovering over the individual labels.
+:::
 
 ### Blueboxes
 
