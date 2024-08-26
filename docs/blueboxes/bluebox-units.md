@@ -29,5 +29,5 @@ Turn on the Bluebox and simply snap it onto the stand with the SI station alread
 <img src="/img/bluebox_in_forrest.jpg" width="100%" />
 
 :::caution
-If you choose not to place the Bluebox on the same rack as the control, make sure the Bluebox is placed at approximately the same height as the SI** station at a **maximum distance of 2 meters** to ensure reliable detection of punch records.
+If you choose not to place the Bluebox on the same rack as the control, make sure the Bluebox is placed at approximately the same height as the SI station at a **maximum distance of 2 meters** to ensure reliable detection of punch records.
 :::
