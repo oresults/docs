@@ -10,6 +10,13 @@ This is the official **[OResults](https://oresults.eu/about)** user guide, an on
 
 <img src="/img/oresults_platform_docs.svg" width="100%" />
 
+## 🚀 Quick Start for Organizers
+
+**New to OResults?** Start here for a smooth event setup:
+
+- 📋 **[Organizers Cheatsheet](./tutorials/organizers-cheatsheet)**: Complete step-by-step checklist for your event
+- 📦 **[How to Get Blueboxes](./tutorials/how-to-get-blueboxes)**: Everything about getting online controls for your event
+
 ## Contents
 
 - 🎓 **[Tutorials](./category/tutorials)**: Learn how you can easily organize events with OResults and lots of other tips for organisation.
@@ -20,8 +27,5 @@ This is the official **[OResults](https://oresults.eu/about)** user guide, an on
 ## Need help?
 
 If you have any questions or need assistance, feel free **[to reach out to](https://oresults.eu/contact)** us and we'll be more than happy to help you.
-
-## Get started now! 🚀
-Ready to start using OResults? Check out the **[How to manage events](./tutorials/setup.md)** and start organizing your first event!
 
 And don't forget to follow us on **[Instagram](https://www.instagram.com/oresults.eu/)** for the latest updates and news.

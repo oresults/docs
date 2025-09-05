@@ -1,5 +1,5 @@
 ---
-sidebar_position: 1
+sidebar_position: 3
 ---
 
 # How to manage events
@@ -37,11 +37,9 @@ In this section you set the event as **private** or **public**. The **public** e
 
 <img src="/img/event-main-setup.png" width="100%" />
 
-
 ### Runners & Courses
 
 Here you can upload startlists, courses and results in supported formats.
-
 
 :::caution
 **Start list** and **Results** must contain card numbers in `<ControlCard>` tags. Runners without a card number are ignored.

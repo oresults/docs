@@ -1,5 +1,5 @@
 ---
-sidebar_position: 2
+sidebar_position: 4
 ---
 
 # How to setup a radio control
@@ -15,7 +15,6 @@ For each radio control you need:
 - One **[Bluebox](../blueboxes/bluebox-units)** or one Android device with **[Bluebox Mobile app](../byo/bluebox-mobile)**
 - One or more SI stations equipped with a SRR transmitter (**BSF8-SRR** or newer)
 
-
 :::info
 Some clubs and organizers own SRR stations and USB dongles for Bluebox Mobile devices. If you don't have your own, it is possible to rent them (see **[information for organizers](https://oresults.eu/organize)**).
 :::
@@ -28,7 +27,7 @@ In case of an event where **all competitiors have SIACs you can only use classic
 
 ### Setup the SI stations
 
-The SPORTident stations are set up using the **[SPORTident Config+](https://www.sportident.com/products.html#software)** software. 
+The SPORTident stations are set up using the **[SPORTident Config+](https://www.sportident.com/products.html#software)** software.
 
 The SI SRR stations must be set up as shown in the following images.
 
@@ -50,7 +49,6 @@ Other parameters can be set freely according to the needs of the event.
 
 <img src="/img/si-config-2.png" width="100%" />
 
-
 ## On the day of the event
 
 Turn on the Bluebox and simply snap it onto the stand with the SI station already snapped onto the top of the Bluebox. Then just check the Bluebox assignment for your event (see **[How to manage events](../tutorials/setup.md)**)
@@ -58,5 +56,5 @@ Turn on the Bluebox and simply snap it onto the stand with the SI station alread
 <img src="/img/bluebox_in_forrest.jpg" width="100%" />
 
 :::caution
-If you choose not to place the Bluebox on the same rack as the control, make sure the Bluebox is placed at approximately the same height as the SI** station at a **maximum distance of 2 meters** to ensure reliable detection of punch records.
+If you choose not to place the Bluebox on the same rack as the control, make sure the Bluebox is placed at approximately the same height as the SI** station at a **maximum distance of 2 meters\*\* to ensure reliable detection of punch records.
 :::

@@ -1,5 +1,5 @@
 ---
-sidebar_position: 2
+sidebar_position: 4
 ---
 
 # Jak nastavit radiokontrolu
@@ -14,7 +14,6 @@ Pro každou radiokontrolu potřebujete:
 
 - Jeden **[Bluebox](../blueboxes/bluebox-units)** nebo jedno zařízení se systémem Android s aplikací **[Bluebox Mobile](../byo/bluebox-mobile)**
 - Jednu nebo více SI jednotek vybavených vysílačem SRR (**BSF8-SRR** nebo novějším).
-
 
 :::info
 Některé kluby a organizátoři vlastní SRR jednotky a USB dongly pro zařízení Bluebox Mobile. Pokud nemáte vlastní, je možné si je pronajmout (viz **[informace pro organizátory](https://oresults.eu/organize)**).
@@ -49,7 +48,6 @@ Ostatní parametry mohou být nastaveny volně podle potřeb závodu.
 Ostatní parametry mohou být nastaveny volně podle potřeb závodu.
 
 <img src="/img/si-config-2.png" width="100%" />
-
 
 ## V den závodu
 

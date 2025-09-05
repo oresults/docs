@@ -10,6 +10,13 @@ Toto je oficiální uživatelská příručka **[OResults](https://oresults.eu/a
 
 <img src="/img/oresults_platform_docs.svg" width="100%" />
 
+## 🚀 Rychlý start pro organizátory
+
+**Nový v OResults?** Začněte zde pro hladké nastavení události:
+
+- 📋 **[Tahák pro organizátory](./tutorials/organizers-cheatsheet)**: Kompletní krok-za-krokem kontrolní seznam pro vaši událost
+- 📦 **[Jak získat Blueboxy](./tutorials/how-to-get-blueboxes)**: Vše o získání online kontrol pro vaši událost
+
 ## Obsah
 
 - 🎓 **[Tutoriály](./category/tutorials)**: Naučte se jak lze jednoduše organizovat závody s OResults a spoustu dalších tipů pro organizaci.
@@ -20,8 +27,5 @@ Toto je oficiální uživatelská příručka **[OResults](https://oresults.eu/a
 ## Potřebujete pomoc?
 
 Pokud máte jakékoli dotazy nebo potřebujete pomoc, **[neváhejte se na nás obrátit](https://oresults.eu/contact)**a my vám rádi pomůžeme.
-
-## Začněte hned teď! 🚀
-Jste připraveni začít používat OResults? Podívejte se na **[Jak spravovat události](./tutorials/setup.md)** a začněte organizovat svou první událost!
 
 A nezapomeňte nás sledovat na **[Instagramu](https://www.instagram.com/oresults.eu/)**, kde najdete nejnovější informace a novinky.

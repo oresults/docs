@@ -1,5 +1,5 @@
 ---
-sidebar_position: 1
+sidebar_position: 3
 ---
 
 # Jak spravovat události
@@ -40,7 +40,6 @@ V této části nastavíte událost jako **soukromou (private)** nebo **veřejno
 ### Runners & Courses
 
 Zde můžete nahrát startovní listiny, kurzy a výsledky v podporovaných formátech.
-
 
 :::caution Pozor
 **Startovní listina** a **Výsledky** musí obsahovat čísla čipů ve tagu `<ControlCard>`. Závodnící bez čísla čipu jsou ignorováni.

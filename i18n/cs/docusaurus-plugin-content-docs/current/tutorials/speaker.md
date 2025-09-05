@@ -1,5 +1,5 @@
 ---
-sidebar_position: 3
+sidebar_position: 5
 ---
 
 # Live feed pro komentátory
@@ -13,7 +13,6 @@ Přístup k Live feedu ve výsledcích události má každý.
 :::info
 Nelekejte se, že některé řádky mají více sloupců než jiné. Počet sloupců je vždy specifický pro danou třídu.
 :::
-
 
 ## Funkce
 
@@ -33,9 +32,11 @@ V **prvním sloupci** je zobrazen název **kategorie**.
 Ve **druhém sloupci** se zobrazuje **jméno** závodníka a **klub/tým**.
 
 **Následující sloupce** obsahují **mezičasy** soutěžícího. Sloupce s mezičasy se vyplňují postupně, jak závodník prochází rádiovými kontrolami.
+
 > Pokud závodník navštíví novou radio kontrolu, jeho řádek se přesune na začátek tabulky.
 
 V **posledním sloupci** jsou uvedeny **údaje o vyčtení** (`OK`, `Disqualified` a `Unread` (nevyčteno)).
+
 > Pokud se závodník objeví na **prvním, druhém nebo třetím místě** na některé z radiokontrol, **mezičas čas se podbarví** odpovídající barvou, jak je znázorněno na obrázku.
 
 :::tip
