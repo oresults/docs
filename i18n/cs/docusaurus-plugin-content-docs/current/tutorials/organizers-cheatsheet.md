@@ -45,10 +45,6 @@ Pokud nemáte online kontroly, podívejte se nejprve na [**Jak zajistit Blueboxy
    - Zapněte Blueboxy, připojte SPORTident stanici a umístěte na kontrolu.
    - Podívejte se na [**Blueboxy**](../blueboxes/bluebox-units), kde najdete rady, jak nejlépe Blueboxy umístit.
 
-:::tip Tip
-**Zapněte Bluebox než ho dáte roznašečům.** Bluebox může během roznosu ztratit signál, ale měl by se automaticky znovu připojit během několika minut.
-:::
-
 2. **🔗 Zapnout integraci ve vašem softwaru**
    - V MeOS, QuickEvent nebo OE12 se ujistěte, že je integrace OResults povolena a běží.
 3. **📊 Monitorovat stav Blueboxů**

@@ -1,8 +1,9 @@
 // @ts-check
 // Note: type annotations allow type checking and IDEs autocompletion
 
-const lightCodeTheme = require('prism-react-renderer/themes/github');
-const darkCodeTheme = require('prism-react-renderer/themes/dracula');
+const {themes} = require('prism-react-renderer');
+const lightCodeTheme = themes.github;
+const darkCodeTheme = themes.dracula;
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
@@ -11,7 +12,6 @@ const config = {
   url: 'https://docs.oresults.eu',
   baseUrl: '/',
   onBrokenLinks: 'throw',
-  onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.svg',
 
   // GitHub pages deployment config.
@@ -25,6 +25,11 @@ const config = {
   i18n: {
     defaultLocale: 'en',
     locales: ['en', 'cs'],
+  },
+  markdown: {
+    hooks: {
+      onBrokenMarkdownLinks: 'warn',
+    },
   },
 
   presets: [
@@ -74,6 +79,11 @@ const config = {
           {
             href: 'https://oresults.eu',
             label: 'OResults',
+            position: 'right',
+          },
+          {
+            href: 'https://github.com/oresults/docs',
+            label: 'GitHub',
             position: 'right',
           },
         ],

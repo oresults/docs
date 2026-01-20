@@ -45,10 +45,6 @@ If you don't have online controls, check out the [**How to get Blueboxes**](how-
    - Power up the Blueboxes, attach the SPORTident station and place it at the control.
    - See [**Blueboxes**](../blueboxes/bluebox-units) for best placement practices.
 
-:::tip
-**Switch on the Bluebox before handing it to the person delivering it to the control point.** The Bluebox may lose signal during transport, but don't worry — it should reconnect automatically within a few minutes.
-:::
-
 2. **🔗 Turn on integration in your software**
    - In MeOS, QuickEvent, or OE12, make sure the OResults integration is enabled and running.
 3. **📊 Monitor Bluebox status**
