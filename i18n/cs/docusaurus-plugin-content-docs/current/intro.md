@@ -14,15 +14,15 @@ Toto je oficiální uživatelská příručka **[OResults](https://oresults.eu/a
 
 **Nový v OResults?** Začněte zde pro hladké nastavení události:
 
-- 📋 **[Tahák pro organizátory](./tutorials/organizers-cheatsheet)**: Kompletní krok-za-krokem kontrolní seznam pro vaši událost
-- 📦 **[Jak získat Blueboxy](./tutorials/how-to-get-blueboxes)**: Vše o získání online kontrol pro vaši událost
+- **[Tahák pro organizátory](./tutorials/organizers-cheatsheet)**: Kompletní krok-za-krokem kontrolní seznam pro vaši událost
+- **[Jak získat Blueboxy](./tutorials/how-to-get-blueboxes)**: Vše o získání online kontrol pro vaši událost
 
 ## Obsah
 
-- 🎓 **[Tutoriály](./category/tutorials)**: Naučte se jak lze jednoduše organizovat závody s OResults a spoustu dalších tipů pro organizaci.
-- 💻 **[Integrace](./category/integrations)**: Objevte jak můžete OResults napojit na vámi používaný software.
-- 📡 **[Blueboxy](./category/blueboxes)**: Zjistěte jak používat naše Blueboxy.
-- 🛠️ **[Použij vlastní online kontroly](./category/bring-your-own-online-controls)**: Vše, co potřebujete vědět o použití vlastních online kontrol.
+- **[Tutoriály](./category/tutorials)**: Naučte se jak lze jednoduše organizovat závody s OResults a spoustu dalších tipů pro organizaci.
+- **[Integrace](./category/integrations)**: Objevte jak můžete OResults napojit na vámi používaný software.
+- **[Blueboxy](./category/blueboxes)**: Zjistěte jak používat naše Blueboxy.
+- **[Použij vlastní online kontroly](./category/bring-your-own-online-controls)**: Vše, co potřebujete vědět o použití vlastních online kontrol.
 
 ## Potřebujete pomoc?
 

@@ -6,7 +6,7 @@ sidebar_position: 2
 
 Tento průvodce pomáhá organizátorům rozhodnout, kolik Blueboxů potřebují, jak zařídit pronájem nebo co dělat, pokud již mají vlastní online kontroly.
 
-## 🔢 Kolik online kontrol potřebujete?
+## Kolik online kontrol potřebujete?
 
 1. **Nejlepší rozmístění pro online kontroly**
    - Dejte přibližně **3 online kontroly na každou hlavní kategorii** (např. M21E, W21E atd.).
@@ -17,9 +17,9 @@ Tento průvodce pomáhá organizátorům rozhodnout, kolik Blueboxů potřebují
    - Celorepubliková událost: **5–8 Blueboxů** (sběrka + 3 kontroly na elitní kategorii + cíl).
    - Mezinárodní událost: **10+ Blueboxů**, podle počtu kategorií, míst pro diváky a TV kontrol.
 
-## 🛠️ Získání správného vybavení pro online kontroly
+## Získání správného vybavení pro online kontroly
 
-### 🏢 Pronájem Blueboxů
+### Pronájem Blueboxů
 
 - Můžete si pronajmout Blueboxy přímo od OResults.
 - **Vyzkoušení před událostí**: Je možné si půjčit Blueboxy před vaší událostí zdarma, abyste je otestovali na tréninku nebo menší události.
@@ -40,25 +40,25 @@ Pokud vaše událost používá **kontaktní čipy**, budete potřebovat **SPORT
 **Objednávejte Blueboxy včas** — pronájmy podléhají dostupnosti, zejména během hlavní sezóny.
 :::
 
-#### 📦 Vrácení Blueboxů
+#### Vrácení Blueboxů
 
 - Vrácení pronajmutého materiálu je jednoduché přes [**Zásilkovnu**](https://www.zasilkovna.cz/):
   - Použijte vratný kód, který jste obdrželi.
   - Přineste krabici na jakoukoliv pobočku Zásilkovny, poskytněte kód a oni se postarají o vrácení za vás.
 - Pokud Zásilkovna není dostupná ve vaší zemi, kontaktujte nás pro vlastní instrukce vrácení.
 
-### 🔧 Používání vlastních online kontrol
+### Používání vlastních online kontrol
 
 Pokud již máte zařízení, která mohou fungovat jako online kontroly, máte několik možností:
 
-1. **📱 Používání telefonu s aplikací Bluebox Mobile**
+1. **Používání telefonu s aplikací Bluebox Mobile**
    - Nainstalujte **aplikaci Bluebox Mobile**.
    - Zaregistrujte svá zařízení v sekci **Admin → Devices**.
    - Pak můžete použít telefon jako online kontrolu, stejně jako pronajmutý Bluebox.
-2. **💻 Používání jiného existujícího vybavení**
+2. **Používání jiného existujícího vybavení**
    - Nejprve zkontrolujte, zda je vaše zařízení již podporováno **OResults** přímo nebo prostřednictvím **integrovaného softwaru** (např. OE12).
    - Pokud je podporován, měli byste ho snadno připojit a začít odesílat ražení.
-3. **🆕 Nová nebo nepodporovaná řešení**
+3. **Nová nebo nepodporovaná řešení**
    - Pokud máte nový typ online kontroly, nebo si nejste jisti, zda se může připojit k OResults, neváhejte nás kontaktovat.
    - Podíváme se na to a možná dokážeme společně najít řešení.
 
@@ -66,6 +66,6 @@ Pokud již máte zařízení, která mohou fungovat jako online kontroly, máte 
 OResults je dnes zdarma k použití. V budoucnu možná bude malý poplatek za připojení vlastních online kontrol — ale pokud se tak stane, organizátoři budou vždy informováni s dostatečným předstihem.
 :::
 
-## ➡️ Další kroky
+## Další kroky
 
 Pokud jste si zařídili online kontroly (buď pronajmuté Blueboxy nebo vlastní zařízení), můžete pokračovat na [**Tahák pro organizátory**](organizers-cheatsheet), který pokrývá vše, co je třeba zkontrolovat před, během a po události pro hladkou organizaci.
