@@ -18,13 +18,12 @@ Funguje pouze na mobilních zařízeních s operačním systémem `Android`.
 
 Oblíbená a velmi hojně využívaná mobilní aplikace pro zjednodušení práce při pořádání tréninku či dokonce závodu se SPORTident krabičkami. Jedná se o placenou aplikaci. Jestli appku ještě nemáš, tak neváhej a pořiď si ji. Nebudeš litovat.
 
-## SIDroid OResults Connector
+## SI-Droid Connector
 
-<img src="/img/sidroid-oresults-connector-icon
-.jpg" width="150px" alt="SIDroid OResults Connector" /> 
+<img src="/img/sidroid-connector-icon.png" width="150px" alt="SI-Droid Connector" /> 
 
 - **OS**: Android (jediný podporovaný)
-- **Download link**: **[zde](https://play.google.com/store/apps/details?id=com.yogevm15.sidroid_oresults_connector)**
+- **Download link**: **[here](https://play.google.com/store/apps/details?id=com.orienteerfeed.ofeed_sidroid_connector)**
 
 Umožňuje jednoduše propojit `SI-Droid Event` s `OResults.eu`. Stačí jen vyplnit `port` výsledkové služby SI-Droid aplikace a `Api key` z webu OResults získaný v nastavení závodu a spustit nahrávání v požadovaném intervalu.
 
@@ -52,26 +51,30 @@ Umožňuje jednoduše propojit `SI-Droid Event` s `OResults.eu`. Stačí jen vyp
   <img src="/img/si-droid-04-tick-and-copy.png" align="top" width="29%" />
 
 ### 3. Propoj výsledkovou službu s OResults a spusť nahrávání
-- Spusť aplikaci `SIDroid OResults Connector`
-- Vyplň `Api key` a číslo `port` výsledkové služby
-- Nastav posuvníkem `Upload internval` interval nahrávání v sekundách
+- Spusť aplikaci `SI-Droid Connector`
+- Otevři `Nastavení` z menu v pravém horním rohu
+- Přepni na záložku `OResults`
+- Nastav `Upload interval` interval nahrávání v sekundách, výchozí je 30s
+- Vyplň `Api key` a číslo `port` výsledkové služby, jméno akce se ukáže ihned po vložení *api key*. Nebo použij `Copy URL`, která automaticky nastaví *api key* po otevření aplikace
+<img src="/img/oresults-event-copy-url.jpg" align="top" width="30%" />
 - Tlačítkem `Start uploading` zapni nahrávání
 
-  <img src="/img/sidroid-oresults-connector-01-enter-api-key-and-port.jpg" align="top" width="30%" style={{marginRight: "15px"}} />
-  <img src="/img/sidroid-oresults-connector-02-upload-interval-and-events-log.jpg" align="top" width="30%" style={{marginRight: "15px"}} />
+  <img src="/img/sidroid-connector-setup.jpg" align="top" width="30%" style={{marginRight: "15px"}} />
+  <img src="/img/sidroid-connector-uploading.jpg" align="top" width="30%" style={{marginRight: "15px"}} />
 
 :::tip
 Okno aplikace má ve spodní části log nahrávání (každé nahrání má svůj detailní záznam).
 :::
+Podorbný log je možné zobrazit i přes možnosti `Show log` a `HTTP log` v menu.
 
 :::tip
-Aplikace `SIDroid OResults Connector` automaticky generuje unikátní `reg. číslo` pro každého závodníka, takže ho již není nutné ručně přidávat pro závodníky běžící bez čipu.
+Aplikace `SI-Droid Connector` automaticky generuje unikátní `reg. číslo` pro každého závodníka, takže ho již není nutné ručně přidávat pro závodníky běžící bez čipu. Jen je potřeba nastavit.
 :::
 
 ### 4. Sdílej závod
 - využij přímé možnosti tisku QR kódu s odkazem na Tvůj závod nebo kód přidej na web závodu
 
-<img src="/img/oresults-event-apikey.jpg" align="top" width="30%" />
+<img src="/img/oresults-event-print.jpg" align="top" width="30%" />
 
 :::danger Důležité
 Nezapomeň přepnout `Is Published` až budeš chtít závod zveřejnit.

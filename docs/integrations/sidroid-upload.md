@@ -18,13 +18,12 @@ It works only on mobile devices with `Android` operating system.
 
 Favorite and very popular mobile app that is used to arrange orienteering events with SPORTident units. The app is paid, but the investment is definitely worth it and it's lifetime. Just buy it if you don't already have it, you won't regret.
 
-## SIDroid OResults Connector
+## SI-Droid Connector
 
-<img src="/img/sidroid-oresults-connector-icon
-.jpg" width="150px" alt="SIDroid OResults Connector" /> 
+<img src="/img/sidroid-connector-icon.png" width="150px" alt="SI-Droid Connector" /> 
 
 - **OS**: Android (the only supported)
-- **Download link**: **[here](https://play.google.com/store/apps/details?id=com.yogevm15.sidroid_oresults_connector)**
+- **Download link**: **[here](https://play.google.com/store/apps/details?id=com.orienteerfeed.ofeed_sidroid_connector)**
 
 Connect between `OResults.eu` and `SI-Droid Event` easily.
 Just fill the SI-Droid result service `port` and OResults.eu event `Api Key` and start uploading!
@@ -53,26 +52,30 @@ Just fill the SI-Droid result service `port` and OResults.eu event `Api Key` and
   <img src="/img/si-droid-04-tick-and-copy.png" align="top" width="29%" />
 
 ### 3. Connect result service to OResults and start uploading
-- Open the `SIDroid OResults Connector` app
-- Paste both the `Api key` and the `Port` into their respective input fields.
-- Choose the `Upload internval` speed
+- Open the `SI-Droid Connector` app and confirm Android permission
+- Open `Settings` in the upper right corner
+- Switch to `OResults` tab
+- Choose the `Upload interval`, default is 30s
+- Paste both the `Api key` and the `Port` into their respective input fields, the event name will appear immidiately after entering the key. Or use `Copy URL` that automatically updates the api key when opening the app
+  <img src="/img/oresults-event-copy-url.jpg" align="top" width="30%" />
 - Click the `Start uploading` button and the uploading will start!
 
-  <img src="/img/sidroid-oresults-connector-01-enter-api-key-and-port.jpg" align="top" width="30%" style={{marginRight: "15px"}} />
-  <img src="/img/sidroid-oresults-connector-02-upload-interval-and-events-log.jpg" align="top" width="30%" style={{marginRight: "15px"}} />
+  <img src="/img/sidroid-connector-setup.jpg" align="top" width="30%" style={{marginRight: "15px"}} />
+  <img src="/img/sidroid-connector-uploading.jpg" align="top" width="30%" style={{marginRight: "15px"}} />
 
 :::tip
-You can view the upload's log in the bottom of the app (each upload log has a detailed report).
+You can view the upload's log in the bottom of the app.
 :::
+Detailed log is available in the menu under `Show log` or `HTTP log` options.
 
 :::tip
-`SIDroid OResults Connector` app automatically generates an `External id` to each competitor, so there is not need to enter manually external id's to participants without a card.
+`SI-Droid Connector` app automatically generates an `External id` to each competitor, so there is not need to manually enter external id's to participants without a card. You just have to check the checkbox is the settings.
 :::
 
 ### 4. Share event
 - use built-in QR Code generator and print the code or share in on event webpage
 
-<img src="/img/oresults-event-apikey.jpg" align="top" width="30%" style={{marginRight: "15px", marginBottom: "15px"}}/>
+<img src="/img/oresults-event-print.jpg" align="top" width="30%" style={{marginRight: "15px", marginBottom: "15px"}}/>
 
 :::danger Important
 Don't forget to switch `Is Published` if you want to publish the event.
