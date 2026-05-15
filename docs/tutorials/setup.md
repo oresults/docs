@@ -46,7 +46,7 @@ Here you can upload startlists, courses and results in supported formats.
 :::
 
 :::tip
-- SI station with codes **1-28** are automatically selected as **finish control.**
+- SI station with codes **1-20** are automatically selected as **finish control.**
 - SI station with code **29** is selected as a **start control** (in case there is punch start).
 :::
 

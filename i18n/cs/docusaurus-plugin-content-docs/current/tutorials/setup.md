@@ -46,7 +46,7 @@ Zde můžete nahrát startovní listiny, kurzy a výsledky v podporovaných form
 :::
 
 :::tip
-- SI krabičky s kódy **1-28** jsou automaticky zařazeny jako **cílová kontrola.**
+- SI krabičky s kódy **1-20** jsou automaticky zařazeny jako **cílová kontrola.**
 - SI krabičky s kódem **29** je zařazena jako **startovací krabička** (v případě startovací krabičky).
 :::
 
